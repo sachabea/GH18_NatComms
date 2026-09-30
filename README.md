@@ -40,8 +40,7 @@ code/                              analysis notebooks and scripts, in pipeline o
   03_ssn_architecture_diversity.ipynb     Simpson's diversity per SSN cluster
   04_domain_promiscuity_phi.ipynb         domain versatility (φ) + dereplication stability
   05_master_annotation_categories.ipynb   broad functional categories, enrichment tests
-  06_eukaryote_domain_analyses.ipynb      eukaryotic dataset, Fig. 2d/2e panels
-  07_eukaryote_cluster_partitioning.ipynb eukaryotic SSN cluster composition
+  06_eukaryote_cluster_and_promiscuity.ipynb      eukaryotic dataset, Fig. 2d/2e panels
   phylogenetics/                          IQ-TREE commands, tree-label utility
   phylo_traits/                           R: phylogenetic trait analyses (01–04)
 
