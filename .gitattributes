@@ -1,0 +1,19 @@
+# Treat analysis outputs as data, not source, in diffs and language stats.
+*.ipynb   linguist-documentation
+*.csv     -diff linguist-generated
+*.tsv     -diff linguist-generated
+*.fasta   -diff linguist-generated
+*.hmm     -diff linguist-generated
+*.nwk     -diff linguist-generated
+*.treefile -diff linguist-generated
+*.contree -diff linguist-generated
+*.nex     -diff linguist-generated
+*.treels  -diff linguist-generated
+*.rds     binary
+*.png     binary
+
+# Normalise line endings for text we do edit.
+*.R       text eol=lf
+*.py      text eol=lf
+*.sh      text eol=lf
+*.md      text eol=lf

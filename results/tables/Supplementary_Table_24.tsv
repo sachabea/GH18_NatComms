@@ -1,0 +1,57 @@
+InDel Class	Broad category	Direction	Count (% of class)	Log2(odds ratio)	FDR (p-value)
+A	Lectins (β-trefoil / jacalin / C-type / others)	enriched	454 (8.9%)	2.41	1.3e-137
+A	Carbohydrate-binding modules (CBMs) — glycan grips	enriched	3037 (60%)	1.98	0
+A	Outer-layer/periplasmic envelope helpers	depleted	0 (0%)	-6.07	5.3e-14
+A	Peptidoglycan-/cell-wall binding and SH3b group	depleted	61 (1.2%)	-4.1	1.4e-298
+A	Cellulosome / cellulolytic apparatus add-ons	depleted	0 (0%)	-3.87	0.0023
+A	Catalytic partner domains (non-GH18)	depleted	35 (0.69%)	-3.31	1.8e-93
+A	DNA/RNA-binding & regulators occasionally fused	depleted	0 (0%)	-3.24	0.025
+B	Outer-layer/periplasmic envelope helpers	enriched	125 (1.1%)	1.25	1.4e-12
+B	Ig-like & related β-sandwich scaffolds (adhesion, spacing)	enriched	4330 (37%)	1.01	1e-203
+B	Unknowns / DUFs / broad structure-only calls	enriched	734 (6.3%)	0.94	2.5e-40
+B	Carbohydrate-binding modules (CBMs) — glycan grips	enriched	4524 (39%)	0.7	1.3e-106
+B	Peptidoglycan-/cell-wall binding and SH3b group	depleted	43 (0.37%)	-6.07	0
+B	Redox/stress/metal helpers	depleted	0 (0%)	-4.55	0.00012
+B	Catalytic partner domains (non-GH18)	depleted	88 (0.76%)	-3.39	3.5e-224
+B	Cellulosome / cellulolytic apparatus add-ons	depleted	4 (0.034%)	-2.02	0.00089
+B	Repeat/stalk & coiled-coil/IDRs (mechanical spacing)	depleted	8 (0.069%)	-1.82	5.2e-05
+C	Redox/stress/metal helpers	enriched	37 (0.23%)	4.25	4.7e-15
+C	Cellulosome / cellulolytic apparatus add-ons	enriched	38 (0.23%)	1.52	2.6e-05
+C	Repeat/stalk & coiled-coil/IDRs (mechanical spacing)	enriched	63 (0.39%)	1.49	9.8e-08
+C	DNA/RNA-binding & regulators occasionally fused	enriched	22 (0.14%)	1.19	0.01
+C	Ig-like & related β-sandwich scaffolds (adhesion, spacing)	enriched	5992 (37%)	1.14	1.2e-312
+C	Outer-layer/periplasmic envelope helpers	depleted	8 (0.049%)	-3.99	3.5e-37
+C	Catalytic partner domains (non-GH18)	depleted	317 (2%)	-2.06	1.2e-175
+C	Peptidoglycan-/cell-wall binding and SH3b group	depleted	1135 (7%)	-1.69	0
+D	Carbohydrate-binding modules (CBMs) — glycan grips	enriched	1685 (57%)	1.69	7.9e-204
+D	Ig-like & related β-sandwich scaffolds (adhesion, spacing)	enriched	928 (31%)	0.4	7.8e-11
+D	Peptidoglycan-/cell-wall binding and SH3b group	depleted	2 (0.067%)	-7.89	1.2e-222
+D	Outer-layer/periplasmic envelope helpers	depleted	0 (0%)	-5.23	3.7e-08
+D	Unknowns / DUFs / broad structure-only calls	depleted	6 (0.2%)	-4.35	9.9e-45
+D	Catalytic partner domains (non-GH18)	depleted	13 (0.44%)	-3.88	2.2e-61
+D	Repeat/stalk & coiled-coil/IDRs (mechanical spacing)	depleted	0 (0%)	-3.77	0.0042
+E	Carbohydrate-binding modules (CBMs) — glycan grips	enriched	1490 (53%)	1.46	5.1e-145
+E	Ig-like & related β-sandwich scaffolds (adhesion, spacing)	enriched	1047 (37%)	0.82	7.1e-42
+E	Unknowns / DUFs / broad structure-only calls	depleted	0 (0%)	-7.96	1.5e-51
+E	Lectins (β-trefoil / jacalin / C-type / others)	depleted	0 (0%)	-7.25	1.3e-31
+E	Catalytic partner domains (non-GH18)	depleted	2 (0.071%)	-6.23	1.5e-72
+E	Outer-layer/periplasmic envelope helpers	depleted	0 (0%)	-5.14	1.2e-07
+E	Peptidoglycan-/cell-wall binding and SH3b group	depleted	27 (0.96%)	-4.33	1.8e-168
+F	Cellulosome / cellulolytic apparatus add-ons	enriched	20 (2%)	4.49	2.2e-18
+F	Repeat/stalk & coiled-coil/IDRs (mechanical spacing)	enriched	8 (0.8%)	2.06	0.0021
+F	Surface anchoring & secretion/sorting systems	enriched	346 (35%)	1.72	3e-59
+F	Outer-layer/periplasmic envelope helpers	enriched	14 (1.4%)	1.35	0.0037
+F	Unknowns / DUFs / broad structure-only calls	enriched	71 (7.1%)	0.9	7.4e-06
+F	Carbohydrate-binding modules (CBMs) — glycan grips	depleted	20 (2%)	-4.42	2.1e-124
+F	Peptidoglycan-/cell-wall binding and SH3b group	depleted	76 (7.6%)	-1.19	3e-14
+F	Catalytic partner domains (non-GH18)	depleted	43 (4.3%)	-0.49	0.032
+G	Peptidoglycan-/cell-wall binding and SH3b group	enriched	6995 (53%)	4.99	0
+G	Catalytic partner domains (non-GH18)	enriched	2658 (20%)	4.3	0
+G	Outer-layer/periplasmic envelope helpers	enriched	166 (1.3%)	1.77	1.2e-25
+G	DNA/RNA-binding & regulators occasionally fused	enriched	18 (0.14%)	1.06	0.028
+G	Surface anchoring & secretion/sorting systems	enriched	2340 (18%)	0.5	4.1e-35
+G	Carbohydrate-binding modules (CBMs) — glycan grips	depleted	41 (0.31%)	-7.76	0
+G	Ig-like & related β-sandwich scaffolds (adhesion, spacing)	depleted	230 (1.7%)	-4.87	0
+G	Redox/stress/metal helpers	depleted	2 (0.015%)	-2.4	0.0023
+G	Cellulosome / cellulolytic apparatus add-ons	depleted	6 (0.045%)	-1.69	0.0016
+G	Lectins (β-trefoil / jacalin / C-type / others)	depleted	131 (0.99%)	-1.63	1.7e-44

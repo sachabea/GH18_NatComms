@@ -1,0 +1,36 @@
+﻿InDel Class,Phylum,count,Proportion of InDel Class (%)
+A,Actinomycetota,2880,85.77
+A,Pseudomonadota,270,8.04
+A,Bacillota,98,2.92
+A,Methanobacteriota,52,1.55
+A,Chloroflexota,26,0.77
+B,Actinomycetota,4117,54.23
+B,Pseudomonadota,1442,18.99
+B,Bacteroidota,877,11.55
+B,Bacillota,799,10.52
+B,Chloroflexota,90,1.19
+C,Pseudomonadota,4330,41.28
+C,Bacteroidota,2009,19.15
+C,Bacillota,1986,18.93
+C,Actinomycetota,957,9.12
+C,Myxococcota,195,1.86
+D,Actinomycetota,1776,75.06
+D,Pseudomonadota,415,17.54
+D,Myxococcota,55,2.32
+D,Acidobacteriota,53,2.24
+D,Chloroflexota,31,1.31
+E,Actinomycetota,2414,97.85
+E,Pseudomonadota,36,1.46
+E,Chloroflexota,8,0.32
+E,Myxococcota,6,0.24
+E,Bacillota,2,0.08
+F,Bacteroidota,356,31.93
+F,Chloroflexota,165,14.8
+F,Fidelibacterota,67,6.01
+F,Ignavibacteriota,60,5.38
+F,candidate division WWE3,39,3.5
+G,Bacillota,7364,67.42
+G,Actinomycetota,652,5.97
+G,Pseudomonadota,641,5.87
+G,Bacteroidota,599,5.48
+G,Spirochaetota,391,3.58

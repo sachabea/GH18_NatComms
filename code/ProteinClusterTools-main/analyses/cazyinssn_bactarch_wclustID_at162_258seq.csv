@@ -1,0 +1,259 @@
+,Taxa,Protein_Name,EC_Number,Reference_Type,Organism,GenBank_Accessions,Uniprot_Accessions,PDB_3D,Cazy_id,id,cluster,header,fastaID
+0,Archaea,chitinase (ChiN1;Chi;VNG_0816G;Vng0816g),3.2.1.14,doi,Halobacterium salinarum NRC-1,AAG19274.1; NP_279794.1,Q9HR84,,Q9HR84,37411,0,Q9HR84|1of1,Q9HR84|1of1
+1,Archaea,chitinase (Chia1;HsChiA1;OE2201F),3.2.1.14,pubmed,Halobacterium salinarum R1,CAP13543.1,B0R478,,B0R478,35343,0,B0R478|1of1,B0R478|1of1
+2,Archaea,HFX_5038 (ChiCHme),3.2.1.14,pubmed,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,AFK20875.1; QCQ77304.1,I3R9G5,,I3R9G5,36454,0,I3R9G5|1of1,I3R9G5|1of1
+3,Archaea,HFX_5039 (ChiDHme),3.2.1.14,pubmed,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,AFK20876.1; QCQ77305.1,I3R9G6,,I3R9G6,36455,0,I3R9G6|1of1,I3R9G6|1of1
+4,Archaea,HFX_5039 (ChiDHme),3.2.1.14,pubmed,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,AFK20876.1; QCQ77305.1,M0JBD1,,M0JBD1,36787,0,M0JBD1|1of1,M0JBD1|1of1
+5,Archaea,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),3.2.1.14,pubmed; pubmed,Pyrococcus furiosus DSM 3638,AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,Q8U1H4,,Q8U1H4,37377,0,Q8U1H4|1of1,Q8U1H4|1of1
+6,Archaea,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),3.2.1.14,pubmed; pubmed,Pyrococcus furiosus DSM 3638,AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,Q8U1H5,,Q8U1H5,37378,0,Q8U1H5|1of2,Q8U1H5|1of2
+7,Archaea,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),3.2.1.14,pubmed; pubmed,Pyrococcus furiosus DSM 3638,AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,Q8U1H5,,Q8U1H5,37379,3,Q8U1H5|2of2,Q8U1H5|2of2
+8,Archaea,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),3.2.1.14,pubmed; pubmed,Pyrococcus furiosus DSM 3638,AAL81357.1; NP_578962.1; WP_011012376.1,Q8U1H5,"2DSK[A,B]; 3A4W[A,B]; 3A4X[A,B]; 3AFB[A,B]",Q8U1H5,37378,0,Q8U1H5|1of2,Q8U1H5|1of2
+9,Archaea,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),3.2.1.14,pubmed; pubmed,Pyrococcus furiosus DSM 3638,AAL81357.1; NP_578962.1; WP_011012376.1,Q8U1H5,"2DSK[A,B]; 3A4W[A,B]; 3A4X[A,B]; 3AFB[A,B]",Q8U1H5,37379,3,Q8U1H5|2of2,Q8U1H5|2of2
+10,Archaea,chitinase A (ChiA;TK1765),3.2.1.200,pubmed,Thermococcus kodakarensis KOD1,BAD85954.1; CAT70561.1,Q9UWR7,,Q9UWR7,37456,0,Q9UWR7|1of2,Q9UWR7|1of2
+11,Archaea,chitinase A (ChiA;TK1765),3.2.1.200,pubmed,Thermococcus kodakarensis KOD1,BAD85954.1; CAT70561.1,Q9UWR7,,Q9UWR7,37457,3,Q9UWR7|2of2,Q9UWR7|2of2
+12,Archaea,chitinase A (ChiA;TK1765),3.2.1.14,pubmed,Thermococcus kodakarensis KOD1,BAD85954.1; CAT70561.1,Q9UWR7,,Q9UWR7,37456,0,Q9UWR7|1of2,Q9UWR7|1of2
+13,Archaea,chitinase A (ChiA;TK1765),3.2.1.14,pubmed,Thermococcus kodakarensis KOD1,BAD85954.1; CAT70561.1,Q9UWR7,,Q9UWR7,37457,3,Q9UWR7|2of2,Q9UWR7|2of2
+14,Bacteria,chitinase A (ChiA; Cthe_0270) (Chi18A),3.2.1.14,pubmed,Acetivibrio thermocellus ATCC 27405,CAA93150.1; ABN51509.1,A3DC30,,A3DC30,35149,0,A3DC30|1of1,A3DC30|1of1
+15,Bacteria,chitinase A (ChiA; Cthe_0270) (Chi18A),3.2.1.14,pubmed,Acetivibrio thermocellus ATCC 27405,CAA93150.1; ABN51509.1,Q59326,,Q59326,37135,0,Q59326|1of1,Q59326|1of1
+16,Bacteria,chitinase (Chi1),3.2.1.14,pubmed,Aeromonas caviae CB101,CAD58828.1,Q8GHI4,,Q8GHI4,37355,0,Q8GHI4|1of1,Q8GHI4|1of1
+17,Bacteria,chitinase A (ChiA;AcD1ChiA),3.2.1.14,pubmed,Aeromonas caviae K1 / D1,AAA93130.1,Q43919,,Q43919,37119,0,Q43919|1of1,Q43919|1of1
+18,Bacteria,chitinase (ChiA),3.2.1.14,doi,Aeromonas hydrophila JMP636,AAF70180.1; AAE36542.1,Q9L5D5,,Q9L5D5,37426,0,Q9L5D5|1of1,Q9L5D5|1of1
+19,Bacteria,chitinase 92 (Chi92),3.2.1.14,pubmed,Aeromonas hydrophila JP101,AAG09437.1,Q9F9Q8,,Q9F9Q8,37407,0,Q9F9Q8|1of1,Q9F9Q8|1of1
+20,Bacteria,chitinase (Chi-A;AHA_0977),3.2.1.14,pubmed,Aeromonas hydrophila subsp. hydrophila ATCC 7966,ABK39408.1,A0KGX3,,A0KGX3,35118,0,A0KGX3|1of1,A0KGX3|1of1
+21,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Aeromonas hydrophila SUWA-9,BAE87051.1,Q25BN2,,Q25BN2,37083,0,Q25BN2|1of1,Q25BN2|1of1
+22,Bacteria,hexaoligochitin-producing chitinase (ASCHI61) (partial),3.2.1.14,pubmed,Aeromonas schubertii,ABF29701.1,D2CFK8,,D2CFK8,35661,3,D2CFK8|1of1,D2CFK8|1of1
+23,Bacteria,chitinase (ChiCD3),3.2.1.14,doi,Aeromonas sp. CD3 / Aeromonas veronii CD3,ACR33067.1,D2DJ38,,D2DJ38,35662,0,D2DJ38|1of1,D2DJ38|1of1
+24,Bacteria,endochitinase A (AsChi18A; VSAL_I0757),3.2.1.14,pubmed,Aliivibrio salmonicida LFI1238,CAQ78442.1,B6EH15,,B6EH15,35449,2,B6EH15|1of1,B6EH15|1of1
+25,Bacteria,chitinase (ChitiA),3.2.1.14,pubmed,Arthrobacter sp. TAD20,CAB62382.1,Q9RMB8,,Q9RMB8,37453,0,Q9RMB8|1of1,Q9RMB8|1of1
+26,Bacteria,chitinase (ChitiB),3.2.1.14,pubmed,Arthrobacter sp. TAD20,CAB62499.1,Q9REI6,1KFW[A],Q9REI6,37433,0,Q9REI6|1of1,Q9REI6|1of1
+27,Bacteria,N-acetylglucosaminidase / spore cortex-lytic enzyme (SleL; YaaH; BAS3402),3.2.1.-,pubmed,Bacillus anthracis str. Sterne,AAT55709.1; AJH43466.1,P0DPJ9,,P0DPJ9,36993,1,P0DPJ9|1of1,P0DPJ9|1of1
+28,Bacteria,chitinase CW (ChiCW),3.2.1.14,pubmed,Bacillus cereus 28-9,AAM48520.2,Q8KVU8,,Q8KVU8,37362,0,Q8KVU8|1of1,Q8KVU8|1of1
+29,Bacteria,chitinase CH (ChiCH),3.2.1.14,pubmed,Bacillus cereus 28-9,AAP47142.1,Q7X4L4,,Q7X4L4,37314,2,Q7X4L4|1of1,Q7X4L4|1of1
+30,Bacteria,exochitinase (BC3725),3.2.1.14,pubmed,Bacillus cereus ATCC 14579,AAP10651.1; NP_833450.1,Q81A65,,Q81A65,37318,2,Q81A65|1of1,Q81A65|1of1
+31,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Bacillus cereus CH,BAB16891.1,Q9FAC8,,Q9FAC8,37408,0,Q9FAC8|1of1,Q9FAC8|1of1
+32,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Bacillus cereus CH,BAB16890.1,Q9FAC9,,Q9FAC9,37409,2,Q9FAC9|1of1,Q9FAC9|1of1
+33,Bacteria,cortical lytic enzyme / N-acetylglucosaminidase (CFLE; SleL),3.2.1.-,pubmed,Bacillus cereus IFO13579,BAA92376.1,Q9K3E4,,Q9K3E4,37413,1,Q9K3E4|1of1,Q9K3E4|1of1
+34,Bacteria,chitinase (ChiNCTU2),3.2.1.14,pubmed,Bacillus cereus NCTU2 / 42,ACY39278.1,D0VV09,3N11[A]; 3N12[A]; 3N13[A]; 3N15[A]; 3N17[A]; 3N18[A]; 3N1A[A],D0VV09,35635,2,D0VV09|1of1,D0VV09|1of1
+35,Bacteria,chitinase (ChiL),3.2.1.14,pubmed,Bacillus cf. pumilus SG2,ABF50676.1; ABI15083.1,Q0MRC2,,Q0MRC2,37037,0,Q0MRC2|1of1,Q0MRC2|1of1
+36,Bacteria,chitinase (ChiL),3.2.1.14,pubmed,Bacillus cf. pumilus SG2,ABF50676.1; ABI15083.1,Q1HFN7,,Q1HFN7,37063,0,Q1HFN7|1of1,Q1HFN7|1of1
+37,Bacteria,bifunctional chitinase / lysozyme (ChiS),3.2.1.14; 3.2.1.-,pubmed; pubmed,Bacillus cf. pumilus SG2,ABI15082.1; ABC86581.1,Q0MRC3,,Q0MRC3,37038,0,Q0MRC3|1of1,Q0MRC3|1of1
+38,Bacteria,bifunctional chitinase / lysozyme (ChiS),3.2.1.14; 3.2.1.-,pubmed; pubmed,Bacillus cf. pumilus SG2,ABI15082.1; ABC86581.1,Q2I0I7,,Q2I0I7,37096,0,Q2I0I7|1of1,Q2I0I7|1of1
+39,Bacteria,chitinase 1 (Chi; Chi1; YvbX; BliCHI; BLi00338; BL01685),3.2.1.14,pubmed,Bacillus licheniformis DSM 13 = ATCC 14580,AAU21943.2; AAU21943.1; AAU39296.1; ACR87900.1; ACW83016.1; CAF05579.1; CAV28467.1,A5A699,,A5A699,35185,0,A5A699|1of1,A5A699|1of1
+40,Bacteria,chitinase 1 (Chi; Chi1; YvbX; BliCHI; BLi00338; BL01685),3.2.1.14,pubmed,Bacillus licheniformis DSM 13 = ATCC 14580,AAU21943.2; AAU21943.1; AAU39296.1; ACR87900.1; ACW83016.1; CAF05579.1; CAV28467.1,D0EW66,,D0EW66,35624,0,D0EW66|1of1,D0EW66|1of1
+41,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Bacillus licheniformis DSM 8785,ACK44109.1,B7UB89,,B7UB89,35475,0,B7UB89|1of1,B7UB89|1of1
+42,Bacteria,chitinase A-BL3 (ChiA;ChiA-BL3),3.2.1.14,pubmed,Bacillus licheniformis MS-3,ACI24006.1,B6DXA5,,B6DXA5,35448,0,B6DXA5|1of1,B6DXA5|1of1
+43,Bacteria,chitinase (ChiMY;ChiB),3.2.1.14,pubmed,Bacillus licheniformis MY75,ACF40833.1,B5A7P1,,B5A7P1,35420,0,B5A7P1|1of1,B5A7P1|1of1
+44,Bacteria,chitinase,3.2.1.14,doi,Bacillus licheniformis N1,ACU43581.1,C8CAY2,,C8CAY2,35603,0,C8CAY2|1of1,C8CAY2|1of1
+45,Bacteria,chitinase B (ChiB; Chi72; Chi66; Chi58),3.2.1.14,pubmed,Bacillus licheniformis SK-1,ABJ74158.1,Q1EM71,,Q1EM71,37060,0,Q1EM71|1of1,Q1EM71|1of1
+46,Bacteria,chitinase (ChiL;ChiLm),3.2.1.14,pubmed,Bacillus sp. AV2-9,AFK64770.1,I3UID2,,I3UID2,36456,0,I3UID2|1of1,I3UID2|1of1
+47,Bacteria,chitinase (Chisb;Chi) (chitobiose-producing),3.2.1.132,pubmed,Bacillus sp. DAU101,ABC66095.1,A0EQW8,,A0EQW8,35117,0,A0EQW8|1of1,A0EQW8|1of1
+48,Bacteria,chitinase (Chi-1;SCChi-1),3.2.1.14,pubmed,Bacillus sp. SC081 / Bacillus atrophaeus SC081,ADJ56636.1,D8V3F2,,D8V3F2,35833,0,D8V3F2|1of1,D8V3F2|1of1
+49,Bacteria,chitinase (Chi113),3.2.1.14,pubmed,Bacillus subtilis AP113,ABG57262.1,Q0Q2G5,,Q0Q2G5,37040,0,Q0Q2G5|1of1,Q0Q2G5|1of1
+50,Bacteria,chitinase (Chi) (Chi18),3.2.1.14,pubmed,Bacillus subtilis CHU26,AAC23715.1,O85500,,O85500,36989,0,O85500|1of1,O85500|1of1
+51,Bacteria,chitinase,3.2.1.14,pubmed,Bacillus thuringiensis 97243-1,ACA34287.1,B1PBV0,,B1PBV0,35373,0,B1PBV0|1of1,B1PBV0|1of1
+52,Bacteria,chitinase (ChiA74;Chi),3.2.1.14,pubmed,Bacillus thuringiensis LBIT-82,AAL17867.1; AAL71886.2; ABO21095.1,A0AB36TST2,"6BT9[A,B]",A0AB36TST2,34853,0,A0AB36TST2|1of1,A0AB36TST2|1of1
+53,Bacteria,chitinase (ChiA74;Chi),3.2.1.14,pubmed,Bacillus thuringiensis LBIT-82,AAL17867.1; AAL71886.2; ABO21095.1,A4GT76,"6BT9[A,B]",A4GT76,35170,0,A4GT76|1of1,A4GT76|1of1
+54,Bacteria,chitinase (ChiA74;Chi),3.2.1.14,pubmed,Bacillus thuringiensis LBIT-82,AAL17867.1; AAL71886.2; ABO21095.1,Q8RSX8,"6BT9[A,B]",Q8RSX8,37376,0,Q8RSX8|1of1,Q8RSX8|1of1
+55,Bacteria,chitinase (ChiA74;Chi),3.2.1.14,pubmed,Bacillus thuringiensis LBIT-82,AAL17867.1; AAL71886.2; ABO21095.1,Q93AD3,"6BT9[A,B]",Q93AD3,37393,0,Q93AD3|1of1,Q93AD3|1of1
+56,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Bacillus thuringiensis serovar colmeri 15A3,ABF57674.1,Q1G154,,Q1G154,37061,0,Q1G154|1of1,Q1G154|1of1
+57,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Bacillus thuringiensis serovar colmeri 15A3,ABM05818.1,A1YLR3,,A1YLR3,35139,2,A1YLR3|1of1,A1YLR3|1of1
+58,Bacteria,chitinase (Schi;Kchi),3.2.1.14,doi,Bacillus thuringiensis serovar kurstaki,AAO34713.1,Q84FN2,,Q84FN2,37336,0,Q84FN2|1of1,Q84FN2|1of1
+59,Bacteria,chitinase (Chi;BtCHI) (partial),3.2.1.14,pubmed,Bacillus thuringiensis serovar kurstaki,ACW83014.1,D0EW64,,D0EW64,35623,0,D0EW64|1of1,D0EW64|1of1
+60,Bacteria,chitobiosidase / exochitinase (Chi255),3.2.1.14; 3.2.1.200,pubmed; pubmed,Bacillus thuringiensis serovar kurstaki BUPM255,CAG25670.1,Q3MTV5,,Q3MTV5,37117,0,Q3MTV5|1of1,Q3MTV5|1of1
+61,Bacteria,chitinase (ChiA;ChiA-HD73),3.2.1.14,pubmed,Bacillus thuringiensis serovar kurstaki HD-73,ABQ65137.2,A5YRG4,,A5YRG4,35207,0,A5YRG4|1of1,A5YRG4|1of1
+62,Bacteria,chitinase (Chi9602;Chi),3.2.1.14,pubmed,Bacillus thuringiensis serovar tenebrionis 9602,AHA95666.1,V5NZX0,,V5NZX0,37947,0,V5NZX0|1of1,V5NZX0|1of1
+63,Bacteria,chitinase (Chi),3.2.1.14,pubmed,Bacillus thuringiensis SUBSP. PAKISTANI,AAB58579.1,O07088,,O07088,36977,0,O07088|1of1,O07088|1of1
+64,Bacteria,endo-β-N-acetylglucosaminidase (BT1285; BT_1285),3.2.1.96,pubmed,Bacteroides thetaiotaomicron VPI-5482,AAO76392.1; NP_810198.1,Q8A889,"8U46[A]; 8U47[A]; 8U48[A,B]; 8U9F[A]",Q8A889,37348,4,Q8A889|1of1,Q8A889|1of1
+65,Bacteria,endoglycosidase (EndoBI-1; Blon_2468),3.2.1.96,pubmed,Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088,ACJ53522.1,B7GPC7,,B7GPC7,35453,14,B7GPC7|1of1,B7GPC7|1of1
+66,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Brevibacillus laterosporus M64,AKN21157.1,A0A0H3YJ45,,A0A0H3YJ45,1191,0,A0A0H3YJ45|1of1,A0A0H3YJ45|1of1
+67,Bacteria,chitinase (ChiC),3.2.1.14,pubmed,Brevibacillus laterosporus M9,AKN79540.1,A0A0H4CS66,,A0A0H4CS66,1200,0,A0A0H4CS66|1of1,A0A0H4CS66|1of1
+68,Bacteria,chitinase 72A (Chi72A),3.2.1.14,doi,Brevibacillus sp. CDY64,AKN79541.1,A0A0H4CPE0,,A0A0H4CPE0,1199,0,A0A0H4CPE0|1of1,A0A0H4CPE0|1of1
+69,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Cellulomonas uda ATCC 21399,AAG27061.2,Q9EY44,,Q9EY44,37403,0,Q9EY44|1of1,Q9EY44|1of1
+70,Bacteria,chitinase 18A (CjChi18A; CJA_1182) (Chi18A),3.2.1.14,pubmed,Cellvibrio japonicus Ueda107,ACE83143.1,B3PBW8,,B3PBW8,35405,0,B3PBW8|1of1,B3PBW8|1of1
+71,Bacteria,chitinase 18B (CjChi18B; CJA_0988) (Chi18B),3.2.1.14,pubmed,Cellvibrio japonicus Ueda107,ACE84354.1,B3PB16,,B3PB16,35404,0,B3PB16|1of1,B3PB16|1of1
+72,Bacteria,chitinase 18C (CjChi18C; CJA_2993) (Chi18C),3.2.1.14,pubmed,Cellvibrio japonicus Ueda107,ACE85832.1,B3PCT3,,B3PCT3,35406,2,B3PCT3|1of1,B3PCT3|1of1
+73,Bacteria,chitinase 18D (CjChi18D; CJA_2611) (Chi18D),3.2.1.14,pubmed,Cellvibrio japonicus Ueda107,ACE85899.1,B3PLJ1,,B3PLJ1,35407,0,B3PLJ1|1of1,B3PLJ1|1of1
+74,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53879.1,F8WSP2,,F8WSP2,36164,0,F8WSP2|1of1,F8WSP2|1of1
+75,Bacteria,ChiB,3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53886.1; BAK53886.2,F8WSP9,,F8WSP9,36165,0,F8WSP9|1of1,F8WSP9|1of1
+76,Bacteria,chitinase C (ChiC),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53887.1,F8WSQ0,,F8WSQ0,36166,0,F8WSQ0|1of1,F8WSQ0|1of1
+77,Bacteria,chitobiose-producing exo-chitinase E (ChiE),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53889.1,F8WSQ2,,F8WSQ2,36168,2,F8WSQ2|1of1,F8WSQ2|1of1
+78,Bacteria,endo/exo-chitinase G (ChiG),3.2.1.14; 3.2.1.200; 3.2.1.-,pubmed; pubmed; pubmed,Chitiniphilus shinanonensis SAY3,BAK53891.1,F8WSQ4,,F8WSQ4,36169,3,F8WSQ4|1of1,F8WSQ4|1of1
+79,Bacteria,chitobiose-producing chitinase J (ChiJ),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53931.1; BAK53931.2,F8WSU4,,F8WSU4,36171,0,F8WSU4|1of1,F8WSU4|1of1
+80,Bacteria,chitinase K (ChiK),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53933.1,F8WSU6,,F8WSU6,36172,0,F8WSU6|1of1,F8WSU6|1of1
+81,Bacteria,chitinase L (ChiL; CsChiL),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53954.1,F8WSX2,"6KST[A,B]; 6KXL[A,B]; 6KXM[A,B]; 6KXN[A,B]",F8WSX2,36174,0,F8WSX2|1of1,F8WSX2|1of1
+82,Bacteria,chitinase O (ChiO),3.2.1.14,pubmed,Chitiniphilus shinanonensis SAY3,BAK53970.1,F8WSY3,,F8WSY3,36175,3,F8WSY3|1of1,F8WSY3|1of1
+83,Bacteria,exo-chitinase (CpChiB; Cpin_2186),3.2.1.200,pubmed,Chitinophaga pinensis DSM 2588,ACU59678.1,A0A979G2X1,,A0A979G2X1,29117,0,A0A979G2X1|1of1,A0A979G2X1|1of1
+84,Bacteria,"bimodular endo-β-1,6-glucanase / chitinase (Cpin_2580; CpGlu5N; CpChi18; CpCBM92A; CpCBM92B)",3.2.1.14,pubmed,Chitinophaga pinensis DSM 2588,ACU60063.1,A0A979GQH9,,A0A979GQH9,29121,0,A0A979GQH9|2of2,A0A979GQH9|2of2
+85,Bacteria,"bimodular endo-β-1,6-glucanase / chitinase (Cpin_2580; CpGlu5N; CpChi18; CpCBM92A; CpCBM92B)",3.2.1.14,pubmed,Chitinophaga pinensis DSM 2588,ACU60063.1,A0A979GQH9,,A0A979GQH9,29120,60,A0A979GQH9|1of2,A0A979GQH9|1of2
+86,Bacteria,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),3.2.1.14,pubmed,Chitinophaga pinensis DSM 2588,ACU59676.1,A0A979GT74,,A0A979GT74,29122,0,A0A979GT74|1of2,A0A979GT74|1of2
+87,Bacteria,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),3.2.1.14,pubmed,Chitinophaga pinensis DSM 2588,ACU59676.1,A0A979GT74,,A0A979GT74,29123,2,A0A979GT74|2of2,A0A979GT74|2of2
+88,Bacteria,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),3.2.1.200,pubmed,Chitinophaga pinensis DSM 2588,ACU59676.1,A0A979GT74,,A0A979GT74,29122,0,A0A979GT74|1of2,A0A979GT74|1of2
+89,Bacteria,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),3.2.1.200,pubmed,Chitinophaga pinensis DSM 2588,ACU59676.1,A0A979GT74,,A0A979GT74,29123,2,A0A979GT74|2of2,A0A979GT74|2of2
+90,Bacteria,chitinase (Chi54),3.2.1.14,pubmed,Chromobacterium sp. C-61,AAP88583.1,Q5MYT4,,Q5MYT4,37148,0,Q5MYT4|1of1,Q5MYT4|1of1
+91,Bacteria,chitinase (Chi45;CvChi45;CV2935),3.2.1.14,pubmed,Chromobacterium violaceum ATCC 12472,AAQ60603.1; NP_902605.1,Q7NTW8,4TX8[A],Q7NTW8,37307,2,Q7NTW8|1of1,Q7NTW8|1of1
+92,Bacteria,exo-chitinase X (CHI-X),3.2.1.14,pubmed,Citrobacter freundii P,AGD94964.2; AGD94964.1,L7YAM9,,L7YAM9,36736,0,L7YAM9|1of1,L7YAM9|1of1
+93,Bacteria,bifunctional peroxiredoxin-chitinase (CotE;CD1433),3.2.1.14,pubmed,Clostridioides difficile 630,CAJ68298.1; AJP11136.1,Q18BV5,6T9M[AAA]; 6TSB[AAA],Q18BV5,37055,0,Q18BV5|1of1,Q18BV5|1of1
+94,Bacteria,chitinase A (ChiA) (Chi18A),3.2.1.14,pubmed,Clostridium paraputrificum M-21,BAA34922.1,Q9ZNL0,,Q9ZNL0,37468,0,Q9ZNL0|1of1,Q9ZNL0|1of1
+95,Bacteria,chitinase B (ChiB) (Chi18B),3.2.1.14,pubmed,Clostridium paraputrificum M-21,BAA23796.1,O50076,,O50076,36981,0,O50076|1of1,O50076|1of1
+96,Bacteria,chitinase C (ChiC) (Chi18C),3.2.1.14,pubmed,Clostridium paraputrificum M-21,BAD12045.1; BAD29950.1,Q75ZW9,,Q75ZW9,37291,0,Q75ZW9|1of1,Q75ZW9|1of1
+97,Bacteria,chitinase (ChiD ; CcChi1; COCOR_06744),3.2.1.14,pubmed,Corallococcus coralloides DSM 2259,AFE08343.1,H8MZA8,,H8MZA8,36400,2,H8MZA8|1of1,H8MZA8|1of1
+98,Bacteria,endo-β-N-acetylglucosaminidase F1 (EndoF1; Endo F1; Endo-F1),3.2.1.96,pubmed,Elizabethkingia meningoseptica ATCC 33958,AAA24922.1; WP_034866176.1,A0A7T7ZWH1,2EBN[A],A0A7T7ZWH1,22912,4,A0A7T7ZWH1|1of1,A0A7T7ZWH1|1of1
+99,Bacteria,endo-β-N-acetylglucosaminidase F1 (EndoF1; Endo F1; Endo-F1),3.2.1.96,pubmed,Elizabethkingia meningoseptica ATCC 33958,AAA24922.1; WP_034866176.1,P36911,2EBN[A],P36911,37002,4,P36911|1of1,P36911|1of1
+100,Bacteria,endo-β-N-acetylglucosaminidase F2 (EndoF2; Endo F2; Endo-F2),3.2.1.96,pubmed,Elizabethkingia meningoseptica ATCC 33958,AAA24923.1,P36912,,P36912,37003,14,P36912|1of1,P36912|1of1
+101,Bacteria,endo-β-N-acetylglucosaminidase F3 (EndoF3; Endo F3; Endo-F3),3.2.1.96,pubmed,Elizabethkingia meningoseptica ATCC 33958,AAA24924.1; WP_034868774.1,A0A7T7V0M3,1EOK[A]; 1EOM[A],A0A7T7V0M3,22909,41,A0A7T7V0M3|1of1,A0A7T7V0M3|1of1
+102,Bacteria,endo-β-N-acetylglucosaminidase F3 (EndoF3; Endo F3; Endo-F3),3.2.1.96,pubmed,Elizabethkingia meningoseptica ATCC 33958,AAA24924.1; WP_034868774.1,P36913,1EOK[A]; 1EOM[A],P36913,37004,41,P36913|1of1,P36913|1of1
+103,Bacteria,chitinase A (ChiA),3.2.1.201,doi,Enterobacter sp. G-1,AAB97779.1,O54328,,O54328,36986,0,O54328|1of1,O54328|1of1
+104,Bacteria,chtinase (EfChi18A;EF0361) (Chi18A),3.2.1.14,pubmed,Enterococcus faecalis V583,AAO80224.1; NP_814153.1,Q838S2,,Q838S2,37330,2,Q838S2|1of1,Q838S2|1of1
+105,Bacteria,endo-β-N-acetylglucosaminidase (EfEndo18A; EF2863) (Endo18A),3.2.1.96,pubmed,Enterococcus faecalis V583,AAO82555.1; NP_816485.1,Q830C5,,Q830C5,37329,4,Q830C5|1of1,Q830C5|1of1
+106,Bacteria,endochitinase (ChiA; YheB; b3338),3.2.1.14,pubmed,Escherichia coli str. K-12 substr. MG1655,AAC76363.1; AAA58135.1; AIZ89659.1; ALI38980.1; AMC96225.1; AUG18042.1; AVI53496.1; AYG17720.1; NP_417797.1,P13656,,P13656,36996,3,P13656|1of1,P13656|1of1
+107,Bacteria,chitinase (ChiA; Fjoh_4555),3.2.1.14,pubmed; pubmed,Flavobacterium johnsoniae UW101,ABQ07554.1,A5FB63,,A5FB63,35189,0,A5FB63|1of2,A5FB63|1of2
+108,Bacteria,chitinase (ChiA; Fjoh_4555),3.2.1.14,pubmed; pubmed,Flavobacterium johnsoniae UW101,ABQ07554.1,A5FB63,,A5FB63,35190,2,A5FB63|2of2,A5FB63|2of2
+109,Bacteria,chitinase (ChiA; Fjoh_4555),3.2.1.14,pubmed; pubmed,Flavobacterium johnsoniae UW101,ABQ07554.1,A5FB63,,A5FB63,35189,0,A5FB63|1of2,A5FB63|1of2
+110,Bacteria,chitinase (ChiA; Fjoh_4555),3.2.1.14,pubmed; pubmed,Flavobacterium johnsoniae UW101,ABQ07554.1,A5FB63,,A5FB63,35190,2,A5FB63|2of2,A5FB63|2of2
+111,Bacteria,chitinase (ChiB; FjChiB; Fjoh_4560),3.2.1.14,pubmed,Flavobacterium johnsoniae UW101,ABQ07559.1,A5FB54,6XYZ[A],A5FB54,35188,0,A5FB54|1of1,A5FB54|1of1
+112,Bacteria,endo-β-N-acetylglucosaminidase (Endo-Fsp),3.2.1.96,pubmed,Flavobacterium sp. SK1022,BAB20938.1; AAB20312.1,P80036,,P80036,37006,4,P80036|1of1,P80036|1of1
+113,Bacteria,chitinase A (ChiA; FTN_0627),3.2.1.14,pubmed,Francisella tularensis subsp. novicida U112,ABB76136.1; ABK89520.1; AJI60891.1,A0Q5K5,,A0Q5K5,35128,0,A0Q5K5|1of1,A0Q5K5|1of1
+114,Bacteria,chitinase A (ChiA; FTN_0627),3.2.1.14,pubmed,Francisella tularensis subsp. novicida U112,ABB76136.1; ABK89520.1; AJI60891.1,Q09WI8,,Q09WI8,37032,0,Q09WI8|1of1,Q09WI8|1of1
+115,Bacteria,chitinase B (ChiB; FTN_1744),3.2.1.14,pubmed,Francisella tularensis subsp. novicida U112,ABB76137.1; ABK90596.1; AJI60276.1,A0Q8N1,,A0Q8N1,35131,50,A0Q8N1|1of1,A0Q8N1|1of1
+116,Bacteria,chitinase B (ChiB; FTN_1744),3.2.1.14,pubmed,Francisella tularensis subsp. novicida U112,ABB76137.1; ABK90596.1; AJI60276.1,Q09WI7,,Q09WI7,37031,50,Q09WI7|1of1,Q09WI7|1of1
+117,Bacteria,chitinase (ChiB; FTT_1768c; FTT1768c),3.2.1.14,pubmed,Francisella tularensis subsp. tularensis SCHU S4,CAG46401.1,Q5NE83,,Q5NE83,37149,50,Q5NE83|1of1,Q5NE83|1of1
+118,Bacteria,chitinase (ChiA; FTT_0715; FTT0715),3.2.1.14,pubmed,Francisella tularensis subsp. tularensis SCHU S4,CAG45348.1,Q5NGW2,,Q5NGW2,37150,0,Q5NGW2|1of1,Q5NGW2|1of1
+119,Bacteria,chitinase (ChiA; ChiABhp; ChiJ; BH0916),3.2.1.14,doi,Halalkalibacterium halodurans C-125,BAB04635.1; NP_241782.1,Q9KED7,,Q9KED7,37416,0,Q9KED7|1of1,Q9KED7|1of1
+120,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Isoptericola jiangsuensis CLG,ADD17350.1,D3YGV2,,D3YGV2,35723,0,D3YGV2|1of1,D3YGV2|1of1
+121,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Isoptericola jiangsuensis CLG,ADD17351.1,D3YGV3,,D3YGV3,35724,0,D3YGV3|1of1,D3YGV3|1of1
+122,Bacteria,chitinase (Chi69; Chi04),3.2.1.14,pubmed,Janthinobacterium lividum,AAA83223.1; AAS19502.1; BAF02560.1,Q48373,,Q48373,37122,0,Q48373|1of1,Q48373|1of1
+123,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Kitasatospora aureofaciens CMUAC130,BAC66179.1,Q845S2,,Q845S2,37331,0,Q845S2|1of1,Q845S2|1of1
+124,Bacteria,chitinase (ChiSH1),3.2.1.14,doi,Kurthia zopfii KI2-119,BAA09831.1,Q48494,,Q48494,37123,0,Q48494|1of1,Q48494|1of1
+125,Bacteria,surfactant-activated chitinase (ChiA;LpChiA),3.2.1.14,pubmed,Laceyella putida JAM-FM3001,BAO37115.1,W0T116,,W0T116,38013,0,W0T116|1of1,W0T116|1of1
+126,Bacteria,exo-chitinase (Cphy_1799; Cphy1799),3.2.1.200,pubmed,Lachnoclostridium phytofermentans ISDg,ABX42168.1,A9KSD6,,A9KSD6,35290,2,A9KSD6|1of1,A9KSD6|1of1
+127,Bacteria,endo-chitinase (Cphy_1800;Cphy1800),3.2.1.14,pubmed,Lachnoclostridium phytofermentans ISDg,ABX42169.1,A9KSD7,,A9KSD7,35291,0,A9KSD7|1of1,A9KSD7|1of1
+128,Bacteria,chitinase (ChiA;L9964) (Chi18A),3.2.1.14,pubmed,Lactococcus lactis subsp. lactis Il1403,AAK06048.1; NP_268107.1,Q9CE95,3IAN[A],Q9CE95,37402,2,Q9CE95|1of1,Q9CE95|1of1
+129,Bacteria,endochitinase (ChiA;lpl1121),3.2.1.14,pubmed,Legionella pneumophila str. Lens,CAH15360.1,Q5WXH7,,Q5WXH7,37241,2,Q5WXH7|1of1,Q5WXH7|1of1
+130,Bacteria,chitinase (ChiA; LmChiA; Lmo1883),3.2.1.14,pubmed,Listeria monocytogenes EGD-e,CAC99961.1; NP_465407.1,Q8Y619,"9I2P[A,B]",Q8Y619,37387,2,Q8Y619|1of1,Q8Y619|1of1
+131,Bacteria,chitinase (ChiB; LmChiB; Lmo0105),3.2.1.14,pubmed,Listeria monocytogenes EGD-e,CAC98320.1; NP_463638.1,Q8YAL3,,Q8YAL3,37388,0,Q8YAL3|1of1,Q8YAL3|1of1
+132,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Lysobacter enzymogenes C3,AAT77163.1; ALN56484.1,Q6BCF8,,Q6BCF8,37265,0,Q6BCF8|1of1,Q6BCF8|1of1
+133,Bacteria,chitinase (MtCh509; A3224_11035),3.2.1.14,pubmed,Microbulbifer thermotolerans DAU221,AMX03031.1,A0A143HNF3,,A0A143HNF3,2781,2,A0A143HNF3|1of1,A0A143HNF3|1of1
+134,Bacteria,chitinase 60 (Chi60;MmChi60),3.2.1.14,pubmed,Moritella marina,CAM88673.1,B1VBB0,"4HMC[A]; 4HMD[A]; 4HME[A]; 4MB3[A]; 4MB4[A]; 4MB5[A]; 4W5Z[A]; 9FBO[A,B]; 9FBP[A,B]; 9FBQ[A]; 9FBR[A]; 9FBS[A]",B1VBB0,35376,2,B1VBB0|1of1,B1VBB0|1of1
+135,Bacteria,exochitinase (MxChi; MXAN_2927),3.2.1.14,pubmed,Myxococcus xanthus DK 1622,ABF87350.1; AAW92385.1,Q1D885,,Q1D885,37057,0,Q1D885|1of1,Q1D885|1of1
+136,Bacteria,chitinase (Chi1),3.2.1.14,pubmed,Niallia circulans C-2,AAF74782.1,Q9KHB3,,Q9KHB3,37417,0,Q9KHB3|1of1,Q9KHB3|1of1
+137,Bacteria,chitinase (Chi41),3.2.1.14,pubmed,Niallia circulans NO. 4.1,AAF23368.1,Q9RG51,,Q9RG51,37450,0,Q9RG51|1of1,Q9RG51|1of1
+138,Bacteria,chitinase A1 (ChiA;ChiA1),3.2.1.14,pubmed,Niallia circulans WL-12,AAA81528.1,P20533,1ITX[A],P20533,36998,0,P20533|1of1,P20533|1of1
+139,Bacteria,chitinase C1 (ChiC) (fragment),3.2.1.14,doi,Niallia circulans WL-12,BAA13974.1,P94289,,P94289,37008,0,P94289|1of1,P94289|1of1
+140,Bacteria,chitinase D (ChiD),3.2.1.14,pubmed,Niallia circulans WL-12,BAA34114.1,P27050,,P27050,36999,2,P27050|1of1,P27050|1of1
+141,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Nocardiopsis prasina OPC-131,BAC45251.1,Q8GI54,,Q8GI54,37357,2,Q8GI54|1of1,Q8GI54|1of1
+142,Bacteria,exo-chitinase (Chi1; PbChi74) (GlcNAc-producing),3.2.1.200; 3.2.1.-,pubmed; pubmed,Paenibacillus barengoltzii CAU904,AIC64238.1,A0A060KSS6,,A0A060KSS6,72,0,A0A060KSS6|1of1,A0A060KSS6|1of1
+143,Bacteria,chitinase (PbChi70; Chi2),3.2.1.14,pubmed,Paenibacillus barengoltzii CAU904 / CGMCC9530,AIT70967.1,A0A0F6NWE3,,A0A0F6NWE3,946,0,A0A0F6NWE3|1of1,A0A0F6NWE3|1of1
+144,Bacteria,β-N-acetylglucosaminidase (PbNag39),3.2.1.52,pubmed,Paenibacillus barengoltzii CAU904 / CGMCC9530,QBO56278.1,A0A482G4C5,6INX[A],A0A482G4C5,15288,0,A0A482G4C5|1of1,A0A482G4C5|1of1
+145,Bacteria,chitinase (Chi68;PeChi68),3.2.1.14,pubmed,Paenibacillus elgii HOA73,ARU77129.1,A0A1Y0JY52,,A0A1Y0JY52,7670,0,A0A1Y0JY52|1of1,A0A1Y0JY52|1of1
+146,Bacteria,chitinase (ChiC),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67139.1,K7ZQB5,,K7ZQB5,36682,0,K7ZQB5|1of1,K7ZQB5|1of1
+147,Bacteria,chitinase (ChiE),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67141.1,K7ZK65,,K7ZK65,36677,2,K7ZK65|1of1,K7ZK65|1of1
+148,Bacteria,multi-modular chitinase (ChiW),3.2.1.14,pubmed; pubmed,Paenibacillus sp. FPU-7,BAM67143.1,K7ZLW6,"5GZT[B]; 5GZU[A,B]; 5GZV[A,B]",K7ZLW6,36679,0,K7ZLW6|1of2,K7ZLW6|1of2
+149,Bacteria,multi-modular chitinase (ChiW),3.2.1.14,pubmed; pubmed,Paenibacillus sp. FPU-7,BAM67143.1,K7ZLW6,"5GZT[B]; 5GZU[A,B]; 5GZV[A,B]",K7ZLW6,36680,0,K7ZLW6|2of2,K7ZLW6|2of2
+150,Bacteria,multi-modular chitinase (ChiW),3.2.1.14,pubmed; pubmed,Paenibacillus sp. FPU-7,BAM67143.1,K7ZLW6,"5GZT[B]; 5GZU[A,B]; 5GZV[A,B]",K7ZLW6,36679,0,K7ZLW6|1of2,K7ZLW6|1of2
+151,Bacteria,multi-modular chitinase (ChiW),3.2.1.14,pubmed; pubmed,Paenibacillus sp. FPU-7,BAM67143.1,K7ZLW6,"5GZT[B]; 5GZU[A,B]; 5GZV[A,B]",K7ZLW6,36680,0,K7ZLW6|2of2,K7ZLW6|2of2
+152,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67137.1,K7ZS15,,K7ZS15,36683,0,K7ZS15|1of1,K7ZS15|1of1
+153,Bacteria,chitinase (ChiB),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67138.1,K7ZLW5,,K7ZLW5,36678,0,K7ZLW5|1of1,K7ZLW5|1of1
+154,Bacteria,chitinase (ChiD),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67140.1,K7ZNA8,,K7ZNA8,36681,0,K7ZNA8|1of1,K7ZNA8|1of1
+155,Bacteria,chitinase (ChiF),3.2.1.14,pubmed,Paenibacillus sp. FPU-7,BAM67142.1,K7ZS16,,K7ZS16,36684,0,K7ZS16|1of1,K7ZS16|1of1
+156,Bacteria,chitinase (fragment),3.2.1.14,,proteobacterium 12A,ABE96872.1,A1XNE9,,A1XNE9,35138,0,A1XNE9|1of1,A1XNE9|1of1
+157,Bacteria,endochitinase Chi23,3.2.1.14,pubmed,Pseudoalteromonas aurantia DSM 6057,QGN68168.1,A0A650AJ72,"6K7Z[A,B,C,D]",A0A650AJ72,19406,25,A0A650AJ72|1of1,A0A650AJ72|1of1
+158,Bacteria,β-N-acetylglucosaminidase (chi22718_III;Orf2),3.2.1.14,pubmed,Pseudoalteromonas issachenkonii PAMC 22718,AGX85874.1,U5N424,,U5N424,37886,0,U5N424|1of1,U5N424|1of1
+159,Bacteria,chitinase A (ChiA),3.2.1.200,pubmed,Pseudoalteromonas piscicida O-7,BAA02908.1; BAB79620.1,P32823,,P32823,37000,0,P32823|1of1,P32823|1of1
+160,Bacteria,chitinase C (ChiC),3.2.1.14,pubmed,Pseudoalteromonas piscicida O-7,BAA24795.1,O50590,,O50590,36983,0,O50590|1of1,O50590|1of1
+161,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Pseudoalteromonas piscicida O-7,BAC53628.1,Q8GI52,,Q8GI52,37356,2,Q8GI52|1of1,Q8GI52|1of1
+162,Bacteria,chitinase D (ChiD),3.2.1.200,pubmed,Pseudoalteromonas piscicida O-7,BAB79618.1,Q8VLQ3,,Q8VLQ3,37380,0,Q8VLQ3|1of1,Q8VLQ3|1of1
+163,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Pseudoalteromonas sp. S9 S91,AAC79665.1,Q9ZIX4,,Q9ZIX4,37467,0,Q9ZIX4|1of1,Q9ZIX4|1of1
+164,Bacteria,chitinase C (ChiC),3.2.1.14,pubmed,Pseudoalteromonas sp. S9 S91,AAC79667.1,Q9ZIX2,,Q9ZIX2,37466,0,Q9ZIX2|1of1,Q9ZIX2|1of1
+165,Bacteria,chitinase (Pachi),3.2.1.14,pubmed,Pseudomonas aeruginosa 0364,ALD59804.1,A0A0M4K3X3,,A0A0M4K3X3,1567,2,A0A0M4K3X3|1of1,A0A0M4K3X3|1of1
+166,Bacteria,chitinase (ChiC;PA2300),3.2.1.14,pubmed,Pseudomonas aeruginosa PAO1,AAG05688.1; AAK69491.1; ACQ33294.1; CAC27256.1; CAC27257.1; NP_250990.1,G3XCM1,,G3XCM1,36244,2,G3XCM1|1of1,G3XCM1|1of1
+167,Bacteria,chitinase (ChiC;PA2300),3.2.1.14,pubmed,Pseudomonas aeruginosa PAO1,AAG05688.1; AAK69491.1; ACQ33294.1; CAC27256.1; CAC27257.1; NP_250990.1,Q9I1H5,,Q9I1H5,37412,2,Q9I1H5|1of1,Q9I1H5|1of1
+168,Bacteria,chitinase,3.2.1.14,pubmed,Pseudomonas sp. BK1,AAP79427.1,Q6X934,,Q6X934,37283,0,Q6X934|1of1,Q6X934|1of1
+169,Bacteria,chitinase (PchA),3.2.1.14,pubmed,Pseudomonas sp. PE2,BAB79259.1,Q8VUU6,,Q8VUU6,37385,0,Q8VUU6|1of1,Q8VUU6|1of1
+170,Bacteria,chitinase C (ChiC;PsChiC),3.2.1.14,doi,Pseudomonas sp. TxG6-1,ADW77630.1,V5IV80,,V5IV80,37946,2,V5IV80|1of1,V5IV80|1of1
+171,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Rhodothermus marinus PRI378,AAU11838.1,Q66SU9,,Q66SU9,37254,0,Q66SU9|1of1,Q66SU9|1of1
+172,Bacteria,chitodextrinase 18A (CdxA;Sde_3982) (Cdx18A),3.2.1.14,pubmed,Saccharophagus degradans 2-40,AAO47607.1; ABD83237.1; ACG81705.1,Q84AP8,,Q84AP8,37333,0,Q84AP8|1of1,Q84AP8|1of1
+173,Bacteria,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),3.2.1.14,pubmed,Saccharophagus degradans 2-40,DAA01334.1; ABD83125.1; ACG81702.1,Q7PC53,,Q7PC53,37312,0,Q7PC53|1of2,Q7PC53|1of2
+174,Bacteria,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),3.2.1.14,pubmed,Saccharophagus degradans 2-40,DAA01334.1; ABD83125.1; ACG81702.1,Q7PC53,,Q7PC53,37313,0,Q7PC53|2of2,Q7PC53|2of2
+175,Bacteria,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),3.2.1.200,pubmed,Saccharophagus degradans 2-40,DAA01334.1; ABD83125.1; ACG81702.1; ACG81709.1; ACG81710.1,Q7PC53,,Q7PC53,37312,0,Q7PC53|1of2,Q7PC53|1of2
+176,Bacteria,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),3.2.1.200,pubmed,Saccharophagus degradans 2-40,DAA01334.1; ABD83125.1; ACG81702.1; ACG81709.1; ACG81710.1,Q7PC53,,Q7PC53,37313,0,Q7PC53|2of2,Q7PC53|2of2
+177,Bacteria,chitinase 18C (ChiC;Sde_3605) (Chi18C),3.2.1.14,pubmed,Saccharophagus degradans 2-40,DAA01336.1; ABD82860.1; ACG81703.1,Q7PC51,,Q7PC51,37310,0,Q7PC51|1of1,Q7PC51|1of1
+178,Bacteria,chitinase 18A (Sde_1704; ChiA) (Chi18A),3.2.1.14,pubmed,Saccharophagus degradans 2-40,DAA01335.1; ABD80964.1; ACG81701.1,Q7PC52,,Q7PC52,37311,2,Q7PC52|1of1,Q7PC52|1of1
+179,Bacteria,chitinase (ChiA2;SACE_1076),3.2.1.14,pubmed,Saccharopolyspora erythraea NRRL 2338,CAM00408.1,P14529,,P14529,36997,3,P14529|1of1,P14529|1of1
+180,Bacteria,chitinase A (ChiA; StChiA; SL0018; SL1344_0018),3.2.1.14,pubmed,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,CBW16119.1; CBW16119.2,A0A0H3N7I6,,A0A0H3N7I6,1187,0,A0A0H3N7I6|1of1,A0A0H3N7I6|1of1
+181,Bacteria,endochitinase (Chi21702;Chi),3.2.1.14,pubmed,Sanguibacter antarcticus KOPRI 21702,ABD39718.1,C8XPA7,,C8XPA7,35610,0,C8XPA7|1of1,C8XPA7|1of1
+182,Bacteria,chitinase (Chit58;ChiA),3.2.1.14,pubmed,Sanguibacter sp. C4,ABB91448.1,Q2V9S9,,Q2V9S9,37110,0,Q2V9S9|1of1,Q2V9S9|1of1
+183,Bacteria,chitinase C1 (ChiC),3.2.1.14,pubmed,Serratia marcescens 2170,BAA76623.1,Q9WXD3,,Q9WXD3,37460,2,Q9WXD3|1of1,Q9WXD3|1of1
+184,Bacteria,chitinase A (ChiA;SmChiA),3.2.1.201,pubmed,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,O83008,1CTN[A]; 1EDQ[A]; 1EHN[A]; 1EIB[A]; 1FFQ[A]; 1FFR[A]; 1K9T[A]; 1NH6[A]; 1RD6[A]; 1X6L[A]; 1X6N[A]; 2WK2[A]; 2WLY[A]; 2WLZ[A]; 2WM0[A]; 5Z7M[A]; 5Z7N[A]; 5Z7O[A]; 5Z7P[A]; 8W96[A],O83008,36988,0,O83008|1of1,O83008|1of1
+185,Bacteria,chitinase A (ChiA;SmChiA),3.2.1.201,pubmed,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,P07254,1CTN[A]; 1EDQ[A]; 1EHN[A]; 1EIB[A]; 1FFQ[A]; 1FFR[A]; 1K9T[A]; 1NH6[A]; 1RD6[A]; 1X6L[A]; 1X6N[A]; 2WK2[A]; 2WLY[A]; 2WLZ[A]; 2WM0[A]; 5Z7M[A]; 5Z7N[A]; 5Z7O[A]; 5Z7P[A]; 8W96[A],P07254,36992,0,P07254|1of1,P07254|1of1
+186,Bacteria,chitinase A (ChiA;SmChiA),3.2.1.201,pubmed,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,Q6T6I1,1CTN[A]; 1EDQ[A]; 1EHN[A]; 1EIB[A]; 1FFQ[A]; 1FFR[A]; 1K9T[A]; 1NH6[A]; 1RD6[A]; 1X6L[A]; 1X6N[A]; 2WK2[A]; 2WLY[A]; 2WLZ[A]; 2WM0[A]; 5Z7M[A]; 5Z7N[A]; 5Z7O[A]; 5Z7P[A]; 8W96[A],Q6T6I1,37281,0,Q6T6I1|1of1,Q6T6I1|1of1
+187,Bacteria,chitinase C (ChiC;SmChiC),3.2.1.14,pubmed,Serratia marcescens AS1.1652,AHN91474.1,X2KWS3,,X2KWS3,38193,2,X2KWS3|1of1,X2KWS3|1of1
+188,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Serratia marcescens ATCC 990,AAW47932.1; ABI58232.1,A6XFF7,,A6XFF7,35228,0,A6XFF7|1of1,A6XFF7|1of1
+189,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Serratia marcescens ATCC 990,AAW47932.1; ABI58232.1,Q5I4H6,,Q5I4H6,37142,0,Q5I4H6|1of1,Q5I4H6|1of1
+190,Bacteria,chitinase A1 (ChiA1),3.2.1.14,doi,Serratia marcescens AV305,AAF22480.1,Q9RH34,,Q9RH34,37451,0,Q9RH34|1of1,Q9RH34|1of1
+191,Bacteria,chitinase (Chit62),3.2.1.14,pubmed,Serratia marcescens B4A,ADR30609.1,E5FGC5,,E5FGC5,35954,0,E5FGC5|1of1,E5FGC5|1of1
+192,Bacteria,chitinase B (ChiB;SmChiB),3.2.1.14,pubmed,Serratia marcescens BJL200,CAA85292.1,P11797,"1E15[A,B]; 1E6N[A,B]; 1E6P[A,B]; 1E6R[A,B]; 1E6Z[A,B]; 1GOI[A,B]; 1GPF[A,B]; 1O6I[A,B]; 1OGB[A,B]; 1OGG[A,B]; 1UR8[A,B]; 1UR9[A,B]; 1W1P[A,B]; 1W1T[A,B]; 1W1V[A,B]; 1W1Y[A,B]; 6JK9[A,B]; 6JKF[A,B]; 7C34[A,B]; 7C92[A,B]",P11797,36995,0,P11797|1of1,P11797|1of1
+193,Bacteria,chitinase B (ChiB;SmChiB),3.2.1.14,pubmed,Serratia marcescens BJL200,CAA85292.1,Q54276,"1E15[A,B]; 1E6N[A,B]; 1E6P[A,B]; 1E6R[A,B]; 1E6Z[A,B]; 1GOI[A,B]; 1GPF[A,B]; 1O6I[A,B]; 1OGB[A,B]; 1OGG[A,B]; 1UR8[A,B]; 1UR9[A,B]; 1W1P[A,B]; 1W1T[A,B]; 1W1V[A,B]; 1W1Y[A,B]; 6JK9[A,B]; 6JKF[A,B]; 7C34[A,B]; 7C92[A,B]",Q54276,37130,0,Q54276|1of1,Q54276|1of1
+194,Bacteria,chitinase C / C1 (ChiC;ChiC1;SmChiC;SmChi18C),3.2.1.14,pubmed,Serratia marcescens BJL200,CAF74787.1,Q700B8,"4AXN[A,B]",Q700B8,37284,2,Q700B8|1of1,Q700B8|1of1
+195,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Serratia marcescens BN10,AAZ86539.1,Q3Y4D2,,Q3Y4D2,37118,0,Q3Y4D2|1of1,Q3Y4D2|1of1
+196,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Serratia marcescens GEI,ACX42071.1,D0ELI2,,D0ELI2,35620,0,D0ELI2|1of1,D0ELI2|1of1
+197,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Serratia marcescens GEI,ACX42072.1,D0ELI3,,D0ELI3,35621,0,D0ELI3|1of1,D0ELI3|1of1
+198,Bacteria,chitinase C1 (Chic1),3.2.1.14,pubmed,Serratia marcescens GEI,ACX42073.1,D0ELI4,,D0ELI4,35622,2,D0ELI4|1of1,D0ELI4|1of1
+199,Bacteria,chitinase B (ChiB),3.2.1.14,doi,Serratia marcescens Ha-Pink,AHH32576.1,W5U207,,W5U207,38079,0,W5U207|1of1,W5U207|1of1
+200,Bacteria,chitinase C (ChiC),3.2.1.14,doi,Serratia marcescens Ha-Pink,AHH32577.1,W5U2U1,,W5U2U1,38080,2,W5U2U1|1of1,W5U2U1|1of1
+201,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Serratia marcescens Ha-Pink,AHH32575.1,W5U7W5,,W5U7W5,38081,0,W5U7W5|1of1,W5U7W5|1of1
+202,Bacteria,chitinase (ChiB; ChiBjp),3.2.1.14,pubmed,Serratia marcescens JPP1,AHZ63793.1,A0A059UJT0,,A0A059UJT0,54,0,A0A059UJT0|1of1,A0A059UJT0|1of1
+203,Bacteria,chitinase 55kDa,3.2.1.14; 3.2.1.200,pubmed; pubmed,Serratia marcescens KCTC2172,AAC37122.1,Q59929,,Q59929,37137,0,Q59929|1of1,Q59929|1of1
+204,Bacteria,chitinase C1 (ChiC;Chi52),3.2.1.14,pubmed,Serratia marcescens KCTC2172,AAC09387.1,Q54442,,Q54442,37131,2,Q54442|1of1,Q54442|1of1
+205,Bacteria,endochitinase A (ChiA),3.2.1.14,pubmed,Serratia marcescens NIMA,AAS68517.1,Q6Q215,,Q6Q215,37275,0,Q6Q215|1of1,Q6Q215|1of1
+206,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Serratia marcescens QMB1466 / BJL200,CAA33278.1; AAL57855.1; BAA31568.1,A0A3E2ECF9,"1H0G[A,B]; 1H0I[A,B]; 3WD0[A]; 3WD1[A]; 3WD2[A]; 3WD3[A]; 3WD4[A]; 4Z2G[A]; 4Z2H[A]; 4Z2I[A]; 4Z2J[A]; 4Z2K[A]; 4Z2L[A]; 8YUG[A]; 8YUH[A,B]; 8YUI[A,B]",A0A3E2ECF9,13420,0,A0A3E2ECF9|1of1,A0A3E2ECF9|1of1
+207,Bacteria,chitinase B (ChiB),3.2.1.14,pubmed,Serratia marcescens QMB1466 / BJL200,CAA33278.1; AAL57855.1; BAA31568.1,P11797,"1H0G[A,B]; 1H0I[A,B]; 3WD0[A]; 3WD1[A]; 3WD2[A]; 3WD3[A]; 3WD4[A]; 4Z2G[A]; 4Z2H[A]; 4Z2I[A]; 4Z2J[A]; 4Z2K[A]; 4Z2L[A]; 8YUG[A]; 8YUH[A,B]; 8YUI[A,B]",P11797,36995,0,P11797|1of1,P11797|1of1
+208,Bacteria,chitinase (Chit60),3.2.1.14,pubmed,Serratia plymuthica,CAD32933.1,Q8KKF5,,Q8KKF5,37358,0,Q8KKF5|1of1,Q8KKF5|1of1
+209,Bacteria,chitinase,3.2.1.14,pubmed,Serratia plymuthica IC1270,AAB49933.1,P97034,,P97034,37012,0,P97034|1of1,P97034|1of1
+210,Bacteria,chitinase A (ChiA;SpChiA;Spro_0137),3.2.1.14,pubmed,Serratia proteamaculans 568,ABV39247.1,A8G807,,A8G807,35260,0,A8G807|1of1,A8G807|1of1
+211,Bacteria,chitinase B (ChiB;SpChiB;Spro_1223),3.2.1.14,pubmed,Serratia proteamaculans 568,ABV40327.1,A8GB37,,A8GB37,35261,2,A8GB37|1of1,A8GB37|1of1
+212,Bacteria,chitinase D (ChiD;SpChiD;Spro_2725),3.2.1.14,pubmed,Serratia proteamaculans 568,ABV41826.1,A8GFD6,"4LGX[A]; 4NZC[A]; 4PTM[A]; 4Q22[A]; 6F8N[A,B]; 6HM1[A]",A8GFD6,35262,0,A8GFD6|1of1,A8GFD6|1of1
+213,Bacteria,chitinase C (ChiC;SpChiC;Spro_3476),3.2.1.14,pubmed,Serratia proteamaculans 568,ABV42574.1,A8GHI4,,A8GHI4,35263,0,A8GHI4|1of1,A8GHI4|1of1
+214,Bacteria,exochitinase (ChiA),3.2.1.14,pubmed,Serratia sp. KCK,ABM69267.1,A2TC68,,A2TC68,35146,0,A2TC68|1of1,A2TC68|1of1
+215,Bacteria,chitinase (Chi60),3.2.1.201,pubmed,Serratia sp. TU09,AAK72610.2,Q93LF1,,Q93LF1,37394,0,Q93LF1|1of1,Q93LF1|1of1
+216,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Stenotrophomonas maltophilia 34S1,AAB70917.1,O30678,,O30678,36978,0,O30678|1of1,O30678|1of1
+217,Bacteria,chitinase A (ChiA;StmChiA;Smlt0682),3.2.1.14,pubmed,Stenotrophomonas maltophilia K279a,CAQ44264.1,B2FMT1,,B2FMT1,35389,0,B2FMT1|1of1,B2FMT1|1of1
+218,Bacteria,chitinase B (ChiB;StmChib;Smlt3383),3.2.1.14,pubmed,Stenotrophomonas maltophilia K279a,CAQ46811.1,B2FN84,,B2FN84,35390,0,B2FN84|1of1,B2FN84|1of1
+219,Bacteria,chitinase H (ChiH;Chi18cH;SCO6012;SC7B7.09c) (Chi18H),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAA15789.1; NP_630126.1,O50506,,O50506,36982,3,O50506|1of1,O50506|1of1
+220,Bacteria,chitinase A (ChiA;Chi18bA;SCK15.05c;SCO5003) (Chi18A),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB92596.1; BAA75642.1; NP_629155.1,Q9KY99,3EBV[A],Q9KY99,37422,2,Q9KY99|1of1,Q9KY99|1of1
+221,Bacteria,chitinase A (ChiA;Chi18bA;SCK15.05c;SCO5003) (Chi18A),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB92596.1; BAA75642.1; NP_629155.1,Q9Z9M9,3EBV[A],Q9Z9M9,37464,2,Q9Z9M9|1of1,Q9Z9M9|1of1
+222,Bacteria,chitinase C (ChiC;Chi18aC;ScChiC;2SC6G5.20c;SCO5376) (Chi18C),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB94547.1; AAD16453.1; BAA75644.1; NP_629515.1,Q7AKG2,,Q7AKG2,37293,0,Q7AKG2|1of1,Q7AKG2|1of1
+223,Bacteria,chitinase C (ChiC;Chi18aC;ScChiC;2SC6G5.20c;SCO5376) (Chi18C),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB94547.1; AAD16453.1; BAA75644.1; NP_629515.1,Q9Z9M8,,Q9Z9M8,37463,0,Q9Z9M8|1of1,Q9Z9M8|1of1
+224,Bacteria,chitinase D (ChiD;Chi18aD;SCO1429) (Chi18D),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB61662.1; BAA75645.1; NP_625711.1,Q7AKQ9,,Q7AKQ9,37294,0,Q7AKQ9|1of1,Q7AKQ9|1of1
+225,Bacteria,chitinase D (ChiD;Chi18aD;SCO1429) (Chi18D),3.2.1.14,pubmed,Streptomyces coelicolor A3(2),CAB61662.1; BAA75645.1; NP_625711.1,Q9Z9M7,,Q9Z9M7,37462,0,Q9Z9M7|1of1,Q9Z9M7|1of1
+226,Bacteria,chitinase I (Chi I),3.2.1.14,,Streptomyces griseus HUT 6037,BAB86375.1,Q8RQP8,,Q8RQP8,37375,2,Q8RQP8|1of1,Q8RQP8|1of1
+227,Bacteria,chitinase II (Chi II),3.2.1.14,pubmed,Streptomyces griseus HUT 6037,BAB86376.1,Q8RQP7,,Q8RQP7,37374,2,Q8RQP7|1of1,Q8RQP7|1of1
+228,Bacteria,chitinase III (ChiIII;Chi III),3.2.1.14,pubmed,Streptomyces griseus HUT 6037,BAB86377.1,Q8RQP6,,Q8RQP6,37373,0,Q8RQP6|1of1,Q8RQP6|1of1
+229,Bacteria,chitinase B (ChiB),3.2.1.14,doi,Streptomyces lividans 1326,BAA25139.1,O69311,,O69311,36987,2,O69311|1of1,O69311|1of1
+230,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Streptomyces lividans TK64,BAA02918.1,Q59924,,Q59924,37136,2,Q59924|1of1,Q59924|1of1
+231,Bacteria,chitinase C (ChiC),3.2.1.14,pubmed,Streptomyces lividans TK64,BAA02168.1,P36909,,P36909,37001,0,P36909|1of1,P36909|1of1
+232,Bacteria,exo-chitinase (Chi01;ChiO1),3.2.1.200,pubmed,Streptomyces olivaceoviridis ATCC 11238,CAA50398.1,Q05638,,Q05638,37019,2,Q05638|1of1,Q05638|1of1
+233,Bacteria,chitinase (Chi92),3.2.1.14,doi,Streptomyces olivaceoviridis ATCC 11238,CAB83055.1,Q9L3E8,,Q9L3E8,37425,0,Q9L3E8|1of1,Q9L3E8|1of1
+234,Bacteria,chitinase C,3.2.1.14,pubmed,Streptomyces peucetius,AAF43629.1,Q9L8G0,,Q9L8G0,37427,0,Q9L8G0|1of1,Q9L8G0|1of1
+235,Bacteria,endo-β-N-acetylglucosaminidase H (EndoH; Endo-H; Endo H),3.2.1.96,pubmed,Streptomyces plicatus,AAA26738.1; AAX00996.1; AAY74563.1; ABA35708.1,P04067,"1C3F[A]; 1C8X[A]; 1C8Y[A]; 1C90[A,B]; 1C91[A]; 1C92[A]; 1C93[A]; 1EDT[A]; 30ID[A,B,C,D]; 6VE1[A,B,C,D]",P04067,36991,4,P04067|1of1,P04067|1of1
+236,Bacteria,chitinase-63,3.2.1.14,pubmed,Streptomyces plicatus ATCC 27800,AAA26720.1,P11220,,P11220,36994,0,P11220|1of1,P11220|1of1
+237,Bacteria,chitinase (Chi40),3.2.1.14,pubmed,Streptomyces thermoviolaceus OPC-520,BAA03404.1,Q56077,"4W5U[A,B]",Q56077,37132,0,Q56077|1of1,Q56077|1of1
+238,Bacteria,chitinase (Chi30),3.2.1.14,pubmed,Streptomyces thermoviolaceus OPC-520,BAA88835.1,Q9RHU3,,Q9RHU3,37452,2,Q9RHU3|1of1,Q9RHU3|1of1
+239,Bacteria,endochitinase (Tfu_0580),3.2.1.14,doi,Thermobifida fusca YX,AAZ54618.1,Q47SE9,,Q47SE9,37121,0,Q47SE9|1of1,Q47SE9|1of1
+240,Bacteria,chitinase (Chi18H8;Chi),3.2.1.14,pubmed,uncultured bacterium,AGN95784.1,R9WA37,,R9WA37,37698,0,R9WA37|1of1,R9WA37|1of1
+241,Bacteria,chitinase B (VacB),3.2.1.14,pubmed,Vibrio alginolyticus H-8,BAB21607.1; CAC29091.1,Q99PX0,,Q99PX0,37399,0,Q99PX0|1of1,Q99PX0|1of1
+242,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Vibrio cholerae,AAC72236.1,Q9ZFP7,,Q9ZFP7,37465,2,Q9ZFP7|1of1,Q9ZFP7|1of1
+243,Bacteria,chitinase (ChiA2;VCA0027),3.2.1.14,pubmed,Vibrio cholerae O1 biovar El Tor str. N16961,AAF95941.1; NP_232428.1,Q9KND8,,Q9KND8,37419,0,Q9KND8|1of1,Q9KND8|1of1
+244,Bacteria,chitodextrinase (EndoI),3.2.1.200,pubmed,Vibrio furnissii,AAC44673.1; AAE36539.1,P96156,,P96156,37010,0,P96156|1of1,P96156|1of1
+245,Bacteria,chitinase A (ChiA;VhChiA),3.2.1.14,pubmed,Vibrio harveyi,AAK11576.1,Q9AMP1,"3ARO[A]; 3ARP[A]; 3ARQ[A]; 3ARR[A]; 3ARS[A]; 3ART[A]; 3ARU[A]; 3ARV[A]; 3ARW[A]; 3ARX[A]; 3ARY[A]; 3ARZ[A]; 3AS0[A]; 3AS1[A]; 3AS2[A]; 3AS3[A]; 3B8S[A,B]; 3B9A[A]; 3B9D[A]; 3B9E[A]",Q9AMP1,37401,0,Q9AMP1|1of1,Q9AMP1|1of1
+246,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Vibrio harveyi BB7,AAC46383.1,P96168,,P96168,37011,2,P96168|1of1,P96168|1of1
+247,Bacteria,chitinase (Vpc),3.2.1.14,pubmed,Vibrio parahaemolyticus ATCC17802,BAA78115.1,Q9WX42,,Q9WX42,37459,0,Q9WX42|1of1,Q9WX42|1of1
+248,Bacteria,chitinase (Chi1;Pα-Chi),3.2.1.14,pubmed,Vibrio parahaemolyticus KN1699,BAF91600.1; ABY50231.1,A0A9Q3UC14,"8HRF[A,B]",A0A9Q3UC14,29731,0,A0A9Q3UC14|1of1,A0A9Q3UC14|1of1
+249,Bacteria,chitinase (Chi1;Pα-Chi),3.2.1.14,pubmed,Vibrio parahaemolyticus KN1699,BAF91600.1; ABY50231.1,A8QZK0,"8HRF[A,B]",A8QZK0,35271,0,A8QZK0|1of1,A8QZK0|1of1
+250,Bacteria,chitinase (Chi1;Pα-Chi),3.2.1.14,pubmed,Vibrio parahaemolyticus KN1699,BAF91600.1; ABY50231.1,B0F618,"8HRF[A,B]",B0F618,35325,0,B0F618|1of1,B0F618|1of1
+251,Bacteria,chitinase A (ChiA),3.2.1.14,pubmed,Vibrio proteolyticus 442,BAF76068.1,A7M6A0,,A7M6A0,35244,0,A7M6A0|1of1,A7M6A0|1of1
+252,Bacteria,chitinase (ChiA),3.2.1.14,pubmed,Vibrio sp. Fi:7,AAG12973.1,Q9EY54,,Q9EY54,37404,2,Q9EY54|1of1,Q9EY54|1of1
+253,Bacteria,endo-β-N-acetylglucosaminidase (NixF;XCC2889),3.2.1.14,pubmed,Xanthomonas campestris pv. campestris str. ATCC 33913,AAM42161.1,Q8P6S6,,Q8P6S6,37364,1,Q8P6S6|1of1,Q8P6S6|1of1
+254,Bacteria,chitinase A (ChiA),3.2.1.14,doi,Xanthomonas sp. AK,BAA36460.1,Q9Z493,,Q9Z493,37461,2,Q9Z493|1of1,Q9Z493|1of1
+255,Bacteria,chitinase A (ChiA; PD_1826;PD1826),3.2.1.14,pubmed,Xylella fastidiosa Temecula1,AAO29659.1,Q87AJ8,,Q87AJ8,37337,1,Q87AJ8|1of1,Q87AJ8|1of1
+256,Bacteria,chitinase (Chi1) (Yen-Tc subunit),3.2.1.14,pubmed,Yersinia sp. MH-1 / Yersinia entomophaga MH96,ABG33870.1,B6A876,"3OA5[A,B]; 4A5Q[A,B,C,D,E]",B6A876,35446,0,B6A876|1of1,B6A876|1of1
+257,Bacteria,chitinase (Chi2) (Yen-Tc subunit),3.2.1.14,doi,Yersinia sp. MH-1 / Yersinia entomophaga MH96,ABG33867.1,B6A879,"4DWS[A,B,C,D]; 6OGD[C,F,I,L,O]; 9C4K[C,F,I,L,O]; 9CBC[C,F,I,L,O]",B6A879,35447,0,B6A879|1of1,B6A879|1of1

@@ -1,0 +1,14 @@
+﻿# Source data for Supplementary Table 17: AU test of seven candidate root positions on the MFP replicate-4 topology.
+# IQ-TREE 3.1.3; model NQ.PFAM+F+R10; -z candidate_roots.treels -n 0 -zb 10000 -zw -au; seed 788015; 773 sequences x 509 sites.
+# Values copied unrounded from the USER TREES table of the IQ-TREE report. treels_index = position of the tree in candidate_roots.treels.
+# Root_branch = node ID in the rep-4 concordance tree (mfp/4/scfl_.cf.tree); Node102 = root of the 771-tip reference tree used for comparative analyses.
+# Deposit: mfp/auroot_seventest/ (alignment, candidate_roots.treels, .iqtree report, .log) at Zenodo DOI: [ADD DOI].
+# Read with: pd.read_csv(path, comment='#')
+Root_branch,treels_index,Root_split_small,Root_split_large,logL,deltaL,bp-RELL,p-KH,p-SH,p-WKH,p-WSH,c-ELW,p-AU,Not_rejected_at_0.05
+Node396,3,296,477,-322080.8136,0.0,0.283,0.574,1.0,0.568,0.843,0.204,1.0,yes
+Node102,1,183,590,-322080.9144,0.10083,0.0653,0.432,0.968,0.432,0.978,0.157,0.71,yes
+Node101,2,119,654,-322081.2865,0.47297,0.0606,0.342,0.7,0.308,0.818,0.119,0.65,yes
+Node103,6,294,479,-322080.9094,0.095834,0.21,0.426,0.832,0.426,0.81,0.171,0.484,yes
+Node691,4,64,709,-322081.3184,0.50481,0.0996,0.336,0.698,0.3,0.741,0.117,0.425,yes
+Node92,5,110,663,-322081.5273,0.71369,0.0856,0.292,0.627,0.21,0.548,0.099,0.276,yes
+MAD_A0A837NXJ2|1of1|ref,7,1,772,-322083.0896,2.2761,0.196,0.247,0.298,0.242,0.309,0.134,0.255,yes

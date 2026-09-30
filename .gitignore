@@ -1,0 +1,63 @@
+# --- macOS / editors ---
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+
+# =====================================================================
+# Large analysis artefacts — deposited at Zenodo, NOT versioned here.
+# See docs/zenodo_manifest.md. GitHub rejects files >100 MB outright and
+# warns above 50 MB; the IQ-TREE intermediates below total ~1.7 GB.
+# =====================================================================
+
+# IQ-TREE run intermediates
+*.ckp.gz
+*.ufboot
+*.state
+*.mldist
+*.splits.nex
+*.model.gz
+*.bionj
+*.trees
+roottest*.roottest.trees
+*.log
+
+# Large primary matrices
+masterannot_allseq_*.csv
+all_domains_annotated_deduplicated_cleaned*.tsv
+gh18alldomains_multiperseq_numdomainsannot*.csv
+loading_SSN_annot.csv
+fastaid_annot_id_clusts_*.csv
+full_seq_*.fasta
+90NRpfamscan_*.fasta
+
+# Journal SI bundles (distributed with the paper)
+Suppdata*.zip
+
+# Catch-all guard: nothing over 50 MB should enter history.
+# Check before committing:  find . -type f -size +50M -not -path './.git/*'
+
+# Data and large outputs: archived at Zenodo
+/data/
+code/ProteinClusterTools-main/data/
+code/ProteinClusterTools-main/output/

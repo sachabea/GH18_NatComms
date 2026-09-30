@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the paper and the Zenodo deposit."
+title: "Analysis code for: The modular evolution of chitinases is governed by coevolution of auxiliary and catalytic domains"
+abstract: >-
+  Analysis code and derived data supporting Pulsford et al. (2026): InterProScan
+  domain-annotation reconciliation, domain-count null-model and dereplication
+  analyses, GH18-specific domain versatility (phi) calculation, sequence
+  similarity network architecture diversity, and phylogenetic trait analyses
+  across the prokaryotic and eukaryotic GH18 chitinase family.
+type: software
+authors:
+  - family-names: Pulsford
+    given-names: Sacha B.
+    email: sacha.pulsford@anu.edu.au
+    affiliation: "Research School of Chemistry, Australian National University"
+  - family-names: Dalton
+    given-names: Jack A. T.
+    affiliation: "Research School of Biology, Australian National University"
+  - family-names: Smith
+    given-names: Oliver B.
+    affiliation: "Research School of Biology, Australian National University"
+  - family-names: Horton
+    given-names: Jack
+    affiliation: "Research School of Chemistry, Australian National University"
+  - family-names: Frkic
+    given-names: Rebecca L.
+    affiliation: "Research School of Chemistry, Australian National University"
+  - family-names: Chen
+    given-names: John Z.
+    affiliation: "Research School of Chemistry, Australian National University"
+  - family-names: Kaczmarski
+    given-names: Joe
+    affiliation: "Research School of Biology, Australian National University"
+  - family-names: Jackson
+    given-names: Colin J.
+    email: colin.jackson@anu.edu.au
+    affiliation: "Research School of Chemistry, Australian National University"
+repository-code: "https://github.com/RSCJacksonLab/pulsford-2026-gh18"
+keywords:
+  - GH18
+  - chitinase
+  - domain architecture
+  - protein evolution
+  - domain promiscuity
+  - sequence similarity network
+  - phylogenetics
+# TODO: set once the licence decision is made (see LICENSE).
+# license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21828480
+    description: "Zenodo deposit: large data files and archived code"
+preferred-citation:
+  type: article
+  title: "The modular evolution of chitinases is governed by coevolution of auxiliary and catalytic domains"
+  journal: "Nature Communications"
+  year: 2026
+  authors:
+    - family-names: Pulsford
+      given-names: Sacha B.
+    - family-names: Dalton
+      given-names: Jack A. T.
+    - family-names: Smith
+      given-names: Oliver B.
+    - family-names: Horton
+      given-names: Jack
+    - family-names: Frkic
+      given-names: Rebecca L.
+    - family-names: Chen
+      given-names: John Z.
+    - family-names: Kaczmarski
+      given-names: Joe
+    - family-names: Jackson
+      given-names: Colin J.
+  # TODO: add doi / volume / pages on acceptance.

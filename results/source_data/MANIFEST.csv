@@ -1,0 +1,5 @@
+file,md5,role
+tree_reference_771.nwk,0d740c501cda9d2cdd86a6c652274fd7,unmodified input to 01_trait_analyses_654.R
+tree_tip_traits_654.csv,f10f25bfdce7a441d909d5881ab11111,unmodified input to 01_trait_analyses_654.R
+STable15_derived_within_group_divergence.csv,,derived (this notebook)
+STable15_16_data_dictionary.csv,,column descriptions

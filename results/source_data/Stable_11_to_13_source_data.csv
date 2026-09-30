@@ -1,0 +1,429 @@
+﻿domain_id,dataset,broad_category,n_GH18,T_GH18,pi_GH18,phi_GH18
+G3DSA:2.10.10.20,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,105,14,0.0093896713615023,0.0118687738323373
+G3DSA:2.110.10.10,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,8,0.005365526492287,0.0158845000808458
+G3DSA:2.60.120.430,Promiscuous,Lectins (β-trefoil / jacalin / C-type / others),48,12,0.0080482897384305,0.0152324593365496
+G3DSA:2.60.40.1080,Promiscuous,Unknowns / DUFs / broad structure-only calls,14,8,0.005365526492287,0.0145905386760604
+G3DSA:2.60.40.1120,Promiscuous,Unknowns / DUFs / broad structure-only calls,53,9,0.0060362173038229,0.0090896987774866
+G3DSA:2.60.40.290,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,7,6,0.0040241448692152,0.0125745543414846
+G3DSA:2.80.10.50,Promiscuous,Unknowns / DUFs / broad structure-only calls,113,16,0.0107310529845741,0.0142092913450154
+G3DSA:3.40.50.1110,Promiscuous,Catalytic partner domains (non-GH18),9,5,0.0033534540576794,0.0090246169308654
+PF00182,Promiscuous,Catalytic partner domains (non-GH18),16,7,0.0046948356807511,0.0115129054483648
+PF00353,Promiscuous,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),3,4,0.0026827632461435,0.009568368896413
+PF00754,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",60,10,0.0067069081153588,0.0099742988897259
+PF00801,Promiscuous,Peptidoglycan-/cell-wall binding and SH3b group,42,10,0.0067069081153588,0.0123664849657737
+PF01833,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",9,5,0.0033534540576794,0.0090246169308654
+PF01841,Promiscuous,Catalytic partner domains (non-GH18),3,4,0.0026827632461435,0.009568368896413
+PF02368,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",20,8,0.005365526492287,0.0126767898152221
+PF03160,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",67,11,0.0073775989268947,0.010860785350791
+PF03422,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,137,14,0.0093896713615023,0.0093709280513926
+PF03995,Promiscuous,Catalytic partner domains (non-GH18),7,5,0.0033534540576794,0.0098673883201374
+PF05345,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",10,10,0.0067069081153588,0.0219914650146625
+PF07705,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,6,6,0.0040241448692152,0.0131948790087975
+PF12245,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,4,0.0026827632461435,0.009568368896413
+PF13472,Promiscuous,Catalytic partner domains (non-GH18),16,7,0.0046948356807511,0.0115129054483648
+PF13620,Promiscuous,Catalytic partner domains (non-GH18),37,8,0.005365526492287,0.0093759949710089
+PF13860,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",52,11,0.0073775989268947,0.0127306296894261
+PF14200,Promiscuous,Lectins (β-trefoil / jacalin / C-type / others),67,10,0.0067069081153588,0.0092342046095859
+PF17936,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,6,0.0040241448692152,0.0107557007248123
+PF18884,Promiscuous,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),6,6,0.0040241448692152,0.0131948790087975
+PF19077,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,5,0.0033534540576794,0.0117440341549309
+PF19081,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",7,5,0.0033534540576794,0.0098673883201374
+PF19408,Promiscuous,Peptidoglycan-/cell-wall binding and SH3b group,9,8,0.005365526492287,0.0169612040135737
+PF22904,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",16,7,0.0046948356807511,0.0115129054483648
+PF24517,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,3,4,0.0026827632461435,0.009568368896413
+PF25275,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,18,7,0.0046948356807511,0.0109599334499781
+PS50835,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,6,0.0040241448692152,0.0107557007248123
+SSF49384,Promiscuous,Carbohydrate-binding modules (CBMs) — glycan grips,110,13,0.0087189805499664,0.0099692511935741
+SSF49785,Promiscuous,Lectins (β-trefoil / jacalin / C-type / others),14,7,0.0046948356807511,0.0121398133949588
+SSF49899,Promiscuous,Lectins (β-trefoil / jacalin / C-type / others),53,18,0.0120724346076458,0.0265473715657573
+TIGR04183,Promiscuous,Surface anchoring & secretion/sorting systems,150,18,0.0120724346076458,0.013987894134641
+cd00063,Promiscuous,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",10,6,0.0040241448692152,0.0111392426958559
+cd00598,Promiscuous,Unknowns / DUFs / broad structure-only calls,107,15,0.0100603621730382,0.0132208128805482
+G3DSA:2.30.30.40,Housekeeper,Unknowns / DUFs / broad structure-only calls,593,16,0.0107310529845741,-0.0035807189062026
+G3DSA:2.60.40.10,Housekeeper,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1903,67,0.044936284372904,-0.0030362015779159
+PF00041,Housekeeper,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5409,45,0.0301810865191146,-0.0455803698716776
+PF00395,Housekeeper,Surface anchoring & secretion/sorting systems,704,13,0.0087189805499664,-0.0062157748793656
+PF00535,Housekeeper,Catalytic partner domains (non-GH18),719,2,0.0013413816230717,-0.0034953544513412
+PF00553,Housekeeper,Carbohydrate-binding modules (CBMs) — glycan grips,3278,22,0.0147551978537894,-0.0254529947617062
+PF00652,Housekeeper,Lectins (β-trefoil / jacalin / C-type / others),618,12,0.0080482897384305,-0.0053332343982575
+PF01476,Housekeeper,Peptidoglycan-/cell-wall binding and SH3b group,2887,19,0.0127431254191817,-0.0222317428366169
+PF02018,Housekeeper,Carbohydrate-binding modules (CBMs) — glycan grips,2612,11,0.0073775989268947,-0.0161646791569613
+PF02839,Housekeeper,Carbohydrate-binding modules (CBMs) — glycan grips,4969,44,0.0295103957075788,-0.0427268278040954
+PF07833,Housekeeper,Catalytic partner domains (non-GH18),1226,14,0.0093896713615023,-0.011206829607462
+PF08239,Housekeeper,Peptidoglycan-/cell-wall binding and SH3b group,887,14,0.0093896713615023,-0.0081677015869308
+PF08329,Housekeeper,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",898,8,0.005365526492287,-0.0077360219607574
+PF13641,Housekeeper,Catalytic partner domains (non-GH18),622,3,0.0020120724346076,-0.0041356144273337
+PF14600,Housekeeper,Carbohydrate-binding modules (CBMs) — glycan grips,399,8,0.005365526492287,-0.0033834604508321
+PF17957,Housekeeper,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1238,31,0.0207914151576123,-0.0084899210377393
+PF22352,Housekeeper,Peptidoglycan-/cell-wall binding and SH3b group,661,15,0.0100603621730382,-0.0050983521636145
+PS51257,Housekeeper,Surface anchoring & secretion/sorting systems,2805,50,0.0335345405767941,-0.0250908242401899
+PS51318,Housekeeper,Surface anchoring & secretion/sorting systems,1709,13,0.0087189805499664,-0.0139485107951591
+SM00495,Housekeeper,Carbohydrate-binding modules (CBMs) — glycan grips,1948,29,0.0194500335345405,-0.0180561511706001
+cd06542,Housekeeper,Unknowns / DUFs / broad structure-only calls,462,5,0.0033534540576794,-0.0041824263747868
+G3DSA:1.10.10.1270,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+G3DSA:1.10.10.60,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:1.10.101.10,Global,Peptidoglycan-/cell-wall binding and SH3b group,5,1,0.0006706908115358,0.0011197112818592
+G3DSA:1.10.1330.10,Global,Cellulosome / cellulolytic apparatus add-ons,26,6,0.0040241448692152,0.0072941262168722
+G3DSA:1.10.150.20,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+G3DSA:1.10.530.10,Global,Unknowns / DUFs / broad structure-only calls,8,2,0.0013413816230717,0.0025387432227582
+G3DSA:1.25.40.10,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),3,1,0.0006706908115358,0.0014623173340161
+G3DSA:1.25.40.20,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+G3DSA:2.10.10.20,Global,Carbohydrate-binding modules (CBMs) — glycan grips,105,14,0.0093896713615023,0.0118687738323373
+G3DSA:2.10.10.90,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.10.270.10,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:2.100.10.30,Global,Lectins (β-trefoil / jacalin / C-type / others),2,1,0.0006706908115358,0.0017342590564226
+G3DSA:2.110.10.10,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,8,0.005365526492287,0.0158845000808458
+G3DSA:2.120.10.30,Global,Outer-layer/periplasmic envelope helpers,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:2.130.10.10,Global,Catalytic partner domains (non-GH18),4,2,0.0013413816230717,0.0034685181128453
+G3DSA:2.130.10.30,Global,DNA/RNA-binding & regulators occasionally fused,1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.30.30.40,Global,Unknowns / DUFs / broad structure-only calls,593,16,0.0107310529845741,-0.0035807189062026
+G3DSA:2.30.60.10,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+G3DSA:2.60.120.200,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.60.120.260,Global,Lectins (β-trefoil / jacalin / C-type / others),224,15,0.0100603621730382,0.0057880440938969
+G3DSA:2.60.120.290,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,3,0.0020120724346076,0.0065974395043987
+G3DSA:2.60.120.380,Global,Unknowns / DUFs / broad structure-only calls,4,3,0.0020120724346076,0.0060186023364877
+G3DSA:2.60.120.430,Global,Lectins (β-trefoil / jacalin / C-type / others),48,12,0.0080482897384305,0.0152324593365496
+G3DSA:2.60.120.560,Global,Catalytic partner domains (non-GH18),57,9,0.0060362173038229,0.008650507504152
+G3DSA:2.60.20.10,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",54,5,0.0033534540576794,0.003016033868397
+G3DSA:2.60.290.11,Global,Unknowns / DUFs / broad structure-only calls,2,2,0.0013413816230717,0.0043982930029325
+G3DSA:2.60.40.10,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1903,67,0.044936284372904,-0.0030362015779159
+G3DSA:2.60.40.1080,Global,Unknowns / DUFs / broad structure-only calls,14,8,0.005365526492287,0.0145905386760604
+G3DSA:2.60.40.1120,Global,Unknowns / DUFs / broad structure-only calls,53,9,0.0060362173038229,0.0090896987774866
+G3DSA:2.60.40.1190,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+G3DSA:2.60.40.1220,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.60.40.1290,Global,Unknowns / DUFs / broad structure-only calls,2,2,0.0013413816230717,0.0043982930029325
+G3DSA:2.60.40.2030,Global,Redox/stress/metal helpers,1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.60.40.2550,Global,Unknowns / DUFs / broad structure-only calls,85,4,0.0026827632461435,0.0005971040598679
+G3DSA:2.60.40.2700,Global,Unknowns / DUFs / broad structure-only calls,2,3,0.0020120724346076,0.0074132646716184
+G3DSA:2.60.40.290,Global,Carbohydrate-binding modules (CBMs) — glycan grips,7,6,0.0040241448692152,0.0125745543414846
+G3DSA:2.60.40.3880,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.60.40.4070,Global,Unknowns / DUFs / broad structure-only calls,30,6,0.0040241448692152,0.0067182676911552
+G3DSA:2.60.40.4270,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,3,0.0020120724346076,0.0060186023364877
+G3DSA:2.60.40.60,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+G3DSA:2.80.10.50,Global,Unknowns / DUFs / broad structure-only calls,113,16,0.0107310529845741,0.0142092913450154
+G3DSA:3.10.40.10,Global,Surface anchoring & secretion/sorting systems,8,2,0.0013413816230717,0.0025387432227582
+G3DSA:3.10.450.50,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:3.20.20.190,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:3.30.160.280,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:3.30.1920.20,Global,Unknowns / DUFs / broad structure-only calls,3,3,0.0020120724346076,0.0065974395043987
+G3DSA:3.30.457.10,Global,Catalytic partner domains (non-GH18),2,1,0.0006706908115358,0.0017342590564226
+G3DSA:3.30.530.20,Global,Redox/stress/metal helpers,1,1,0.0006706908115358,0.0021991465014662
+G3DSA:3.30.565.10,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+G3DSA:3.40.50.1110,Global,Catalytic partner domains (non-GH18),9,5,0.0033534540576794,0.0090246169308654
+G3DSA:3.40.50.880,Global,Unknowns / DUFs / broad structure-only calls,8,1,0.0006706908115358,0.0008044841663355
+G3DSA:3.40.630.40,Global,Catalytic partner domains (non-GH18),4,3,0.0020120724346076,0.0060186023364877
+G3DSA:3.60.10.10,Global,Catalytic partner domains (non-GH18),20,6,0.0040241448692152,0.0083499180255945
+G3DSA:3.90.1720.10,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+G3DSA:3.90.20.10,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+NF012209,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+NF033510,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),2,3,0.0020120724346076,0.0074132646716184
+NF033708,Global,Surface anchoring & secretion/sorting systems,64,1,0.0006706908115358,-0.000590178168795
+PF00030,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,2,0.0013413816230717,0.0038544095581194
+PF00041,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5409,45,0.0301810865191146,-0.0455803698716776
+PF00045,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF00059,Global,Lectins (β-trefoil / jacalin / C-type / others),2,3,0.0020120724346076,0.0074132646716184
+PF00082,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF00161,Global,Catalytic partner domains (non-GH18),6,3,0.0020120724346076,0.005202777169268
+PF00182,Global,Catalytic partner domains (non-GH18),16,7,0.0046948356807511,0.0115129054483648
+PF00293,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF00295,Global,Catalytic partner domains (non-GH18),17,2,0.0013413816230717,0.0015276475790609
+PF00353,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),3,4,0.0026827632461435,0.009568368896413
+PF00388,Global,Catalytic partner domains (non-GH18),8,1,0.0006706908115358,0.0008044841663355
+PF00395,Global,Surface anchoring & secretion/sorting systems,704,13,0.0087189805499664,-0.0062157748793656
+PF00404,Global,Cellulosome / cellulolytic apparatus add-ons,35,5,0.0033534540576794,0.0044702122221021
+PF00431,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",95,8,0.005365526492287,0.0043165235882789
+PF00496,Global,Surface anchoring & secretion/sorting systems,1,1,0.0006706908115358,0.0021991465014662
+PF00535,Global,Catalytic partner domains (non-GH18),719,2,0.0013413816230717,-0.0034953544513412
+PF00553,Global,Carbohydrate-binding modules (CBMs) — glycan grips,3278,22,0.0147551978537894,-0.0254529947617062
+PF00578,Global,Redox/stress/metal helpers,31,1,0.0006706908115358,-0.0001039971635137
+PF00652,Global,Lectins (β-trefoil / jacalin / C-type / others),618,12,0.0080482897384305,-0.0053332343982575
+PF00691,Global,Outer-layer/periplasmic envelope helpers,1,1,0.0006706908115358,0.0021991465014662
+PF00696,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF00702,Global,Catalytic partner domains (non-GH18),2,1,0.0006706908115358,0.0017342590564226
+PF00722,Global,Catalytic partner domains (non-GH18),7,3,0.0020120724346076,0.0048926148356116
+PF00746,Global,Surface anchoring & secretion/sorting systems,8,3,0.0020120724346076,0.004623940001357
+PF00754,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",60,10,0.0067069081153588,0.0099742988897259
+PF00759,Global,Catalytic partner domains (non-GH18),6,4,0.0026827632461435,0.0077088191162388
+PF00801,Global,Peptidoglycan-/cell-wall binding and SH3b group,42,10,0.0067069081153588,0.0123664849657737
+PF00871,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF00934,Global,Surface anchoring & secretion/sorting systems,20,2,0.0013413816230717,0.0013096476736313
+PF00942,Global,Carbohydrate-binding modules (CBMs) — glycan grips,2,1,0.0006706908115358,0.0017342590564226
+PF01270,Global,Catalytic partner domains (non-GH18),2,3,0.0020120724346076,0.0074132646716184
+PF01364,Global,Surface anchoring & secretion/sorting systems,1,2,0.0013413816230717,0.0053280678930196
+PF01381,Global,DNA/RNA-binding & regulators occasionally fused,5,1,0.0006706908115358,0.0011197112818592
+PF01391,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),2,2,0.0013413816230717,0.0043982930029325
+PF01419,Global,Lectins (β-trefoil / jacalin / C-type / others),29,1,0.0006706908115358,-5.9267871428763697e-05
+PF01468,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF01471,Global,Peptidoglycan-/cell-wall binding and SH3b group,130,10,0.0067069081153588,0.0047885853536193
+PF01476,Global,Peptidoglycan-/cell-wall binding and SH3b group,2887,19,0.0127431254191817,-0.0222317428366169
+PF01510,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF01520,Global,Catalytic partner domains (non-GH18),4,4,0.0026827632461435,0.008796586005865
+PF01607,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,1,0.0006706908115358,0.0021991465014662
+PF01636,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF01757,Global,Catalytic partner domains (non-GH18),3,1,0.0006706908115358,0.0014623173340161
+PF01833,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",9,5,0.0033534540576794,0.0090246169308654
+PF01839,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",2,2,0.0013413816230717,0.0043982930029325
+PF01841,Global,Catalytic partner domains (non-GH18),3,4,0.0026827632461435,0.009568368896413
+PF02018,Global,Carbohydrate-binding modules (CBMs) — glycan grips,2612,11,0.0073775989268947,-0.0161646791569613
+PF02065,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+PF02210,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF02368,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",20,8,0.005365526492287,0.0126767898152221
+PF02412,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),2,2,0.0013413816230717,0.0043982930029325
+PF02838,Global,Catalytic partner domains (non-GH18),2,1,0.0006706908115358,0.0017342590564226
+PF02839,Global,Carbohydrate-binding modules (CBMs) — glycan grips,4969,44,0.0295103957075788,-0.0427268278040954
+PF02927,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,1,0.0006706908115358,0.0012693716113791
+PF03009,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF03067,Global,Catalytic partner domains (non-GH18),12,5,0.0033534540576794,0.0080598883176803
+PF03118,Global,DNA/RNA-binding & regulators occasionally fused,11,1,0.0006706908115358,0.000590900174975
+PF03160,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",67,11,0.0073775989268947,0.010860785350791
+PF03217,Global,Surface anchoring & secretion/sorting systems,3,3,0.0020120724346076,0.0065974395043987
+PF03272,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,1,0.0006706908115358,0.0021991465014662
+PF03372,Global,Catalytic partner domains (non-GH18),6,2,0.0013413816230717,0.0029246346680322
+PF03422,Global,Carbohydrate-binding modules (CBMs) — glycan grips,137,14,0.0093896713615023,0.0093709280513926
+PF03995,Global,Catalytic partner domains (non-GH18),7,5,0.0033534540576794,0.0098673883201374
+PF04122,Global,Outer-layer/periplasmic envelope helpers,85,5,0.0033534540576794,0.0014946817224345
+PF04151,Global,Surface anchoring & secretion/sorting systems,1,2,0.0013413816230717,0.0053280678930196
+PF04397,Global,DNA/RNA-binding & regulators occasionally fused,20,2,0.0013413816230717,0.0013096476736313
+PF04886,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,2,0.0013413816230717,0.0053280678930196
+PF05048,Global,Redox/stress/metal helpers,1,1,0.0006706908115358,0.0021991465014662
+PF05257,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF05270,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF05345,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",10,10,0.0067069081153588,0.0219914650146625
+PF05630,Global,Surface anchoring & secretion/sorting systems,1,1,0.0006706908115358,0.0021991465014662
+PF06057,Global,Surface anchoring & secretion/sorting systems,3,1,0.0006706908115358,0.0014623173340161
+PF06229,Global,DNA/RNA-binding & regulators occasionally fused,1,1,0.0006706908115358,0.0021991465014662
+PF06283,Global,Catalytic partner domains (non-GH18),83,1,0.0006706908115358,-0.0007645292918245
+PF06347,Global,Peptidoglycan-/cell-wall binding and SH3b group,36,3,0.0020120724346076,0.001597627331787
+PF06452,Global,Carbohydrate-binding modules (CBMs) — glycan grips,5,1,0.0006706908115358,0.0011197112818592
+PF06458,Global,Outer-layer/periplasmic envelope helpers,4,4,0.0026827632461435,0.008796586005865
+PF07081,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF07335,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF07486,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF07554,Global,Outer-layer/periplasmic envelope helpers,1,1,0.0006706908115358,0.0021991465014662
+PF07589,Global,Unknowns / DUFs / broad structure-only calls,2,2,0.0013413816230717,0.0043982930029325
+PF07653,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+PF07691,Global,Carbohydrate-binding modules (CBMs) — glycan grips,8,2,0.0013413816230717,0.0025387432227582
+PF07702,Global,DNA/RNA-binding & regulators occasionally fused,1,1,0.0006706908115358,0.0021991465014662
+PF07705,Global,Carbohydrate-binding modules (CBMs) — glycan grips,6,6,0.0040241448692152,0.0131948790087975
+PF07833,Global,Catalytic partner domains (non-GH18),1226,14,0.0093896713615023,-0.011206829607462
+PF08126,Global,Surface anchoring & secretion/sorting systems,1,1,0.0006706908115358,0.0021991465014662
+PF08239,Global,Peptidoglycan-/cell-wall binding and SH3b group,887,14,0.0093896713615023,-0.0081677015869308
+PF08291,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF08305,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,2,0.0013413816230717,0.0053280678930196
+PF08308,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+PF08310,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+PF08329,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",898,8,0.005365526492287,-0.0077360219607574
+PF08522,Global,Outer-layer/periplasmic envelope helpers,122,4,0.0026827632461435,-0.0003723655262969
+PF08547,Global,Redox/stress/metal helpers,1,1,0.0006706908115358,0.0021991465014662
+PF08787,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF08881,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,1,0.0006706908115358,0.0021991465014662
+PF09343,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF09373,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),5,3,0.0020120724346076,0.0055696213479279
+PF09479,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",25,6,0.0040241448692152,0.007451956048475
+PF09835,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",6,1,0.0006706908115358,0.0009974298889725
+PF10102,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF10462,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF10503,Global,Catalytic partner domains (non-GH18),2,1,0.0006706908115358,0.0017342590564226
+PF10589,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+PF10901,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+PF11175,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF11614,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF11617,Global,Redox/stress/metal helpers,2,1,0.0006706908115358,0.0017342590564226
+PF11721,Global,Carbohydrate-binding modules (CBMs) — glycan grips,30,2,0.0013413816230717,0.0007657642288182
+PF12151,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+PF12245,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,4,0.0026827632461435,0.009568368896413
+PF12671,Global,Unknowns / DUFs / broad structure-only calls,6,1,0.0006706908115358,0.0009974298889725
+PF12708,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF12733,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF12799,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",17,1,0.0006706908115358,0.0002989363444869
+PF13004,Global,Carbohydrate-binding modules (CBMs) — glycan grips,11,3,0.0020120724346076,0.0039831880272755
+PF13149,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF13205,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",8,3,0.0020120724346076,0.004623940001357
+PF13229,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),2,1,0.0006706908115358,0.0017342590564226
+PF13290,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",26,4,0.0026827632461435,0.0037749839216219
+PF13350,Global,Catalytic partner domains (non-GH18),2,2,0.0013413816230717,0.0043982930029325
+PF13385,Global,Lectins (β-trefoil / jacalin / C-type / others),196,14,0.0093896713615023,0.0060081699912763
+PF13419,Global,Catalytic partner domains (non-GH18),9,2,0.0013413816230717,0.0023807512232191
+PF13472,Global,Catalytic partner domains (non-GH18),16,7,0.0046948356807511,0.0115129054483648
+PF13517,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",15,4,0.0026827632461435,0.0052506280179848
+PF13585,Global,Surface anchoring & secretion/sorting systems,2,2,0.0013413816230717,0.0043982930029325
+PF13620,Global,Catalytic partner domains (non-GH18),37,8,0.005365526492287,0.0093759949710089
+PF13632,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PF13641,Global,Catalytic partner domains (non-GH18),622,3,0.0020120724346076,-0.0041356144273337
+PF13746,Global,Redox/stress/metal helpers,1,1,0.0006706908115358,0.0021991465014662
+PF13860,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",52,11,0.0073775989268947,0.0127306296894261
+PF13895,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF13927,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",2,2,0.0013413816230717,0.0043982930029325
+PF14200,Global,Lectins (β-trefoil / jacalin / C-type / others),67,10,0.0067069081153588,0.0092342046095859
+PF14252,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+PF14600,Global,Carbohydrate-binding modules (CBMs) — glycan grips,399,8,0.005365526492287,-0.0033834604508321
+PF14691,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+PF14873,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,3,0.0020120724346076,0.0038081148341374
+PF16158,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",16,3,0.0020120724346076,0.0032292776662263
+PF16184,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF16341,Global,Unknowns / DUFs / broad structure-only calls,5,1,0.0006706908115358,0.0011197112818592
+PF16403,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",169,13,0.0087189805499664,0.0062251609597052
+PF16586,Global,Unknowns / DUFs / broad structure-only calls,3,2,0.0013413816230717,0.0038544095581194
+PF16820,Global,Peptidoglycan-/cell-wall binding and SH3b group,9,2,0.0013413816230717,0.0023807512232191
+PF16990,Global,Carbohydrate-binding modules (CBMs) — glycan grips,19,3,0.0020120724346076,0.002883502501384
+PF17165,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF17210,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,2,0.0013413816230717,0.0053280678930196
+PF17389,Global,Catalytic partner domains (non-GH18),6,1,0.0006706908115358,0.0009974298889725
+PF17652,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,2,0.0013413816230717,0.0053280678930196
+PF17801,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",43,1,0.0006706908115358,-0.0003234558564771
+PF17803,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF17829,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF17882,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+PF17936,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,6,0.0040241448692152,0.0107557007248123
+PF17957,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1238,31,0.0207914151576123,-0.0084899210377393
+PF17963,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",282,12,0.0080482897384305,0.0009813039238315
+PF18204,Global,Surface anchoring & secretion/sorting systems,2,1,0.0006706908115358,0.0017342590564226
+PF18259,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,1,0.0006706908115358,0.0021991465014662
+PF18348,Global,Peptidoglycan-/cell-wall binding and SH3b group,44,2,0.0013413816230717,0.000252025459863
+PF18370,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,2,0.0013413816230717,0.0034685181128453
+PF18416,Global,Carbohydrate-binding modules (CBMs) — glycan grips,2,1,0.0006706908115358,0.0017342590564226
+PF18683,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF18884,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),6,6,0.0040241448692152,0.0131948790087975
+PF18911,Global,Peptidoglycan-/cell-wall binding and SH3b group,442,17,0.0114017437961099,0.0002375085354124
+PF18962,Global,Surface anchoring & secretion/sorting systems,635,26,0.0174379610999329,0.0014543080437219
+PF18986,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF18998,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",6,3,0.0020120724346076,0.005202777169268
+PF19077,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,5,0.0033534540576794,0.0117440341549309
+PF19081,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",7,5,0.0033534540576794,0.0098673883201374
+PF19127,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,1,0.0006706908115358,0.0021991465014662
+PF19408,Global,Peptidoglycan-/cell-wall binding and SH3b group,9,8,0.005365526492287,0.0169612040135737
+PF20200,Global,Unknowns / DUFs / broad structure-only calls,9,2,0.0013413816230717,0.0023807512232191
+PF20578,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",31,5,0.0033534540576794,0.0048771902804666
+PF20622,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",34,1,0.0006706908115358,-0.0001659511005566
+PF20746,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF21027,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,2,0.0013413816230717,0.0053280678930196
+PF21526,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),11,4,0.0026827632461435,0.0060827002602487
+PF21868,Global,Carbohydrate-binding modules (CBMs) — glycan grips,26,3,0.0020120724346076,0.0022524007733054
+PF22322,Global,Unknowns / DUFs / broad structure-only calls,18,3,0.0020120724346076,0.0029922896669177
+PF22352,Global,Peptidoglycan-/cell-wall binding and SH3b group,661,15,0.0100603621730382,-0.0050983521636145
+PF22544,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+PF22633,Global,Carbohydrate-binding modules (CBMs) — glycan grips,18,6,0.0040241448692152,0.0087739040040968
+PF22704,Global,Carbohydrate-binding modules (CBMs) — glycan grips,2,1,0.0006706908115358,0.0017342590564226
+PF22888,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,2,0.0013413816230717,0.0038544095581194
+PF22904,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",16,7,0.0046948356807511,0.0115129054483648
+PF23473,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+PF23952,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,2,0.0013413816230717,0.0053280678930196
+PF24346,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PF24489,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+PF24517,Global,Carbohydrate-binding modules (CBMs) — glycan grips,3,4,0.0026827632461435,0.009568368896413
+PF25275,Global,Carbohydrate-binding modules (CBMs) — glycan grips,18,7,0.0046948356807511,0.0109599334499781
+PF25490,Global,Unknowns / DUFs / broad structure-only calls,3,2,0.0013413816230717,0.0038544095581194
+PF25528,Global,Unknowns / DUFs / broad structure-only calls,27,3,0.0020120724346076,0.0021764644996981
+PF26178,Global,Catalytic partner domains (non-GH18),7,4,0.0026827632461435,0.0072952693380302
+PF26607,Global,Unknowns / DUFs / broad structure-only calls,10,2,0.0013413816230717,0.0022394225637184
+PIRSR000382-1,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR001084-2,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR001400-3,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+PIRSR001461-3,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR004762-2,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+PIRSR006278-1,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR011396-1,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR018168-1,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+PIRSR036917-2,Global,Unknowns / DUFs / broad structure-only calls,2,1,0.0006706908115358,0.0017342590564226
+PIRSR037215-2,Global,Unknowns / DUFs / broad structure-only calls,4,1,0.0006706908115358,0.0012693716113791
+PIRSR037479-3,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR037479-4,Global,Unknowns / DUFs / broad structure-only calls,7,3,0.0020120724346076,0.0048926148356116
+PIRSR600514-1,Global,Unknowns / DUFs / broad structure-only calls,6,1,0.0006706908115358,0.0009974298889725
+PIRSR600895-50,Global,Unknowns / DUFs / broad structure-only calls,4,1,0.0006706908115358,0.0012693716113791
+PIRSR601088-3,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR610972-3,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+PIRSR617512-2,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PIRSR617736-2,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+PIRSR622314-3,Global,Unknowns / DUFs / broad structure-only calls,2,2,0.0013413816230717,0.0043982930029325
+PIRSR625705-1,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PR00014,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),35,3,0.0020120724346076,0.0016543091767905
+PR00313,Global,Unknowns / DUFs / broad structure-only calls,1,2,0.0013413816230717,0.0053280678930196
+PR01217,Global,Unknowns / DUFs / broad structure-only calls,8,4,0.0026827632461435,0.0069370362256907
+PR01228,Global,Unknowns / DUFs / broad structure-only calls,7,2,0.0013413816230717,0.0027178597789279
+PR01409,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",2,1,0.0006706908115358,0.0017342590564226
+PR01488,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+PS50007,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PS50095,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",2,1,0.0006706908115358,0.0017342590564226
+PS50096,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+PS50141,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+PS50801,Global,Redox/stress/metal helpers,1,1,0.0006706908115358,0.0021991465014662
+PS50835,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",11,6,0.0040241448692152,0.0107557007248123
+PS50836,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+PS50853,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5,4,0.0026827632461435,0.0081979446877853
+PS50889,Global,DNA/RNA-binding & regulators occasionally fused,1,2,0.0013413816230717,0.0053280678930196
+PS50927,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+PS51257,Global,Surface anchoring & secretion/sorting systems,2805,50,0.0335345405767941,-0.0250908242401899
+PS51272,Global,Surface anchoring & secretion/sorting systems,63,3,0.0020120724346076,0.0004716398309109
+PS51318,Global,Surface anchoring & secretion/sorting systems,1709,13,0.0087189805499664,-0.0139485107951591
+PS51781,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+PS51782,Global,Peptidoglycan-/cell-wall binding and SH3b group,5,2,0.0013413816230717,0.0031691974538055
+PS51820,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,1,0.0006706908115358,0.0021991465014662
+PTHR31451,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+PTHR34142,Global,Catalytic partner domains (non-GH18),2,1,0.0006706908115358,0.0017342590564226
+PTHR35923,Global,Catalytic partner domains (non-GH18),14,3,0.0020120724346076,0.0034979525004809
+SM00060,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",24,6,0.0040241448692152,0.0076162296682748
+SM00089,Global,Peptidoglycan-/cell-wall binding and SH3b group,11,5,0.0033534540576794,0.0083516769729105
+SM00108,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+SM00191,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+SM00257,Global,Peptidoglycan-/cell-wall binding and SH3b group,5,2,0.0013413816230717,0.0031691974538055
+SM00287,Global,Peptidoglycan-/cell-wall binding and SH3b group,3,3,0.0020120724346076,0.0065974395043987
+SM00495,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1948,29,0.0194500335345405,-0.0180561511706001
+SSF103647,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,2,0.0013413816230717,0.0053280678930196
+SSF110296,Global,Catalytic partner domains (non-GH18),8,3,0.0020120724346076,0.004623940001357
+SSF117074,Global,Unknowns / DUFs / broad structure-only calls,3,3,0.0020120724346076,0.0065974395043987
+SSF141072,Global,Redox/stress/metal helpers,1,2,0.0013413816230717,0.0053280678930196
+SSF142984,Global,Redox/stress/metal helpers,1,2,0.0013413816230717,0.0053280678930196
+SSF47090,Global,Peptidoglycan-/cell-wall binding and SH3b group,2,2,0.0013413816230717,0.0043982930029325
+SSF48726,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",21,5,0.0033534540576794,0.0061832424828868
+SSF49265,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",15,5,0.0033534540576794,0.0073115866700807
+SSF49299,Global,Peptidoglycan-/cell-wall binding and SH3b group,7,3,0.0020120724346076,0.0048926148356116
+SSF49313,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,2,0.0013413816230717,0.0053280678930196
+SSF49373,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+SSF49384,Global,Carbohydrate-binding modules (CBMs) — glycan grips,110,13,0.0087189805499664,0.0099692511935741
+SSF49452,Global,Carbohydrate-binding modules (CBMs) — glycan grips,3,2,0.0013413816230717,0.0038544095581194
+SSF49464,Global,Catalytic partner domains (non-GH18),24,6,0.0040241448692152,0.0076162296682748
+SSF49478,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",37,7,0.0046948356807511,0.0075770876530388
+SSF49785,Global,Lectins (β-trefoil / jacalin / C-type / others),14,7,0.0046948356807511,0.0121398133949588
+SSF49899,Global,Lectins (β-trefoil / jacalin / C-type / others),53,18,0.0120724346076458,0.0265473715657573
+SSF50370,Global,Lectins (β-trefoil / jacalin / C-type / others),1,1,0.0006706908115358,0.0021991465014662
+SSF50939,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+SSF50969,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+SSF51055,Global,Carbohydrate-binding modules (CBMs) — glycan grips,6,2,0.0013413816230717,0.0029246346680322
+SSF51126,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),1,1,0.0006706908115358,0.0021991465014662
+SSF53448,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+SSF54106,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+SSF54593,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+SSF55383,Global,Catalytic partner domains (non-GH18),63,6,0.0040241448692152,0.0037326043320833
+SSF55486,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+SSF56371,Global,Catalytic partner domains (non-GH18),3,3,0.0020120724346076,0.0065974395043987
+SSF56436,Global,Lectins (β-trefoil / jacalin / C-type / others),1,2,0.0013413816230717,0.0053280678930196
+SSF57615,Global,Carbohydrate-binding modules (CBMs) — glycan grips,1,2,0.0013413816230717,0.0053280678930196
+SSF63446,Global,Cellulosome / cellulolytic apparatus add-ons,5,2,0.0013413816230717,0.0031691974538055
+SSF63825,Global,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),2,1,0.0006706908115358,0.0017342590564226
+SSF63829,Global,Catalytic partner domains (non-GH18),2,2,0.0013413816230717,0.0043982930029325
+SSF69318,Global,Peptidoglycan-/cell-wall binding and SH3b group,5,2,0.0013413816230717,0.0031691974538055
+SSF75011,Global,Catalytic partner domains (non-GH18),1,2,0.0013413816230717,0.0053280678930196
+SSF81296,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4,3,0.0020120724346076,0.0060186023364877
+SSF89372,Global,Lectins (β-trefoil / jacalin / C-type / others),9,4,0.0026827632461435,0.0066210522266126
+TIGR01167,Global,Surface anchoring & secretion/sorting systems,15,4,0.0026827632461435,0.0052506280179848
+TIGR03382,Global,Surface anchoring & secretion/sorting systems,1,1,0.0006706908115358,0.0021991465014662
+TIGR03437,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+TIGR03901,Global,Surface anchoring & secretion/sorting systems,5,2,0.0013413816230717,0.0031691974538055
+TIGR04174,Global,Surface anchoring & secretion/sorting systems,1,1,0.0006706908115358,0.0021991465014662
+TIGR04183,Global,Surface anchoring & secretion/sorting systems,150,18,0.0120724346076458,0.013987894134641
+TIGR04213,Global,Surface anchoring & secretion/sorting systems,6,2,0.0013413816230717,0.0029246346680322
+cd00063,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",10,6,0.0040241448692152,0.0111392426958559
+cd00118,Global,Peptidoglycan-/cell-wall binding and SH3b group,1,2,0.0013413816230717,0.0053280678930196
+cd00146,Global,Peptidoglycan-/cell-wall binding and SH3b group,3,2,0.0013413816230717,0.0038544095581194
+cd00598,Global,Unknowns / DUFs / broad structure-only calls,107,15,0.0100603621730382,0.0132208128805482
+cd02795,Global,Carbohydrate-binding modules (CBMs) — glycan grips,32,2,0.0013413816230717,0.000679193442584
+cd06464,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662
+cd06542,Global,Unknowns / DUFs / broad structure-only calls,462,5,0.0033534540576794,-0.0041824263747868
+cd06545,Global,Unknowns / DUFs / broad structure-only calls,61,3,0.0020120724346076,0.0005365510224969
+cd11304,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1,1,0.0006706908115358,0.0021991465014662
+cd11576,Global,Catalytic partner domains (non-GH18),1,1,0.0006706908115358,0.0021991465014662
+cd12214,Global,Carbohydrate-binding modules (CBMs) — glycan grips,6,2,0.0013413816230717,0.0029246346680322
+cd12215,Global,Carbohydrate-binding modules (CBMs) — glycan grips,6,3,0.0020120724346076,0.005202777169268
+cd19941,Global,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",3,2,0.0013413816230717,0.0038544095581194
+cd20174,Global,Unknowns / DUFs / broad structure-only calls,202,6,0.0040241448692152,-0.0009560595351588
+cd20742,Global,Unknowns / DUFs / broad structure-only calls,1,1,0.0006706908115358,0.0021991465014662

@@ -1,0 +1,23 @@
+name: gh18
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - biopython
+  - tqdm
+  - jupyterlab
+  - ipython
+  - pip
+  - pip:
+      - dendropy        # code/phylogenetics/strip_internal_labels.py
+# Notebooks were run under Python 3.13.5 (kernel "domains").
+# TODO: pin exact versions with `conda env export --no-builds` from the
+# environment that produced the published figures, and commit as
+# environment.lock.yml.

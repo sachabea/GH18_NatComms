@@ -1,0 +1,42 @@
+LICENCE NOT YET SET — PLACEHOLDER
+=================================
+
+*** This repository must not be made public until this file is replaced. ***
+
+Nature Communications requires that custom code supporting a publication be
+released under a recognised open-source licence, and the Code Availability
+statement for this manuscript points readers to
+https://github.com/RSCJacksonLab. A repository with no licence is, by default,
+"all rights reserved" — readers cannot legally reuse it, which does not satisfy
+that requirement.
+
+Decision needed from the Jackson lab / ANU:
+
+  Option A (recommended, and the usual choice for a methods repository)
+      MIT for the code in code/, and CC-BY-4.0 for the derived tables in
+      data/ and results/. Permissive, citation-preserving, and compatible
+      with the Zenodo deposit (10.5281/zenodo.21828480), which should carry
+      the same terms.
+
+  Option B
+      MIT for everything. Simplest; one file covers code and data.
+
+  Option C
+      GPL-3.0. Only if the lab or ANU requires derivative works to remain
+      open. Note this is more restrictive than most reviewers expect for
+      analysis code and can deter reuse.
+
+Points to confirm before choosing:
+
+  - ANU / ARC Centre of Excellence policy on IP in published research code.
+  - That the licence here matches the licence attached to the Zenodo record;
+    a mismatch between the two is a common and avoidable reviewer query.
+  - Third-party material redistributed here carries its own terms and is not
+    covered by whichever licence you choose: CAZy-derived tables
+    (data/cazy/), UniProt and InterPro annotations, and SignalP 6.0 output
+    (SignalP is free for academic use only). Note these in the licence file
+    or in docs/data_sources.md.
+
+Once decided, replace this file with the full licence text (github.com/
+licenses or choosealicense.com), set the `license:` field in CITATION.cff,
+and state the licence in the README.

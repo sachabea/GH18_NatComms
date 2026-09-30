@@ -1,0 +1,13 @@
+# Python 3.13.5 (notebooks were run under the "domains" kernel).
+# TODO: replace with pinned versions (`pip freeze`) from the environment
+# that produced the published figures.
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+biopython
+tqdm
+jupyterlab
+dendropy

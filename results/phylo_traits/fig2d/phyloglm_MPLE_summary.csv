@@ -1,0 +1,2 @@
+"method","n_tips","n_positive","beta","SE","odds_ratio","OR_CI_low","OR_CI_high","CI_method","p_value","alpha","n_boot_requested"
+"logistic_MPLE",630,21,0.000366055520084374,0.809378793603408,1.00036612252658,0.478799236057304,4.09977209998604,"parametric bootstrap from summary",0.999639142957261,1.58363946610017,1000

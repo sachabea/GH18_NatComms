@@ -1,0 +1,2 @@
+"n_tips","n_positive","n_cluster_12","n_non_cluster_12","table_odds_ratio","fisher_odds_ratio","fisher_CI_low","fisher_CI_high","fisher_p_value","glm_beta","glm_SE","glm_p_value"
+630,21,218,412,2.13623188405797,2.13350354706696,0.807809731204676,5.70456663009304,0.101860774421964,0.759043474773457,0.445224435860849,0.0882213161263587

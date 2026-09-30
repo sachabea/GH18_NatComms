@@ -1,0 +1,259 @@
+﻿Uniprot_Accession,SSN_node,Automated_cluster,Annotated_cluster,Taxa,Organism,Protein_Name,GenBank_Accessions,Reference_Type,EC_Number,Activity_class,Non_chitinase
+A0A059UJT0,A0A059UJT0|1of1,0,1.2,Bacteria,Serratia marcescens JPP1,chitinase (ChiB; ChiBjp),AHZ63793.1,pubmed,3.2.1.14,endochitinase,False
+A0A060KSS6,A0A060KSS6|1of1,0,1.2,Bacteria,Paenibacillus barengoltzii CAU904,exo-chitinase (Chi1; PbChi74) (GlcNAc-producing),AIC64238.1,pubmed; pubmed,3.2.1.200; 3.2.1.-,exochitinase/chitobiosidase + unassigned (3.2.1.-),False
+A0A0F6NWE3,A0A0F6NWE3|1of1,0,1.2,Bacteria,Paenibacillus barengoltzii CAU904 / CGMCC9530,chitinase (PbChi70; Chi2),AIT70967.1,pubmed,3.2.1.14,endochitinase,False
+A0A0H3N7I6,A0A0H3N7I6|1of1,0,1.2,Bacteria,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,chitinase A (ChiA; StChiA; SL0018; SL1344_0018),CBW16119.1; CBW16119.2,pubmed,3.2.1.14,endochitinase,False
+A0A0H3YJ45,A0A0H3YJ45|1of1,0,1.2,Bacteria,Brevibacillus laterosporus M64,chitinase (ChiA),AKN21157.1,pubmed,3.2.1.14,endochitinase,False
+A0A0H4CPE0,A0A0H4CPE0|1of1,0,1.2,Bacteria,Brevibacillus sp. CDY64,chitinase 72A (Chi72A),AKN79541.1,doi,3.2.1.14,endochitinase,False
+A0A0H4CS66,A0A0H4CS66|1of1,0,1.2,Bacteria,Brevibacillus laterosporus M9,chitinase (ChiC),AKN79540.1,pubmed,3.2.1.14,endochitinase,False
+A0A1Y0JY52,A0A1Y0JY52|1of1,0,1.2,Bacteria,Paenibacillus elgii HOA73,chitinase (Chi68;PeChi68),ARU77129.1,pubmed,3.2.1.14,endochitinase,False
+A0A3E2ECF9,A0A3E2ECF9|1of1,0,1.2,Bacteria,Serratia marcescens QMB1466 / BJL200,chitinase B (ChiB),CAA33278.1; AAL57855.1; BAA31568.1,pubmed,3.2.1.14,endochitinase,False
+A0A482G4C5,A0A482G4C5|1of1,0,1.2,Bacteria,Paenibacillus barengoltzii CAU904 / CGMCC9530,β-N-acetylglucosaminidase (PbNag39),QBO56278.1,pubmed,3.2.1.52,beta-N-acetylhexosaminidase,True
+A0A979G2X1,A0A979G2X1|1of1,0,1.2,Bacteria,Chitinophaga pinensis DSM 2588,exo-chitinase (CpChiB; Cpin_2186),ACU59678.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+A0A979GQH9,A0A979GQH9|2of2,0,1.2,Bacteria,Chitinophaga pinensis DSM 2588,"bimodular endo-β-1,6-glucanase / chitinase (Cpin_2580; CpGlu5N; CpChi18; CpCBM92A; CpCBM92B)",ACU60063.1,pubmed,3.2.1.14,endochitinase,False
+A0A979GT74,A0A979GT74|1of2,0,1.2,Bacteria,Chitinophaga pinensis DSM 2588,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),ACU59676.1,pubmed,3.2.1.14,endochitinase,False
+A0A979GT74,A0A979GT74|1of2,0,1.2,Bacteria,Chitinophaga pinensis DSM 2588,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),ACU59676.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+A0A9Q3UC14,A0A9Q3UC14|1of1,0,1.2,Bacteria,Vibrio parahaemolyticus KN1699,chitinase (Chi1;Pα-Chi),BAF91600.1; ABY50231.1,pubmed,3.2.1.14,endochitinase,False
+A0AB36TST2,A0AB36TST2|1of1,0,1.2,Bacteria,Bacillus thuringiensis LBIT-82,chitinase (ChiA74;Chi),AAL17867.1; AAL71886.2; ABO21095.1,pubmed,3.2.1.14,endochitinase,False
+A0EQW8,A0EQW8|1of1,0,1.2,Bacteria,Bacillus sp. DAU101,chitinase (Chisb;Chi) (chitobiose-producing),ABC66095.1,pubmed,3.2.1.132,chitosanase,True
+A0KGX3,A0KGX3|1of1,0,1.2,Bacteria,Aeromonas hydrophila subsp. hydrophila ATCC 7966,chitinase (Chi-A;AHA_0977),ABK39408.1,pubmed,3.2.1.14,endochitinase,False
+A0Q5K5,A0Q5K5|1of1,0,1.2,Bacteria,Francisella tularensis subsp. novicida U112,chitinase A (ChiA; FTN_0627),ABB76136.1; ABK89520.1; AJI60891.1,pubmed,3.2.1.14,endochitinase,False
+A1XNE9,A1XNE9|1of1,0,1.2,Bacteria,proteobacterium 12A,chitinase (fragment),ABE96872.1,,3.2.1.14,endochitinase,False
+A2TC68,A2TC68|1of1,0,1.2,Bacteria,Serratia sp. KCK,exochitinase (ChiA),ABM69267.1,pubmed,3.2.1.14,endochitinase,False
+A3DC30,A3DC30|1of1,0,1.2,Bacteria,Acetivibrio thermocellus ATCC 27405,chitinase A (ChiA; Cthe_0270) (Chi18A),CAA93150.1; ABN51509.1,pubmed,3.2.1.14,endochitinase,False
+A4GT76,A4GT76|1of1,0,1.2,Bacteria,Bacillus thuringiensis LBIT-82,chitinase (ChiA74;Chi),AAL17867.1; AAL71886.2; ABO21095.1,pubmed,3.2.1.14,endochitinase,False
+A5A699,A5A699|1of1,0,1.2,Bacteria,Bacillus licheniformis DSM 13 = ATCC 14580,chitinase 1 (Chi; Chi1; YvbX; BliCHI; BLi00338; BL01685),AAU21943.2; AAU21943.1; AAU39296.1; ACR87900.1; ACW83016.1; CAF05579.1; CAV28467.1,pubmed,3.2.1.14,endochitinase,False
+A5FB54,A5FB54|1of1,0,1.2,Bacteria,Flavobacterium johnsoniae UW101,chitinase (ChiB; FjChiB; Fjoh_4560),ABQ07559.1,pubmed,3.2.1.14,endochitinase,False
+A5FB63,A5FB63|1of2,0,1.2,Bacteria,Flavobacterium johnsoniae UW101,chitinase (ChiA; Fjoh_4555),ABQ07554.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+A5FB63,A5FB63|1of2,0,1.2,Bacteria,Flavobacterium johnsoniae UW101,chitinase (ChiA; Fjoh_4555),ABQ07554.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+A5YRG4,A5YRG4|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar kurstaki HD-73,chitinase (ChiA;ChiA-HD73),ABQ65137.2,pubmed,3.2.1.14,endochitinase,False
+A6XFF7,A6XFF7|1of1,0,1.2,Bacteria,Serratia marcescens ATCC 990,chitinase A (ChiA),AAW47932.1; ABI58232.1,doi,3.2.1.14,endochitinase,False
+A7M6A0,A7M6A0|1of1,0,1.2,Bacteria,Vibrio proteolyticus 442,chitinase A (ChiA),BAF76068.1,pubmed,3.2.1.14,endochitinase,False
+A8G807,A8G807|1of1,0,1.2,Bacteria,Serratia proteamaculans 568,chitinase A (ChiA;SpChiA;Spro_0137),ABV39247.1,pubmed,3.2.1.14,endochitinase,False
+A8GFD6,A8GFD6|1of1,0,1.2,Bacteria,Serratia proteamaculans 568,chitinase D (ChiD;SpChiD;Spro_2725),ABV41826.1,pubmed,3.2.1.14,endochitinase,False
+A8GHI4,A8GHI4|1of1,0,1.2,Bacteria,Serratia proteamaculans 568,chitinase C (ChiC;SpChiC;Spro_3476),ABV42574.1,pubmed,3.2.1.14,endochitinase,False
+A8QZK0,A8QZK0|1of1,0,1.2,Bacteria,Vibrio parahaemolyticus KN1699,chitinase (Chi1;Pα-Chi),BAF91600.1; ABY50231.1,pubmed,3.2.1.14,endochitinase,False
+A9KSD7,A9KSD7|1of1,0,1.2,Bacteria,Lachnoclostridium phytofermentans ISDg,endo-chitinase (Cphy_1800;Cphy1800),ABX42169.1,pubmed,3.2.1.14,endochitinase,False
+B0F618,B0F618|1of1,0,1.2,Bacteria,Vibrio parahaemolyticus KN1699,chitinase (Chi1;Pα-Chi),BAF91600.1; ABY50231.1,pubmed,3.2.1.14,endochitinase,False
+B0R478,B0R478|1of1,0,1.2,Archaea,Halobacterium salinarum R1,chitinase (Chia1;HsChiA1;OE2201F),CAP13543.1,pubmed,3.2.1.14,endochitinase,False
+B1PBV0,B1PBV0|1of1,0,1.2,Bacteria,Bacillus thuringiensis 97243-1,chitinase,ACA34287.1,pubmed,3.2.1.14,endochitinase,False
+B2FMT1,B2FMT1|1of1,0,1.2,Bacteria,Stenotrophomonas maltophilia K279a,chitinase A (ChiA;StmChiA;Smlt0682),CAQ44264.1,pubmed,3.2.1.14,endochitinase,False
+B2FN84,B2FN84|1of1,0,1.2,Bacteria,Stenotrophomonas maltophilia K279a,chitinase B (ChiB;StmChib;Smlt3383),CAQ46811.1,pubmed,3.2.1.14,endochitinase,False
+B3PB16,B3PB16|1of1,0,1.2,Bacteria,Cellvibrio japonicus Ueda107,chitinase 18B (CjChi18B; CJA_0988) (Chi18B),ACE84354.1,pubmed,3.2.1.14,endochitinase,False
+B3PBW8,B3PBW8|1of1,0,1.2,Bacteria,Cellvibrio japonicus Ueda107,chitinase 18A (CjChi18A; CJA_1182) (Chi18A),ACE83143.1,pubmed,3.2.1.14,endochitinase,False
+B3PLJ1,B3PLJ1|1of1,0,1.2,Bacteria,Cellvibrio japonicus Ueda107,chitinase 18D (CjChi18D; CJA_2611) (Chi18D),ACE85899.1,pubmed,3.2.1.14,endochitinase,False
+B5A7P1,B5A7P1|1of1,0,1.2,Bacteria,Bacillus licheniformis MY75,chitinase (ChiMY;ChiB),ACF40833.1,pubmed,3.2.1.14,endochitinase,False
+B6A876,B6A876|1of1,0,1.2,Bacteria,Yersinia sp. MH-1 / Yersinia entomophaga MH96,chitinase (Chi1) (Yen-Tc subunit),ABG33870.1,pubmed,3.2.1.14,endochitinase,False
+B6A879,B6A879|1of1,0,1.2,Bacteria,Yersinia sp. MH-1 / Yersinia entomophaga MH96,chitinase (Chi2) (Yen-Tc subunit),ABG33867.1,doi,3.2.1.14,endochitinase,False
+B6DXA5,B6DXA5|1of1,0,1.2,Bacteria,Bacillus licheniformis MS-3,chitinase A-BL3 (ChiA;ChiA-BL3),ACI24006.1,pubmed,3.2.1.14,endochitinase,False
+B7UB89,B7UB89|1of1,0,1.2,Bacteria,Bacillus licheniformis DSM 8785,chitinase (ChiA),ACK44109.1,pubmed,3.2.1.14,endochitinase,False
+C8CAY2,C8CAY2|1of1,0,1.2,Bacteria,Bacillus licheniformis N1,chitinase,ACU43581.1,doi,3.2.1.14,endochitinase,False
+C8XPA7,C8XPA7|1of1,0,1.2,Bacteria,Sanguibacter antarcticus KOPRI 21702,endochitinase (Chi21702;Chi),ABD39718.1,pubmed,3.2.1.14,endochitinase,False
+D0ELI2,D0ELI2|1of1,0,1.2,Bacteria,Serratia marcescens GEI,chitinase A (ChiA),ACX42071.1,pubmed,3.2.1.14,endochitinase,False
+D0ELI3,D0ELI3|1of1,0,1.2,Bacteria,Serratia marcescens GEI,chitinase B (ChiB),ACX42072.1,pubmed,3.2.1.14,endochitinase,False
+D0EW64,D0EW64|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar kurstaki,chitinase (Chi;BtCHI) (partial),ACW83014.1,pubmed,3.2.1.14,endochitinase,False
+D0EW66,D0EW66|1of1,0,1.2,Bacteria,Bacillus licheniformis DSM 13 = ATCC 14580,chitinase 1 (Chi; Chi1; YvbX; BliCHI; BLi00338; BL01685),AAU21943.2; AAU21943.1; AAU39296.1; ACR87900.1; ACW83016.1; CAF05579.1; CAV28467.1,pubmed,3.2.1.14,endochitinase,False
+D2DJ38,D2DJ38|1of1,0,1.2,Bacteria,Aeromonas sp. CD3 / Aeromonas veronii CD3,chitinase (ChiCD3),ACR33067.1,doi,3.2.1.14,endochitinase,False
+D3YGV2,D3YGV2|1of1,0,1.2,Bacteria,Isoptericola jiangsuensis CLG,chitinase A (ChiA),ADD17350.1,pubmed,3.2.1.14,endochitinase,False
+D3YGV3,D3YGV3|1of1,0,1.2,Bacteria,Isoptericola jiangsuensis CLG,chitinase B (ChiB),ADD17351.1,pubmed,3.2.1.14,endochitinase,False
+D8V3F2,D8V3F2|1of1,0,1.2,Bacteria,Bacillus sp. SC081 / Bacillus atrophaeus SC081,chitinase (Chi-1;SCChi-1),ADJ56636.1,pubmed,3.2.1.14,endochitinase,False
+E5FGC5,E5FGC5|1of1,0,1.2,Bacteria,Serratia marcescens B4A,chitinase (Chit62),ADR30609.1,pubmed,3.2.1.14,endochitinase,False
+F8WSP2,F8WSP2|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,chitinase A (ChiA),BAK53879.1,pubmed,3.2.1.14,endochitinase,False
+F8WSP9,F8WSP9|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,ChiB,BAK53886.1; BAK53886.2,pubmed,3.2.1.14,endochitinase,False
+F8WSQ0,F8WSQ0|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,chitinase C (ChiC),BAK53887.1,pubmed,3.2.1.14,endochitinase,False
+F8WSU4,F8WSU4|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,chitobiose-producing chitinase J (ChiJ),BAK53931.1; BAK53931.2,pubmed,3.2.1.14,endochitinase,False
+F8WSU6,F8WSU6|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,chitinase K (ChiK),BAK53933.1,pubmed,3.2.1.14,endochitinase,False
+F8WSX2,F8WSX2|1of1,0,1.2,Bacteria,Chitiniphilus shinanonensis SAY3,chitinase L (ChiL; CsChiL),BAK53954.1,pubmed,3.2.1.14,endochitinase,False
+I3R9G5,I3R9G5|1of1,0,1.2,Archaea,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,HFX_5038 (ChiCHme),AFK20875.1; QCQ77304.1,pubmed,3.2.1.14,endochitinase,False
+I3R9G6,I3R9G6|1of1,0,1.2,Archaea,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,HFX_5039 (ChiDHme),AFK20876.1; QCQ77305.1,pubmed,3.2.1.14,endochitinase,False
+I3UID2,I3UID2|1of1,0,1.2,Bacteria,Bacillus sp. AV2-9,chitinase (ChiL;ChiLm),AFK64770.1,pubmed,3.2.1.14,endochitinase,False
+K7ZLW5,K7ZLW5|1of1,0,1.2,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiB),BAM67138.1,pubmed,3.2.1.14,endochitinase,False
+K7ZLW6,K7ZLW6|1of2,0,1.2,Bacteria,Paenibacillus sp. FPU-7,multi-modular chitinase (ChiW),BAM67143.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+K7ZLW6,K7ZLW6|1of2,0,1.2,Bacteria,Paenibacillus sp. FPU-7,multi-modular chitinase (ChiW),BAM67143.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+K7ZLW6,K7ZLW6|2of2,0,1.2,Bacteria,Paenibacillus sp. FPU-7,multi-modular chitinase (ChiW),BAM67143.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+K7ZLW6,K7ZLW6|2of2,0,1.2,Bacteria,Paenibacillus sp. FPU-7,multi-modular chitinase (ChiW),BAM67143.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+K7ZNA8,K7ZNA8|1of1,0,1.2,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiD),BAM67140.1,pubmed,3.2.1.14,endochitinase,False
+K7ZQB5,K7ZQB5|1of1,0,1.2,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiC),BAM67139.1,pubmed,3.2.1.14,endochitinase,False
+K7ZS15,K7ZS15|1of1,0,1.2,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiA),BAM67137.1,pubmed,3.2.1.14,endochitinase,False
+K7ZS16,K7ZS16|1of1,0,1.2,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiF),BAM67142.1,pubmed,3.2.1.14,endochitinase,False
+L7YAM9,L7YAM9|1of1,0,1.2,Bacteria,Citrobacter freundii P,exo-chitinase X (CHI-X),AGD94964.2; AGD94964.1,pubmed,3.2.1.14,endochitinase,False
+M0JBD1,M0JBD1|1of1,0,1.2,Archaea,Haloferax mediterranei ATCC 33500 CGMCC 1.2087,HFX_5039 (ChiDHme),AFK20876.1; QCQ77305.1,pubmed,3.2.1.14,endochitinase,False
+O07088,O07088|1of1,0,1.2,Bacteria,Bacillus thuringiensis SUBSP. PAKISTANI,chitinase (Chi),AAB58579.1,pubmed,3.2.1.14,endochitinase,False
+O30678,O30678|1of1,0,1.2,Bacteria,Stenotrophomonas maltophilia 34S1,chitinase A (ChiA),AAB70917.1,pubmed,3.2.1.14,endochitinase,False
+O50076,O50076|1of1,0,1.2,Bacteria,Clostridium paraputrificum M-21,chitinase B (ChiB) (Chi18B),BAA23796.1,pubmed,3.2.1.14,endochitinase,False
+O50590,O50590|1of1,0,1.2,Bacteria,Pseudoalteromonas piscicida O-7,chitinase C (ChiC),BAA24795.1,pubmed,3.2.1.14,endochitinase,False
+O54328,O54328|1of1,0,1.2,Bacteria,Enterobacter sp. G-1,chitinase A (ChiA),AAB97779.1,doi,3.2.1.201,reducing-end exochitinase,False
+O83008,O83008|1of1,0,1.2,Bacteria,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,chitinase A (ChiA;SmChiA),AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,pubmed,3.2.1.201,reducing-end exochitinase,False
+O85500,O85500|1of1,0,1.2,Bacteria,Bacillus subtilis CHU26,chitinase (Chi) (Chi18),AAC23715.1,pubmed,3.2.1.14,endochitinase,False
+P07254,P07254|1of1,0,1.2,Bacteria,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,chitinase A (ChiA;SmChiA),AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,pubmed,3.2.1.201,reducing-end exochitinase,False
+P11220,P11220|1of1,0,1.2,Bacteria,Streptomyces plicatus ATCC 27800,chitinase-63,AAA26720.1,pubmed,3.2.1.14,endochitinase,False
+P11797,P11797|1of1,0,1.2,Bacteria,Serratia marcescens BJL200,chitinase B (ChiB;SmChiB),CAA85292.1,pubmed,3.2.1.14,endochitinase,False
+P11797,P11797|1of1,0,1.2,Bacteria,Serratia marcescens QMB1466 / BJL200,chitinase B (ChiB),CAA33278.1; AAL57855.1; BAA31568.1,pubmed,3.2.1.14,endochitinase,False
+P20533,P20533|1of1,0,1.2,Bacteria,Niallia circulans WL-12,chitinase A1 (ChiA;ChiA1),AAA81528.1,pubmed,3.2.1.14,endochitinase,False
+P32823,P32823|1of1,0,1.2,Bacteria,Pseudoalteromonas piscicida O-7,chitinase A (ChiA),BAA02908.1; BAB79620.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+P36909,P36909|1of1,0,1.2,Bacteria,Streptomyces lividans TK64,chitinase C (ChiC),BAA02168.1,pubmed,3.2.1.14,endochitinase,False
+P94289,P94289|1of1,0,1.2,Bacteria,Niallia circulans WL-12,chitinase C1 (ChiC) (fragment),BAA13974.1,doi,3.2.1.14,endochitinase,False
+P96156,P96156|1of1,0,1.2,Bacteria,Vibrio furnissii,chitodextrinase (EndoI),AAC44673.1; AAE36539.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+P97034,P97034|1of1,0,1.2,Bacteria,Serratia plymuthica IC1270,chitinase,AAB49933.1,pubmed,3.2.1.14,endochitinase,False
+Q09WI8,Q09WI8|1of1,0,1.2,Bacteria,Francisella tularensis subsp. novicida U112,chitinase A (ChiA; FTN_0627),ABB76136.1; ABK89520.1; AJI60891.1,pubmed,3.2.1.14,endochitinase,False
+Q0MRC2,Q0MRC2|1of1,0,1.2,Bacteria,Bacillus cf. pumilus SG2,chitinase (ChiL),ABF50676.1; ABI15083.1,pubmed,3.2.1.14,endochitinase,False
+Q0MRC3,Q0MRC3|1of1,0,1.2,Bacteria,Bacillus cf. pumilus SG2,bifunctional chitinase / lysozyme (ChiS),ABI15082.1; ABC86581.1,pubmed; pubmed,3.2.1.14; 3.2.1.-,endochitinase + lysozyme,False
+Q0Q2G5,Q0Q2G5|1of1,0,1.2,Bacteria,Bacillus subtilis AP113,chitinase (Chi113),ABG57262.1,pubmed,3.2.1.14,endochitinase,False
+Q18BV5,Q18BV5|1of1,0,1.2,Bacteria,Clostridioides difficile 630,bifunctional peroxiredoxin-chitinase (CotE;CD1433),CAJ68298.1; AJP11136.1,pubmed,3.2.1.14,endochitinase,False
+Q1D885,Q1D885|1of1,0,1.2,Bacteria,Myxococcus xanthus DK 1622,exochitinase (MxChi; MXAN_2927),ABF87350.1; AAW92385.1,pubmed,3.2.1.14,endochitinase,False
+Q1EM71,Q1EM71|1of1,0,1.2,Bacteria,Bacillus licheniformis SK-1,chitinase B (ChiB; Chi72; Chi66; Chi58),ABJ74158.1,pubmed,3.2.1.14,endochitinase,False
+Q1G154,Q1G154|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar colmeri 15A3,chitinase B (ChiB),ABF57674.1,pubmed,3.2.1.14,endochitinase,False
+Q1HFN7,Q1HFN7|1of1,0,1.2,Bacteria,Bacillus cf. pumilus SG2,chitinase (ChiL),ABF50676.1; ABI15083.1,pubmed,3.2.1.14,endochitinase,False
+Q25BN2,Q25BN2|1of1,0,1.2,Bacteria,Aeromonas hydrophila SUWA-9,chitinase (ChiA),BAE87051.1,pubmed,3.2.1.14,endochitinase,False
+Q2I0I7,Q2I0I7|1of1,0,1.2,Bacteria,Bacillus cf. pumilus SG2,bifunctional chitinase / lysozyme (ChiS),ABI15082.1; ABC86581.1,pubmed; pubmed,3.2.1.14; 3.2.1.-,endochitinase + lysozyme,False
+Q2V9S9,Q2V9S9|1of1,0,1.2,Bacteria,Sanguibacter sp. C4,chitinase (Chit58;ChiA),ABB91448.1,pubmed,3.2.1.14,endochitinase,False
+Q3MTV5,Q3MTV5|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar kurstaki BUPM255,chitobiosidase / exochitinase (Chi255),CAG25670.1,pubmed; pubmed,3.2.1.14; 3.2.1.200,endochitinase + exochitinase/chitobiosidase,False
+Q3Y4D2,Q3Y4D2|1of1,0,1.2,Bacteria,Serratia marcescens BN10,chitinase A (ChiA),AAZ86539.1,pubmed,3.2.1.14,endochitinase,False
+Q43919,Q43919|1of1,0,1.2,Bacteria,Aeromonas caviae K1 / D1,chitinase A (ChiA;AcD1ChiA),AAA93130.1,pubmed,3.2.1.14,endochitinase,False
+Q47SE9,Q47SE9|1of1,0,1.2,Bacteria,Thermobifida fusca YX,endochitinase (Tfu_0580),AAZ54618.1,doi,3.2.1.14,endochitinase,False
+Q48373,Q48373|1of1,0,1.2,Bacteria,Janthinobacterium lividum,chitinase (Chi69; Chi04),AAA83223.1; AAS19502.1; BAF02560.1,pubmed,3.2.1.14,endochitinase,False
+Q48494,Q48494|1of1,0,1.2,Bacteria,Kurthia zopfii KI2-119,chitinase (ChiSH1),BAA09831.1,doi,3.2.1.14,endochitinase,False
+Q54276,Q54276|1of1,0,1.2,Bacteria,Serratia marcescens BJL200,chitinase B (ChiB;SmChiB),CAA85292.1,pubmed,3.2.1.14,endochitinase,False
+Q56077,Q56077|1of1,0,1.2,Bacteria,Streptomyces thermoviolaceus OPC-520,chitinase (Chi40),BAA03404.1,pubmed,3.2.1.14,endochitinase,False
+Q59326,Q59326|1of1,0,1.2,Bacteria,Acetivibrio thermocellus ATCC 27405,chitinase A (ChiA; Cthe_0270) (Chi18A),CAA93150.1; ABN51509.1,pubmed,3.2.1.14,endochitinase,False
+Q59929,Q59929|1of1,0,1.2,Bacteria,Serratia marcescens KCTC2172,chitinase 55kDa,AAC37122.1,pubmed; pubmed,3.2.1.14; 3.2.1.200,endochitinase + exochitinase/chitobiosidase,False
+Q5I4H6,Q5I4H6|1of1,0,1.2,Bacteria,Serratia marcescens ATCC 990,chitinase A (ChiA),AAW47932.1; ABI58232.1,doi,3.2.1.14,endochitinase,False
+Q5MYT4,Q5MYT4|1of1,0,1.2,Bacteria,Chromobacterium sp. C-61,chitinase (Chi54),AAP88583.1,pubmed,3.2.1.14,endochitinase,False
+Q5NGW2,Q5NGW2|1of1,0,1.2,Bacteria,Francisella tularensis subsp. tularensis SCHU S4,chitinase (ChiA; FTT_0715; FTT0715),CAG45348.1,pubmed,3.2.1.14,endochitinase,False
+Q66SU9,Q66SU9|1of1,0,1.2,Bacteria,Rhodothermus marinus PRI378,chitinase (ChiA),AAU11838.1,pubmed,3.2.1.14,endochitinase,False
+Q6BCF8,Q6BCF8|1of1,0,1.2,Bacteria,Lysobacter enzymogenes C3,chitinase A (ChiA),AAT77163.1; ALN56484.1,pubmed,3.2.1.14,endochitinase,False
+Q6Q215,Q6Q215|1of1,0,1.2,Bacteria,Serratia marcescens NIMA,endochitinase A (ChiA),AAS68517.1,pubmed,3.2.1.14,endochitinase,False
+Q6T6I1,Q6T6I1|1of1,0,1.2,Bacteria,Serratia marcescens 2170 / 27117 / BJL200 / ATCC990 / QMB1466,chitinase A (ChiA;SmChiA),AAA26551.1; AAR10884.1; BAA31567.1; CAA27292.1; CAA85291.1,pubmed,3.2.1.201,reducing-end exochitinase,False
+Q6X934,Q6X934|1of1,0,1.2,Bacteria,Pseudomonas sp. BK1,chitinase,AAP79427.1,pubmed,3.2.1.14,endochitinase,False
+Q75ZW9,Q75ZW9|1of1,0,1.2,Bacteria,Clostridium paraputrificum M-21,chitinase C (ChiC) (Chi18C),BAD12045.1; BAD29950.1,pubmed,3.2.1.14,endochitinase,False
+Q7AKG2,Q7AKG2|1of1,0,1.2,Bacteria,Streptomyces coelicolor A3(2),chitinase C (ChiC;Chi18aC;ScChiC;2SC6G5.20c;SCO5376) (Chi18C),CAB94547.1; AAD16453.1; BAA75644.1; NP_629515.1,pubmed,3.2.1.14,endochitinase,False
+Q7AKQ9,Q7AKQ9|1of1,0,1.2,Bacteria,Streptomyces coelicolor A3(2),chitinase D (ChiD;Chi18aD;SCO1429) (Chi18D),CAB61662.1; BAA75645.1; NP_625711.1,pubmed,3.2.1.14,endochitinase,False
+Q7PC51,Q7PC51|1of1,0,1.2,Bacteria,Saccharophagus degradans 2-40,chitinase 18C (ChiC;Sde_3605) (Chi18C),DAA01336.1; ABD82860.1; ACG81703.1,pubmed,3.2.1.14,endochitinase,False
+Q7PC53,Q7PC53|1of2,0,1.2,Bacteria,Saccharophagus degradans 2-40,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),DAA01334.1; ABD83125.1; ACG81702.1,pubmed,3.2.1.14,endochitinase,False
+Q7PC53,Q7PC53|1of2,0,1.2,Bacteria,Saccharophagus degradans 2-40,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),DAA01334.1; ABD83125.1; ACG81702.1; ACG81709.1; ACG81710.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q7PC53,Q7PC53|2of2,0,1.2,Bacteria,Saccharophagus degradans 2-40,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),DAA01334.1; ABD83125.1; ACG81702.1,pubmed,3.2.1.14,endochitinase,False
+Q7PC53,Q7PC53|2of2,0,1.2,Bacteria,Saccharophagus degradans 2-40,endo/exo-chitinase 18B (ChiB;Sde_3870) (Chi18B),DAA01334.1; ABD83125.1; ACG81702.1; ACG81709.1; ACG81710.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q845S2,Q845S2|1of1,0,1.2,Bacteria,Kitasatospora aureofaciens CMUAC130,chitinase (ChiA),BAC66179.1,pubmed,3.2.1.14,endochitinase,False
+Q84AP8,Q84AP8|1of1,0,1.2,Bacteria,Saccharophagus degradans 2-40,chitodextrinase 18A (CdxA;Sde_3982) (Cdx18A),AAO47607.1; ABD83237.1; ACG81705.1,pubmed,3.2.1.14,endochitinase,False
+Q84FN2,Q84FN2|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar kurstaki,chitinase (Schi;Kchi),AAO34713.1,doi,3.2.1.14,endochitinase,False
+Q8GHI4,Q8GHI4|1of1,0,1.2,Bacteria,Aeromonas caviae CB101,chitinase (Chi1),CAD58828.1,pubmed,3.2.1.14,endochitinase,False
+Q8KKF5,Q8KKF5|1of1,0,1.2,Bacteria,Serratia plymuthica,chitinase (Chit60),CAD32933.1,pubmed,3.2.1.14,endochitinase,False
+Q8KVU8,Q8KVU8|1of1,0,1.2,Bacteria,Bacillus cereus 28-9,chitinase CW (ChiCW),AAM48520.2,pubmed,3.2.1.14,endochitinase,False
+Q8RQP6,Q8RQP6|1of1,0,1.2,Bacteria,Streptomyces griseus HUT 6037,chitinase III (ChiIII;Chi III),BAB86377.1,pubmed,3.2.1.14,endochitinase,False
+Q8RSX8,Q8RSX8|1of1,0,1.2,Bacteria,Bacillus thuringiensis LBIT-82,chitinase (ChiA74;Chi),AAL17867.1; AAL71886.2; ABO21095.1,pubmed,3.2.1.14,endochitinase,False
+Q8U1H4,Q8U1H4|1of1,0,1.2,Archaea,Pyrococcus furiosus DSM 3638,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+Q8U1H5,Q8U1H5|1of2,0,1.2,Archaea,Pyrococcus furiosus DSM 3638,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+Q8U1H5,Q8U1H5|1of2,0,1.2,Archaea,Pyrococcus furiosus DSM 3638,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),AAL81357.1; NP_578962.1; WP_011012376.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+Q8VLQ3,Q8VLQ3|1of1,0,1.2,Bacteria,Pseudoalteromonas piscicida O-7,chitinase D (ChiD),BAB79618.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q8VUU6,Q8VUU6|1of1,0,1.2,Bacteria,Pseudomonas sp. PE2,chitinase (PchA),BAB79259.1,pubmed,3.2.1.14,endochitinase,False
+Q8YAL3,Q8YAL3|1of1,0,1.2,Bacteria,Listeria monocytogenes EGD-e,chitinase (ChiB; LmChiB; Lmo0105),CAC98320.1; NP_463638.1,pubmed,3.2.1.14,endochitinase,False
+Q93AD3,Q93AD3|1of1,0,1.2,Bacteria,Bacillus thuringiensis LBIT-82,chitinase (ChiA74;Chi),AAL17867.1; AAL71886.2; ABO21095.1,pubmed,3.2.1.14,endochitinase,False
+Q93LF1,Q93LF1|1of1,0,1.2,Bacteria,Serratia sp. TU09,chitinase (Chi60),AAK72610.2,pubmed,3.2.1.201,reducing-end exochitinase,False
+Q99PX0,Q99PX0|1of1,0,1.2,Bacteria,Vibrio alginolyticus H-8,chitinase B (VacB),BAB21607.1; CAC29091.1,pubmed,3.2.1.14,endochitinase,False
+Q9AMP1,Q9AMP1|1of1,0,1.2,Bacteria,Vibrio harveyi,chitinase A (ChiA;VhChiA),AAK11576.1,pubmed,3.2.1.14,endochitinase,False
+Q9EY44,Q9EY44|1of1,0,1.2,Bacteria,Cellulomonas uda ATCC 21399,chitinase A (ChiA),AAG27061.2,pubmed,3.2.1.14,endochitinase,False
+Q9F9Q8,Q9F9Q8|1of1,0,1.2,Bacteria,Aeromonas hydrophila JP101,chitinase 92 (Chi92),AAG09437.1,pubmed,3.2.1.14,endochitinase,False
+Q9FAC8,Q9FAC8|1of1,0,1.2,Bacteria,Bacillus cereus CH,chitinase B (ChiB),BAB16891.1,pubmed,3.2.1.14,endochitinase,False
+Q9HR84,Q9HR84|1of1,0,1.2,Archaea,Halobacterium salinarum NRC-1,chitinase (ChiN1;Chi;VNG_0816G;Vng0816g),AAG19274.1; NP_279794.1,doi,3.2.1.14,endochitinase,False
+Q9KED7,Q9KED7|1of1,0,1.2,Bacteria,Halalkalibacterium halodurans C-125,chitinase (ChiA; ChiABhp; ChiJ; BH0916),BAB04635.1; NP_241782.1,doi,3.2.1.14,endochitinase,False
+Q9KHB3,Q9KHB3|1of1,0,1.2,Bacteria,Niallia circulans C-2,chitinase (Chi1),AAF74782.1,pubmed,3.2.1.14,endochitinase,False
+Q9KND8,Q9KND8|1of1,0,1.2,Bacteria,Vibrio cholerae O1 biovar El Tor str. N16961,chitinase (ChiA2;VCA0027),AAF95941.1; NP_232428.1,pubmed,3.2.1.14,endochitinase,False
+Q9L3E8,Q9L3E8|1of1,0,1.2,Bacteria,Streptomyces olivaceoviridis ATCC 11238,chitinase (Chi92),CAB83055.1,doi,3.2.1.14,endochitinase,False
+Q9L5D5,Q9L5D5|1of1,0,1.2,Bacteria,Aeromonas hydrophila JMP636,chitinase (ChiA),AAF70180.1; AAE36542.1,doi,3.2.1.14,endochitinase,False
+Q9L8G0,Q9L8G0|1of1,0,1.2,Bacteria,Streptomyces peucetius,chitinase C,AAF43629.1,pubmed,3.2.1.14,endochitinase,False
+Q9REI6,Q9REI6|1of1,0,1.2,Bacteria,Arthrobacter sp. TAD20,chitinase (ChitiB),CAB62499.1,pubmed,3.2.1.14,endochitinase,False
+Q9RG51,Q9RG51|1of1,0,1.2,Bacteria,Niallia circulans NO. 4.1,chitinase (Chi41),AAF23368.1,pubmed,3.2.1.14,endochitinase,False
+Q9RH34,Q9RH34|1of1,0,1.2,Bacteria,Serratia marcescens AV305,chitinase A1 (ChiA1),AAF22480.1,doi,3.2.1.14,endochitinase,False
+Q9RMB8,Q9RMB8|1of1,0,1.2,Bacteria,Arthrobacter sp. TAD20,chitinase (ChitiA),CAB62382.1,pubmed,3.2.1.14,endochitinase,False
+Q9UWR7,Q9UWR7|1of2,0,1.2,Archaea,Thermococcus kodakarensis KOD1,chitinase A (ChiA;TK1765),BAD85954.1; CAT70561.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q9UWR7,Q9UWR7|1of2,0,1.2,Archaea,Thermococcus kodakarensis KOD1,chitinase A (ChiA;TK1765),BAD85954.1; CAT70561.1,pubmed,3.2.1.14,endochitinase,False
+Q9WX42,Q9WX42|1of1,0,1.2,Bacteria,Vibrio parahaemolyticus ATCC17802,chitinase (Vpc),BAA78115.1,pubmed,3.2.1.14,endochitinase,False
+Q9Z9M7,Q9Z9M7|1of1,0,1.2,Bacteria,Streptomyces coelicolor A3(2),chitinase D (ChiD;Chi18aD;SCO1429) (Chi18D),CAB61662.1; BAA75645.1; NP_625711.1,pubmed,3.2.1.14,endochitinase,False
+Q9Z9M8,Q9Z9M8|1of1,0,1.2,Bacteria,Streptomyces coelicolor A3(2),chitinase C (ChiC;Chi18aC;ScChiC;2SC6G5.20c;SCO5376) (Chi18C),CAB94547.1; AAD16453.1; BAA75644.1; NP_629515.1,pubmed,3.2.1.14,endochitinase,False
+Q9ZIX2,Q9ZIX2|1of1,0,1.2,Bacteria,Pseudoalteromonas sp. S9 S91,chitinase C (ChiC),AAC79667.1,pubmed,3.2.1.14,endochitinase,False
+Q9ZIX4,Q9ZIX4|1of1,0,1.2,Bacteria,Pseudoalteromonas sp. S9 S91,chitinase A (ChiA),AAC79665.1,pubmed,3.2.1.14,endochitinase,False
+Q9ZNL0,Q9ZNL0|1of1,0,1.2,Bacteria,Clostridium paraputrificum M-21,chitinase A (ChiA) (Chi18A),BAA34922.1,pubmed,3.2.1.14,endochitinase,False
+R9WA37,R9WA37|1of1,0,1.2,Bacteria,uncultured bacterium,chitinase (Chi18H8;Chi),AGN95784.1,pubmed,3.2.1.14,endochitinase,False
+U5N424,U5N424|1of1,0,1.2,Bacteria,Pseudoalteromonas issachenkonii PAMC 22718,β-N-acetylglucosaminidase (chi22718_III;Orf2),AGX85874.1,pubmed,3.2.1.14,endochitinase,False
+V5NZX0,V5NZX0|1of1,0,1.2,Bacteria,Bacillus thuringiensis serovar tenebrionis 9602,chitinase (Chi9602;Chi),AHA95666.1,pubmed,3.2.1.14,endochitinase,False
+W0T116,W0T116|1of1,0,1.2,Bacteria,Laceyella putida JAM-FM3001,surfactant-activated chitinase (ChiA;LpChiA),BAO37115.1,pubmed,3.2.1.14,endochitinase,False
+W5U207,W5U207|1of1,0,1.2,Bacteria,Serratia marcescens Ha-Pink,chitinase B (ChiB),AHH32576.1,doi,3.2.1.14,endochitinase,False
+W5U7W5,W5U7W5|1of1,0,1.2,Bacteria,Serratia marcescens Ha-Pink,chitinase A (ChiA),AHH32575.1,doi,3.2.1.14,endochitinase,False
+P0DPJ9,P0DPJ9|1of1,1,1.1,Bacteria,Bacillus anthracis str. Sterne,N-acetylglucosaminidase / spore cortex-lytic enzyme (SleL; YaaH; BAS3402),AAT55709.1; AJH43466.1,pubmed,3.2.1.-,spore cortex-lytic (SleL; peptidoglycan),True
+Q87AJ8,Q87AJ8|1of1,1,1.1,Bacteria,Xylella fastidiosa Temecula1,chitinase A (ChiA; PD_1826;PD1826),AAO29659.1,pubmed,3.2.1.14,endochitinase,False
+Q8P6S6,Q8P6S6|1of1,1,1.1,Bacteria,Xanthomonas campestris pv. campestris str. ATCC 33913,endo-β-N-acetylglucosaminidase (NixF;XCC2889),AAM42161.1,pubmed,3.2.1.14,endochitinase,False
+Q9K3E4,Q9K3E4|1of1,1,1.1,Bacteria,Bacillus cereus IFO13579,cortical lytic enzyme / N-acetylglucosaminidase (CFLE; SleL),BAA92376.1,pubmed,3.2.1.-,spore cortex-lytic (SleL; peptidoglycan),True
+A0A0M4K3X3,A0A0M4K3X3|1of1,2,2.1,Bacteria,Pseudomonas aeruginosa 0364,chitinase (Pachi),ALD59804.1,pubmed,3.2.1.14,endochitinase,False
+A0A143HNF3,A0A143HNF3|1of1,2,2.1,Bacteria,Microbulbifer thermotolerans DAU221,chitinase (MtCh509; A3224_11035),AMX03031.1,pubmed,3.2.1.14,endochitinase,False
+A0A979GT74,A0A979GT74|2of2,2,2.1,Bacteria,Chitinophaga pinensis DSM 2588,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),ACU59676.1,pubmed,3.2.1.14,endochitinase,False
+A0A979GT74,A0A979GT74|2of2,2,2.1,Bacteria,Chitinophaga pinensis DSM 2588,multimodular chitinase and exo-chitinase (CpChiA; CpChiC; Cpin_2184),ACU59676.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+A1YLR3,A1YLR3|1of1,2,2.1,Bacteria,Bacillus thuringiensis serovar colmeri 15A3,chitinase A (ChiA),ABM05818.1,doi,3.2.1.14,endochitinase,False
+A5FB63,A5FB63|2of2,2,2.1,Bacteria,Flavobacterium johnsoniae UW101,chitinase (ChiA; Fjoh_4555),ABQ07554.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+A5FB63,A5FB63|2of2,2,2.1,Bacteria,Flavobacterium johnsoniae UW101,chitinase (ChiA; Fjoh_4555),ABQ07554.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+A8GB37,A8GB37|1of1,2,2.1,Bacteria,Serratia proteamaculans 568,chitinase B (ChiB;SpChiB;Spro_1223),ABV40327.1,pubmed,3.2.1.14,endochitinase,False
+A9KSD6,A9KSD6|1of1,2,2.1,Bacteria,Lachnoclostridium phytofermentans ISDg,exo-chitinase (Cphy_1799; Cphy1799),ABX42168.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+B1VBB0,B1VBB0|1of1,2,2.1,Bacteria,Moritella marina,chitinase 60 (Chi60;MmChi60),CAM88673.1,pubmed,3.2.1.14,endochitinase,False
+B3PCT3,B3PCT3|1of1,2,2.1,Bacteria,Cellvibrio japonicus Ueda107,chitinase 18C (CjChi18C; CJA_2993) (Chi18C),ACE85832.1,pubmed,3.2.1.14,endochitinase,False
+B6EH15,B6EH15|1of1,2,2.1,Bacteria,Aliivibrio salmonicida LFI1238,endochitinase A (AsChi18A; VSAL_I0757),CAQ78442.1,pubmed,3.2.1.14,endochitinase,False
+D0ELI4,D0ELI4|1of1,2,2.1,Bacteria,Serratia marcescens GEI,chitinase C1 (Chic1),ACX42073.1,pubmed,3.2.1.14,endochitinase,False
+D0VV09,D0VV09|1of1,2,2.1,Bacteria,Bacillus cereus NCTU2 / 42,chitinase (ChiNCTU2),ACY39278.1,pubmed,3.2.1.14,endochitinase,False
+F8WSQ2,F8WSQ2|1of1,2,2.1,Bacteria,Chitiniphilus shinanonensis SAY3,chitobiose-producing exo-chitinase E (ChiE),BAK53889.1,pubmed,3.2.1.14,endochitinase,False
+G3XCM1,G3XCM1|1of1,2,2.1,Bacteria,Pseudomonas aeruginosa PAO1,chitinase (ChiC;PA2300),AAG05688.1; AAK69491.1; ACQ33294.1; CAC27256.1; CAC27257.1; NP_250990.1,pubmed,3.2.1.14,endochitinase,False
+H8MZA8,H8MZA8|1of1,2,2.1,Bacteria,Corallococcus coralloides DSM 2259,chitinase (ChiD ; CcChi1; COCOR_06744),AFE08343.1,pubmed,3.2.1.14,endochitinase,False
+K7ZK65,K7ZK65|1of1,2,2.1,Bacteria,Paenibacillus sp. FPU-7,chitinase (ChiE),BAM67141.1,pubmed,3.2.1.14,endochitinase,False
+O69311,O69311|1of1,2,2.1,Bacteria,Streptomyces lividans 1326,chitinase B (ChiB),BAA25139.1,doi,3.2.1.14,endochitinase,False
+P27050,P27050|1of1,2,2.1,Bacteria,Niallia circulans WL-12,chitinase D (ChiD),BAA34114.1,pubmed,3.2.1.14,endochitinase,False
+P96168,P96168|1of1,2,2.1,Bacteria,Vibrio harveyi BB7,chitinase A (ChiA),AAC46383.1,pubmed,3.2.1.14,endochitinase,False
+Q05638,Q05638|1of1,2,2.1,Bacteria,Streptomyces olivaceoviridis ATCC 11238,exo-chitinase (Chi01;ChiO1),CAA50398.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q54442,Q54442|1of1,2,2.1,Bacteria,Serratia marcescens KCTC2172,chitinase C1 (ChiC;Chi52),AAC09387.1,pubmed,3.2.1.14,endochitinase,False
+Q59924,Q59924|1of1,2,2.1,Bacteria,Streptomyces lividans TK64,chitinase A (ChiA),BAA02918.1,doi,3.2.1.14,endochitinase,False
+Q5WXH7,Q5WXH7|1of1,2,2.1,Bacteria,Legionella pneumophila str. Lens,endochitinase (ChiA;lpl1121),CAH15360.1,pubmed,3.2.1.14,endochitinase,False
+Q700B8,Q700B8|1of1,2,2.1,Bacteria,Serratia marcescens BJL200,chitinase C / C1 (ChiC;ChiC1;SmChiC;SmChi18C),CAF74787.1,pubmed,3.2.1.14,endochitinase,False
+Q7NTW8,Q7NTW8|1of1,2,2.1,Bacteria,Chromobacterium violaceum ATCC 12472,chitinase (Chi45;CvChi45;CV2935),AAQ60603.1; NP_902605.1,pubmed,3.2.1.14,endochitinase,False
+Q7PC52,Q7PC52|1of1,2,2.1,Bacteria,Saccharophagus degradans 2-40,chitinase 18A (Sde_1704; ChiA) (Chi18A),DAA01335.1; ABD80964.1; ACG81701.1,pubmed,3.2.1.14,endochitinase,False
+Q7X4L4,Q7X4L4|1of1,2,2.1,Bacteria,Bacillus cereus 28-9,chitinase CH (ChiCH),AAP47142.1,pubmed,3.2.1.14,endochitinase,False
+Q81A65,Q81A65|1of1,2,2.1,Bacteria,Bacillus cereus ATCC 14579,exochitinase (BC3725),AAP10651.1; NP_833450.1,pubmed,3.2.1.14,endochitinase,False
+Q838S2,Q838S2|1of1,2,2.1,Bacteria,Enterococcus faecalis V583,chtinase (EfChi18A;EF0361) (Chi18A),AAO80224.1; NP_814153.1,pubmed,3.2.1.14,endochitinase,False
+Q8GI52,Q8GI52|1of1,2,2.1,Bacteria,Pseudoalteromonas piscicida O-7,chitinase B (ChiB),BAC53628.1,pubmed,3.2.1.14,endochitinase,False
+Q8GI54,Q8GI54|1of1,2,2.1,Bacteria,Nocardiopsis prasina OPC-131,chitinase (ChiA),BAC45251.1,pubmed,3.2.1.14,endochitinase,False
+Q8RQP7,Q8RQP7|1of1,2,2.1,Bacteria,Streptomyces griseus HUT 6037,chitinase II (Chi II),BAB86376.1,pubmed,3.2.1.14,endochitinase,False
+Q8RQP8,Q8RQP8|1of1,2,2.1,Bacteria,Streptomyces griseus HUT 6037,chitinase I (Chi I),BAB86375.1,,3.2.1.14,endochitinase,False
+Q8Y619,Q8Y619|1of1,2,2.1,Bacteria,Listeria monocytogenes EGD-e,chitinase (ChiA; LmChiA; Lmo1883),CAC99961.1; NP_465407.1,pubmed,3.2.1.14,endochitinase,False
+Q9CE95,Q9CE95|1of1,2,2.1,Bacteria,Lactococcus lactis subsp. lactis Il1403,chitinase (ChiA;L9964) (Chi18A),AAK06048.1; NP_268107.1,pubmed,3.2.1.14,endochitinase,False
+Q9EY54,Q9EY54|1of1,2,2.1,Bacteria,Vibrio sp. Fi:7,chitinase (ChiA),AAG12973.1,pubmed,3.2.1.14,endochitinase,False
+Q9FAC9,Q9FAC9|1of1,2,2.1,Bacteria,Bacillus cereus CH,chitinase A (ChiA),BAB16890.1,pubmed,3.2.1.14,endochitinase,False
+Q9I1H5,Q9I1H5|1of1,2,2.1,Bacteria,Pseudomonas aeruginosa PAO1,chitinase (ChiC;PA2300),AAG05688.1; AAK69491.1; ACQ33294.1; CAC27256.1; CAC27257.1; NP_250990.1,pubmed,3.2.1.14,endochitinase,False
+Q9KY99,Q9KY99|1of1,2,2.1,Bacteria,Streptomyces coelicolor A3(2),chitinase A (ChiA;Chi18bA;SCK15.05c;SCO5003) (Chi18A),CAB92596.1; BAA75642.1; NP_629155.1,pubmed,3.2.1.14,endochitinase,False
+Q9RHU3,Q9RHU3|1of1,2,2.1,Bacteria,Streptomyces thermoviolaceus OPC-520,chitinase (Chi30),BAA88835.1,pubmed,3.2.1.14,endochitinase,False
+Q9WXD3,Q9WXD3|1of1,2,2.1,Bacteria,Serratia marcescens 2170,chitinase C1 (ChiC),BAA76623.1,pubmed,3.2.1.14,endochitinase,False
+Q9Z493,Q9Z493|1of1,2,2.1,Bacteria,Xanthomonas sp. AK,chitinase A (ChiA),BAA36460.1,doi,3.2.1.14,endochitinase,False
+Q9Z9M9,Q9Z9M9|1of1,2,2.1,Bacteria,Streptomyces coelicolor A3(2),chitinase A (ChiA;Chi18bA;SCK15.05c;SCO5003) (Chi18A),CAB92596.1; BAA75642.1; NP_629155.1,pubmed,3.2.1.14,endochitinase,False
+Q9ZFP7,Q9ZFP7|1of1,2,2.1,Bacteria,Vibrio cholerae,chitinase A (ChiA),AAC72236.1,pubmed,3.2.1.14,endochitinase,False
+V5IV80,V5IV80|1of1,2,2.1,Bacteria,Pseudomonas sp. TxG6-1,chitinase C (ChiC;PsChiC),ADW77630.1,doi,3.2.1.14,endochitinase,False
+W5U2U1,W5U2U1|1of1,2,2.1,Bacteria,Serratia marcescens Ha-Pink,chitinase C (ChiC),AHH32577.1,doi,3.2.1.14,endochitinase,False
+X2KWS3,X2KWS3|1of1,2,2.1,Bacteria,Serratia marcescens AS1.1652,chitinase C (ChiC;SmChiC),AHN91474.1,pubmed,3.2.1.14,endochitinase,False
+D2CFK8,D2CFK8|1of1,3,3.1,Bacteria,Aeromonas schubertii,hexaoligochitin-producing chitinase (ASCHI61) (partial),ABF29701.1,pubmed,3.2.1.14,endochitinase,False
+F8WSQ4,F8WSQ4|1of1,3,3.1,Bacteria,Chitiniphilus shinanonensis SAY3,endo/exo-chitinase G (ChiG),BAK53891.1,pubmed; pubmed; pubmed,3.2.1.14; 3.2.1.200; 3.2.1.-,endochitinase + exochitinase/chitobiosidase + unassigned (3.2.1.-),False
+F8WSY3,F8WSY3|1of1,3,3.1,Bacteria,Chitiniphilus shinanonensis SAY3,chitinase O (ChiO),BAK53970.1,pubmed,3.2.1.14,endochitinase,False
+O50506,O50506|1of1,3,3.1,Bacteria,Streptomyces coelicolor A3(2),chitinase H (ChiH;Chi18cH;SCO6012;SC7B7.09c) (Chi18H),CAA15789.1; NP_630126.1,pubmed,3.2.1.14,endochitinase,False
+P13656,P13656|1of1,3,3.1,Bacteria,Escherichia coli str. K-12 substr. MG1655,endochitinase (ChiA; YheB; b3338),AAC76363.1; AAA58135.1; AIZ89659.1; ALI38980.1; AMC96225.1; AUG18042.1; AVI53496.1; AYG17720.1; NP_417797.1,pubmed,3.2.1.14,endochitinase,False
+P14529,P14529|1of1,3,3.1,Bacteria,Saccharopolyspora erythraea NRRL 2338,chitinase (ChiA2;SACE_1076),CAM00408.1,pubmed,3.2.1.14,endochitinase,False
+Q8U1H5,Q8U1H5|2of2,3,3.1,Archaea,Pyrococcus furiosus DSM 3638,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),AAL81357.1; AAL81358.1; NP_578962.1; NP_578963.1; WP_011012376.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+Q8U1H5,Q8U1H5|2of2,3,3.1,Archaea,Pyrococcus furiosus DSM 3638,chitinase (PF1234+PF1233;ChiA+ChiB) (Chi18B+Chi18A),AAL81357.1; NP_578962.1; WP_011012376.1,pubmed; pubmed,3.2.1.14,endochitinase,False
+Q9UWR7,Q9UWR7|2of2,3,3.1,Archaea,Thermococcus kodakarensis KOD1,chitinase A (ChiA;TK1765),BAD85954.1; CAT70561.1,pubmed,3.2.1.200,exochitinase/chitobiosidase,False
+Q9UWR7,Q9UWR7|2of2,3,3.1,Archaea,Thermococcus kodakarensis KOD1,chitinase A (ChiA;TK1765),BAD85954.1; CAT70561.1,pubmed,3.2.1.14,endochitinase,False
+A0A7T7ZWH1,A0A7T7ZWH1|1of1,4,NA,Bacteria,Elizabethkingia meningoseptica ATCC 33958,endo-β-N-acetylglucosaminidase F1 (EndoF1; Endo F1; Endo-F1),AAA24922.1; WP_034866176.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+P04067,P04067|1of1,4,NA,Bacteria,Streptomyces plicatus,endo-β-N-acetylglucosaminidase H (EndoH; Endo-H; Endo H),AAA26738.1; AAX00996.1; AAY74563.1; ABA35708.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+P36911,P36911|1of1,4,NA,Bacteria,Elizabethkingia meningoseptica ATCC 33958,endo-β-N-acetylglucosaminidase F1 (EndoF1; Endo F1; Endo-F1),AAA24922.1; WP_034866176.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+P80036,P80036|1of1,4,NA,Bacteria,Flavobacterium sp. SK1022,endo-β-N-acetylglucosaminidase (Endo-Fsp),BAB20938.1; AAB20312.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+Q830C5,Q830C5|1of1,4,NA,Bacteria,Enterococcus faecalis V583,endo-β-N-acetylglucosaminidase (EfEndo18A; EF2863) (Endo18A),AAO82555.1; NP_816485.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+Q8A889,Q8A889|1of1,4,NA,Bacteria,Bacteroides thetaiotaomicron VPI-5482,endo-β-N-acetylglucosaminidase (BT1285; BT_1285),AAO76392.1; NP_810198.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+B7GPC7,B7GPC7|1of1,14,NA,Bacteria,Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088,endoglycosidase (EndoBI-1; Blon_2468),ACJ53522.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+P36912,P36912|1of1,14,NA,Bacteria,Elizabethkingia meningoseptica ATCC 33958,endo-β-N-acetylglucosaminidase F2 (EndoF2; Endo F2; Endo-F2),AAA24923.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+A0A650AJ72,A0A650AJ72|1of1,25,NA,Bacteria,Pseudoalteromonas aurantia DSM 6057,endochitinase Chi23,QGN68168.1,pubmed,3.2.1.14,endochitinase,False
+A0A7T7V0M3,A0A7T7V0M3|1of1,41,NA,Bacteria,Elizabethkingia meningoseptica ATCC 33958,endo-β-N-acetylglucosaminidase F3 (EndoF3; Endo F3; Endo-F3),AAA24924.1; WP_034868774.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+P36913,P36913|1of1,41,NA,Bacteria,Elizabethkingia meningoseptica ATCC 33958,endo-β-N-acetylglucosaminidase F3 (EndoF3; Endo F3; Endo-F3),AAA24924.1; WP_034868774.1,pubmed,3.2.1.96,ENGase (N-glycan),True
+A0Q8N1,A0Q8N1|1of1,50,NA,Bacteria,Francisella tularensis subsp. novicida U112,chitinase B (ChiB; FTN_1744),ABB76137.1; ABK90596.1; AJI60276.1,pubmed,3.2.1.14,endochitinase,False
+Q09WI7,Q09WI7|1of1,50,NA,Bacteria,Francisella tularensis subsp. novicida U112,chitinase B (ChiB; FTN_1744),ABB76137.1; ABK90596.1; AJI60276.1,pubmed,3.2.1.14,endochitinase,False
+Q5NE83,Q5NE83|1of1,50,NA,Bacteria,Francisella tularensis subsp. tularensis SCHU S4,chitinase (ChiB; FTT_1768c; FTT1768c),CAG46401.1,pubmed,3.2.1.14,endochitinase,False
+A0A979GQH9,A0A979GQH9|1of2,60,NA,Bacteria,Chitinophaga pinensis DSM 2588,"bimodular endo-β-1,6-glucanase / chitinase (Cpin_2580; CpGlu5N; CpChi18; CpCBM92A; CpCBM92B)",ACU60063.1,pubmed,3.2.1.14,endochitinase,False

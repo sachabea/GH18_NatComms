@@ -1,0 +1,253 @@
+﻿comparison,class_1,class_2,category,count_1,total_1,count_2,total_2,log2_OR,p,FDR
+A vs B,A,B,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,4524,11642,1.2194891810803705,1.0393822652160512e-136,8.185135338576403e-136
+A vs B,A,B,Catalytic partner domains (non-GH18),35,5089,88,11642,-0.13725377129698038,0.6944367282977766,0.7954457069592714
+A vs B,A,B,Cellulosome / cellulolytic apparatus add-ons,0,5089,4,11642,,0.3212571428972775,0.4047840000505697
+A vs B,A,B,DNA/RNA-binding & regulators occasionally fused,0,5089,4,11642,,0.3212571428972775,0.4047840000505697
+A vs B,A,B,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,4330,11642,-1.544028581424866,2.9191230729799592e-161,2.4520633813031656e-160
+A vs B,A,B,Lectins (β-trefoil / jacalin / C-type / others),454,5089,281,11642,1.9855707501626714,6.634382676333017e-72,3.98062960579981e-71
+A vs B,A,B,Outer-layer/periplasmic envelope helpers,0,5089,125,11642,,2.223573916354954e-20,6.592242669664098e-20
+A vs B,A,B,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,43,11642,1.7104164577193366,2.577954345577003e-09,5.459197437692477e-09
+A vs B,A,B,Redox/stress/metal helpers,0,5089,0,11642,,1.0,1.0
+A vs B,A,B,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,8,11642,1.7812615448194824,0.0064939307925497665,0.00974089618882465
+A vs B,A,B,Surface anchoring & secretion/sorting systems,586,5089,1501,11642,-0.18570986704733805,0.013619681938100512,0.01961234199086474
+A vs B,A,B,Unknowns / DUFs / broad structure-only calls,45,5089,734,11642,-2.9150367319264947,2.861129754177875e-68,1.6386470410291466e-67
+A vs C,A,C,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,5327,16183,1.5927136174181102,5.034775736068734e-250,5.767106752224186e-249
+A vs C,A,C,Catalytic partner domains (non-GH18),35,5089,317,16183,-1.528615128489908,2.036153003050461e-11,4.664641425170147e-11
+A vs C,A,C,Cellulosome / cellulolytic apparatus add-ons,0,5089,38,16183,,6.239039257658377e-05,0.0001076875269130076
+A vs C,A,C,DNA/RNA-binding & regulators occasionally fused,0,5089,22,16183,,0.004341083860630073,0.006967854349546359
+A vs C,A,C,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,5992,16183,-1.5337415317272427,6.000300593327786e-172,5.400270533995007e-171
+A vs C,A,C,Lectins (β-trefoil / jacalin / C-type / others),454,5089,394,16183,1.9727752245355756,4.25842292398701e-80,2.751596350883914e-79
+A vs C,A,C,Outer-layer/periplasmic envelope helpers,0,5089,8,16183,,0.21156744586711285,0.27341023773596124
+A vs C,A,C,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,1135,16183,-2.6362240455127037,1.1203995371214633e-72,6.886358130600214e-72
+A vs C,A,C,Redox/stress/metal helpers,0,5089,37,16183,,5.845811456662938e-05,0.00010159617152269382
+A vs C,A,C,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,63,16183,-0.7255138440930531,0.13468479779760378,0.17677379710935495
+A vs C,A,C,Surface anchoring & secretion/sorting systems,586,5089,2238,16183,-0.3024479149803162,1.8004921472314352e-05,3.240885865016583e-05
+A vs C,A,C,Unknowns / DUFs / broad structure-only calls,45,5089,612,16183,-2.1393133270591873,9.64554025900943e-32,3.472394493243395e-31
+A vs D,A,D,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,1685,2974,0.17911984985283574,0.008115923841623556,0.011890772140053118
+A vs D,A,D,Catalytic partner domains (non-GH18),35,5089,13,2974,0.6575021250366531,0.17843153189113353,0.23297795873868213
+A vs D,A,D,Cellulosome / cellulolytic apparatus add-ons,0,5089,0,2974,,1.0,1.0
+A vs D,A,D,DNA/RNA-binding & regulators occasionally fused,0,5089,0,2974,,1.0,1.0
+A vs D,A,D,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,928,2974,-1.159318192251092,3.3176602686933944e-49,1.4929471209120276e-48
+A vs D,A,D,Lectins (β-trefoil / jacalin / C-type / others),454,5089,20,2974,3.854720879655449,7.0877584361413085e-68,3.8828589693643694e-67
+A vs D,A,D,Outer-layer/periplasmic envelope helpers,0,5089,0,2974,,1.0,1.0
+A vs D,A,D,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,2,2974,4.172186803680975,1.9576291034281616e-10,4.327390649683305e-10
+A vs D,A,D,Redox/stress/metal helpers,0,5089,0,2974,,1.0,1.0
+A vs D,A,D,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,0,2974,,0.005328666696038051,0.008238184094488276
+A vs D,A,D,Surface anchoring & secretion/sorting systems,586,5089,320,2974,0.11011065256323421,0.30640428536989717,0.39194862900108673
+A vs D,A,D,Unknowns / DUFs / broad structure-only calls,45,5089,6,2974,2.141813411901102,0.00010437746530547469,0.00017772379227688932
+A vs E,A,E,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,1490,2803,0.38317076310376863,2.266534353199561e-08,4.606182717792657e-08
+A vs E,A,E,Catalytic partner domains (non-GH18),35,5089,2,2803,3.2777993360746978,3.6375839685474096e-05,6.365771944957967e-05
+A vs E,A,E,Cellulosome / cellulolytic apparatus add-ons,0,5089,0,2803,,1.0,1.0
+A vs E,A,E,DNA/RNA-binding & regulators occasionally fused,0,5089,0,2803,,1.0,1.0
+A vs E,A,E,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,1047,2803,-1.5538962242642986,4.7135108303247704e-89,3.210283052004979e-88
+A vs E,A,E,Lectins (β-trefoil / jacalin / C-type / others),454,5089,0,2803,,2.4392740426896217e-90,1.7074918298827353e-89
+A vs E,A,E,Outer-layer/periplasmic envelope helpers,0,5089,0,2803,,1.0,1.0
+A vs E,A,E,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,27,2803,0.31887275355717093,0.3716247294134198,0.46038237833061674
+A vs E,A,E,Redox/stress/metal helpers,0,5089,0,2803,,1.0,1.0
+A vs E,A,E,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,0,2803,,0.006104937369307912,0.009267736247383095
+A vs E,A,E,Surface anchoring & secretion/sorting systems,586,5089,237,2803,0.4946482982718267,1.8857980701404118e-05,3.370362508336055e-05
+A vs E,A,E,Unknowns / DUFs / broad structure-only calls,45,5089,0,2803,,3.636268575219911e-09,7.636164007961814e-09
+A vs F,A,F,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,20,998,6.177378737625277,3.4039116993810223e-301,4.7654763791334314e-300
+A vs F,A,F,Catalytic partner domains (non-GH18),35,5089,43,998,-2.7008347637787957,4.032695094702501e-15,1.0476692410979693e-14
+A vs F,A,F,Cellulosome / cellulolytic apparatus add-ons,0,5089,20,998,,1.6783798053735617e-16,4.547867859721909e-16
+A vs F,A,F,DNA/RNA-binding & regulators occasionally fused,0,5089,0,998,,1.0,1.0
+A vs F,A,F,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,357,998,-1.4555273442792072,6.005190670885229e-38,2.364543826661059e-37
+A vs F,A,F,Lectins (β-trefoil / jacalin / C-type / others),454,5089,41,998,1.1930179736459638,5.905541282944124e-08,1.1811082565888248e-07
+A vs F,A,F,Outer-layer/periplasmic envelope helpers,0,5089,14,998,,9.395048880646703e-12,2.212665717685018e-11
+A vs F,A,F,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,76,998,-2.764336169871869,4.0027884190711353e-26,1.3631117318999002e-25
+A vs F,A,F,Redox/stress/metal helpers,0,5089,2,998,,0.026859037763363423,0.03739490340534576
+A vs F,A,F,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,8,998,-1.7735133290414942,0.010079859562565713,0.014598417297508963
+A vs F,A,F,Surface anchoring & secretion/sorting systems,586,5089,346,998,-2.027813981325244,1.260712065603872e-64,6.618738344420329e-64
+A vs F,A,F,Unknowns / DUFs / broad structure-only calls,45,5089,71,998,-3.1018210548776963,4.056856524378817e-28,1.439898372033045e-27
+A vs G,A,G,Carbohydrate-binding modules (CBMs) — glycan grips,3037,5089,41,13279,8.900461728410807,0.0,0.0
+A vs G,A,G,Catalytic partner domains (non-GH18),35,5089,2658,13279,-5.175420334989208,0.0,0.0
+A vs G,A,G,Cellulosome / cellulolytic apparatus add-ons,0,5089,6,13279,,0.19641773220550915,0.25514055935973357
+A vs G,A,G,DNA/RNA-binding & regulators occasionally fused,0,5089,18,13279,,0.005964554946406831,0.009165047844478788
+A vs G,A,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",859,5089,230,13279,3.526233952951356,1.3843355626747218e-289,1.8360661147054203e-288
+A vs G,A,G,Lectins (β-trefoil / jacalin / C-type / others),454,5089,131,13279,3.297327603320882,9.723454498472354e-144,7.904227527790429e-143
+A vs G,A,G,Outer-layer/periplasmic envelope helpers,0,5089,166,13279,,4.868232520652511e-24,1.5334932440055412e-23
+A vs G,A,G,Peptidoglycan-/cell-wall binding and SH3b group,61,5089,6995,13279,-6.5196724736155405,0.0,0.0
+A vs G,A,G,Redox/stress/metal helpers,0,5089,2,13279,,1.0,1.0
+A vs G,A,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),12,5089,23,13279,0.44599788715597266,0.44894355492089955,0.5439123838464744
+A vs G,A,G,Surface anchoring & secretion/sorting systems,586,5089,2340,13279,-0.717013484142036,2.7474767057944485e-25,9.231521731469347e-25
+A vs G,A,G,Unknowns / DUFs / broad structure-only calls,45,5089,669,13279,-2.572081209424424,2.122030767243009e-49,9.722759151731605e-49
+B vs C,B,C,Carbohydrate-binding modules (CBMs) — glycan grips,4524,11642,5327,16183,0.3732244363377397,1.84329042157567e-24,5.955245977398319e-24
+B vs C,B,C,Catalytic partner domains (non-GH18),88,11642,317,16183,-1.3913613571929275,1.2327146021830421e-17,3.4136712060453476e-17
+B vs C,B,C,Cellulosome / cellulolytic apparatus add-ons,4,11642,38,16183,-2.7756832236935653,5.790203625449791e-06,1.088903965383095e-05
+B vs C,B,C,DNA/RNA-binding & regulators occasionally fused,4,11642,22,16183,-1.9857582988283686,0.005153251297724862,0.008016168685349786
+B vs C,B,C,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4330,11642,5992,16183,0.010287049697623679,0.7819874738094598,0.883680912107551
+B vs C,B,C,Lectins (β-trefoil / jacalin / C-type / others),281,11642,394,16183,-0.012795525627095733,0.9370519190023936,1.0
+B vs C,B,C,Outer-layer/periplasmic envelope helpers,125,11642,8,16183,4.455785030861214,9.428258890458184e-38,3.6552634467622496e-37
+B vs C,B,C,Peptidoglycan-/cell-wall binding and SH3b group,43,11642,1135,16183,-4.34664050323204,1.1261719016553995e-211,1.091520458527541e-210
+B vs C,B,C,Redox/stress/metal helpers,0,11642,37,16183,,2.137446811935053e-09,4.6037315949370374e-09
+B vs C,B,C,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,11642,63,16183,-2.5067753889125353,2.1887868368342708e-08,4.4843437632702136e-08
+B vs C,B,C,Surface anchoring & secretion/sorting systems,1501,11642,2238,16183,-0.11673804793297826,0.024766869074668164,0.03486732406042669
+B vs C,B,C,Unknowns / DUFs / broad structure-only calls,734,11642,612,16183,0.7757234048673074,8.593056739874888e-22,2.60897626319093e-21
+B vs D,B,D,Carbohydrate-binding modules (CBMs) — glycan grips,4524,11642,1685,2974,-1.0403693312275348,4.862694787534946e-68,2.72310908101957e-67
+B vs D,B,D,Catalytic partner domains (non-GH18),88,11642,13,2974,0.7947558963336335,0.06291715009831716,0.08501107478709308
+B vs D,B,D,Cellulosome / cellulolytic apparatus add-ons,4,11642,0,2974,,0.588626815478213,0.699688478775989
+B vs D,B,D,DNA/RNA-binding & regulators occasionally fused,4,11642,0,2974,,0.588626815478213,0.699688478775989
+B vs D,B,D,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4330,11642,928,2974,0.3847103891737741,1.0276945982139851e-09,2.2325779202579674e-09
+B vs D,B,D,Lectins (β-trefoil / jacalin / C-type / others),281,11642,20,2974,1.8691501294927775,3.59803256867784e-11,8.023931038113413e-11
+B vs D,B,D,Outer-layer/periplasmic envelope helpers,125,11642,0,2974,,6.335087286272353e-13,1.6125676728693263e-12
+B vs D,B,D,Peptidoglycan-/cell-wall binding and SH3b group,43,11642,2,2974,2.461770345961638,0.004721447604193003,0.007390091902215135
+B vs D,B,D,Redox/stress/metal helpers,0,11642,0,2974,,1.0,1.0
+B vs D,B,D,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,11642,0,2974,,0.3726904967438326,0.46038237833061674
+B vs D,B,D,Surface anchoring & secretion/sorting systems,1501,11642,320,2974,0.2958205196105724,0.0015057311513686903,0.002496343750953355
+B vs D,B,D,Unknowns / DUFs / broad structure-only calls,734,11642,6,2974,5.056850143827597,6.929305545751741e-65,3.7152872287860403e-64
+B vs E,B,E,Carbohydrate-binding modules (CBMs) — glycan grips,4524,11642,1490,2803,-0.836318417976602,1.1835612762804205e-42,4.734245105121682e-42
+B vs E,B,E,Catalytic partner domains (non-GH18),88,11642,2,2803,3.415053107371678,1.4425420991782493e-06,2.7963123768686063e-06
+B vs E,B,E,Cellulosome / cellulolytic apparatus add-ons,4,11642,0,2803,,1.0,1.0
+B vs E,B,E,DNA/RNA-binding & regulators occasionally fused,4,11642,0,2803,,1.0,1.0
+B vs E,B,E,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4330,11642,1047,2803,-0.009867642839432677,0.8789374502669927,0.9888046315503667
+B vs E,B,E,Lectins (β-trefoil / jacalin / C-type / others),281,11642,0,2803,,5.2703373981590154e-27,1.819349348405578e-26
+B vs E,B,E,Outer-layer/periplasmic envelope helpers,125,11642,0,2803,,3.3510862021185083e-12,8.119939643594847e-12
+B vs E,B,E,Peptidoglycan-/cell-wall binding and SH3b group,43,11642,27,2803,-1.3915437041621657,0.0001940967662428547,0.0003282710408939556
+B vs E,B,E,Redox/stress/metal helpers,0,11642,0,2803,,1.0,1.0
+B vs E,B,E,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,11642,0,2803,,0.3680158924340192,0.45910893511570716
+B vs E,B,E,Surface anchoring & secretion/sorting systems,1501,11642,237,2803,0.6803581653191646,1.9498070828360923e-11,4.507810870410049e-11
+B vs E,B,E,Unknowns / DUFs / broad structure-only calls,734,11642,0,2803,,2.4811516468967217e-71,1.4540702674836603e-70
+B vs F,B,F,Carbohydrate-binding modules (CBMs) — glycan grips,4524,11642,20,998,4.957889556544907,2.4983614113746877e-166,2.170989916091108e-165
+B vs F,B,F,Catalytic partner domains (non-GH18),88,11642,43,998,-2.5635809924818154,1.4201979459772526e-16,3.89010741724204e-16
+B vs F,B,F,Cellulosome / cellulolytic apparatus add-ons,4,11642,20,998,-5.894792970686452,5.809998177078971e-19,1.6637722052544326e-18
+B vs F,B,F,DNA/RNA-binding & regulators occasionally fused,4,11642,0,998,,1.0,1.0
+B vs F,B,F,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4330,11642,357,998,0.08850123714565902,0.39334385480137013,0.4811779194657538
+B vs F,B,F,Lectins (β-trefoil / jacalin / C-type / others),281,11642,41,998,-0.7925527765167076,0.002235069245367376,0.0036812905217815605
+B vs F,B,F,Outer-layer/periplasmic envelope helpers,125,11642,14,998,-0.39053347762438295,0.34037368813654517,0.42673716124581784
+B vs F,B,F,Peptidoglycan-/cell-wall binding and SH3b group,43,11642,76,998,-4.474752627591205,2.0420168847960167e-54,9.709212357898042e-54
+B vs F,B,F,Redox/stress/metal helpers,0,11642,2,998,,0.0062282482090295155,0.009398314662727173
+B vs F,B,F,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,11642,8,998,-3.5547748738609766,1.0649263566423438e-05,1.973245896131402e-05
+B vs F,B,F,Surface anchoring & secretion/sorting systems,1501,11642,346,998,-1.8421041142779058,3.00787566259515e-62,1.546907483620363e-61
+B vs F,B,F,Unknowns / DUFs / broad structure-only calls,734,11642,71,998,-0.18678432295120181,0.31102359478691016,0.3958482115469766
+B vs G,B,G,Carbohydrate-binding modules (CBMs) — glycan grips,4524,11642,41,13279,7.680972547330437,0.0,0.0
+B vs G,B,G,Catalytic partner domains (non-GH18),88,11642,2658,13279,-5.0381665636922275,0.0,0.0
+B vs G,B,G,Cellulosome / cellulolytic apparatus add-ons,4,11642,6,13279,-0.39531116245358544,0.759123270306787,0.8617074960239203
+B vs G,B,G,DNA/RNA-binding & regulators occasionally fused,4,11642,18,13279,-1.981578580765076,0.008863039149813859,0.012910322923428278
+B vs G,B,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",4330,11642,230,13279,5.070262534376222,0.0,0.0
+B vs G,B,G,Lectins (β-trefoil / jacalin / C-type / others),281,11642,131,13279,1.3117568531582104,9.053669403754547e-19,2.56351088735522e-18
+B vs G,B,G,Outer-layer/periplasmic envelope helpers,125,11642,166,13279,-0.22202232874611852,0.21456131874054368,0.2758645526664133
+B vs G,B,G,Peptidoglycan-/cell-wall binding and SH3b group,43,11642,6995,13279,-8.230088931334878,0.0,0.0
+B vs G,B,G,Redox/stress/metal helpers,0,11642,2,13279,,0.5021374509742923,0.6025649411691507
+B vs G,B,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,11642,23,13279,-1.3352636576635097,0.01963512762419082,0.027955096956475065
+B vs G,B,G,Surface anchoring & secretion/sorting systems,1501,11642,2340,13279,-0.531303617094698,3.9871031855601693e-25,1.3220394773173193e-24
+B vs G,B,G,Unknowns / DUFs / broad structure-only calls,734,11642,669,13279,0.3429555225020707,1.7041462349870956e-05,3.089531303717612e-05
+C vs D,C,D,Carbohydrate-binding modules (CBMs) — glycan grips,5327,16183,1685,2974,-1.4135937675652746,7.661651621004545e-130,5.678635907332781e-129
+C vs D,C,D,Catalytic partner domains (non-GH18),317,16183,13,2974,2.186117253526561,1.9264170396824014e-11,4.4949730925922703e-11
+C vs D,C,D,Cellulosome / cellulolytic apparatus add-ons,38,16183,0,2974,,0.002730079825587547,0.004438581393858464
+C vs D,C,D,DNA/RNA-binding & regulators occasionally fused,22,16183,0,2974,,0.038268328430279316,0.052697370297433814
+C vs D,C,D,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5992,16183,928,2974,0.3744233394761505,9.937244457674549e-10,2.1775526985512927e-09
+C vs D,C,D,Lectins (β-trefoil / jacalin / C-type / others),394,16183,20,2974,1.8819456551198732,8.590865260388477e-12,2.042356646809336e-11
+C vs D,C,D,Outer-layer/periplasmic envelope helpers,8,16183,0,2974,,0.6186748888108439,0.7217873702793178
+C vs D,C,D,Peptidoglycan-/cell-wall binding and SH3b group,1135,16183,2,2974,6.808410849193678,2.9575108710102627e-82,1.9612966828804898e-81
+C vs D,C,D,Redox/stress/metal helpers,37,16183,0,2974,,0.004614586057930341,0.007267973041240286
+C vs D,C,D,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),63,16183,0,2974,,3.492123428861516e-05,6.15395177673498e-05
+C vs D,C,D,Surface anchoring & secretion/sorting systems,2238,16183,320,2974,0.4125585675435504,4.051587183911253e-06,7.676691506358165e-06
+C vs D,C,D,Unknowns / DUFs / broad structure-only calls,612,16183,6,2974,4.281126738960289,5.591950985063455e-37,2.1032412660238666e-36
+C vs E,C,E,Carbohydrate-binding modules (CBMs) — glycan grips,5327,16183,1490,2803,-1.2095428543143416,5.727823010955129e-91,4.124032567887694e-90
+C vs E,C,E,Catalytic partner domains (non-GH18),317,16183,2,2803,4.806414464564606,1.4279014986299294e-19,4.1840834611016537e-19
+C vs E,C,E,Cellulosome / cellulolytic apparatus add-ons,38,16183,0,2803,,0.00451963629497735,0.0071631971467565544
+C vs E,C,E,DNA/RNA-binding & regulators occasionally fused,22,16183,0,2803,,0.06372476732295587,0.08541830513502595
+C vs E,C,E,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5992,16183,1047,2803,-0.02015469253705622,0.7507367568086816,0.8560437226958721
+C vs E,C,E,Lectins (β-trefoil / jacalin / C-type / others),394,16183,0,2803,,4.516277007880301e-28,1.5806969527581053e-27
+C vs E,C,E,Outer-layer/periplasmic envelope helpers,8,16183,0,2803,,0.6138683157408232,0.7195107700776161
+C vs E,C,E,Peptidoglycan-/cell-wall binding and SH3b group,1135,16183,27,2803,2.9550967990698744,5.417050430192998e-49,2.3949065059800622e-48
+C vs E,C,E,Redox/stress/metal helpers,37,16183,0,2803,,0.00438269955934492,0.006990128411107088
+C vs E,C,E,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),63,16183,0,2803,,9.692567900014421e-05,0.00016615830685739005
+C vs E,C,E,Surface anchoring & secretion/sorting systems,2238,16183,237,2803,0.7970962132521429,3.8534221637505216e-16,1.0330450907075865e-15
+C vs E,C,E,Unknowns / DUFs / broad structure-only calls,612,16183,0,2803,,1.3483223448490008e-43,5.5701185393761994e-43
+C vs F,C,F,Carbohydrate-binding modules (CBMs) — glycan grips,5327,16183,20,998,4.584665120207167,1.2852514198856022e-132,9.814647206399145e-132
+C vs F,C,F,Catalytic partner domains (non-GH18),317,16183,43,998,-1.1722196352888876,6.469424267389686e-06,1.2076258632460748e-05
+C vs F,C,F,Cellulosome / cellulolytic apparatus add-ons,38,16183,20,998,-3.119109746992886,3.550232347183467e-11,7.9880227811628e-11
+C vs F,C,F,DNA/RNA-binding & regulators occasionally fused,22,16183,0,998,,0.6361429188218587,0.7353578694637999
+C vs F,C,F,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5992,16183,357,998,0.07821418744803535,0.43720310632052317,0.532247259868463
+C vs F,C,F,Lectins (β-trefoil / jacalin / C-type / others),394,16183,41,998,-0.779757250889612,0.002398529739688804,0.003924866846763498
+C vs F,C,F,Outer-layer/periplasmic envelope helpers,8,16183,14,998,-4.846318508485597,9.410633953838295e-13,2.347999758779456e-12
+C vs F,C,F,Peptidoglycan-/cell-wall binding and SH3b group,1135,16183,76,998,-0.12811212435916533,0.48306748123348675,0.5824545706738692
+C vs F,C,F,Redox/stress/metal helpers,37,16183,2,998,0.19056612133545717,1.0,1.0
+C vs F,C,F,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),63,16183,8,998,-1.0479994849484413,0.06708641135476624,0.08944854847302167
+C vs F,C,F,Surface anchoring & secretion/sorting systems,2238,16183,346,998,-1.7253660663449277,4.1703427601962563e-57,2.0210122607104933e-56
+C vs F,C,F,Unknowns / DUFs / broad structure-only calls,612,16183,71,998,-0.9625077278185091,1.5745993145840845e-06,3.029000208207552e-06
+C vs G,C,G,Carbohydrate-binding modules (CBMs) — glycan grips,5327,16183,41,13279,7.307748110992697,0.0,0.0
+C vs G,C,G,Catalytic partner domains (non-GH18),317,16183,2658,13279,-3.6468052064992995,0.0,0.0
+C vs G,C,G,Cellulosome / cellulolytic apparatus add-ons,38,16183,6,13279,2.3803720612399797,1.2281840424717137e-05,2.2591414503859256e-05
+C vs G,C,G,DNA/RNA-binding & regulators occasionally fused,22,16183,18,13279,0.004179718063292667,1.0,1.0
+C vs G,C,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",5992,16183,230,13279,5.059975484678598,0.0,0.0
+C vs G,C,G,Lectins (β-trefoil / jacalin / C-type / others),394,16183,131,13279,1.3245523787853062,7.915857626480307e-22,2.4326781974061435e-21
+C vs G,C,G,Outer-layer/periplasmic envelope helpers,8,16183,166,13279,-4.677807359607332,3.185257714816574e-47,1.3839395588513391e-46
+C vs G,C,G,Peptidoglycan-/cell-wall binding and SH3b group,1135,16183,6995,13279,-3.883448428102837,0.0,0.0
+C vs G,C,G,Redox/stress/metal helpers,37,16183,2,13279,3.927205768659695,4.34300659002846e-08,8.755501285497376e-08
+C vs G,C,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),63,16183,23,13279,1.1715117312490257,0.0006767434078304973,0.0011369289251552353
+C vs G,C,G,Surface anchoring & secretion/sorting systems,2238,16183,2340,13279,-0.4145655691617199,4.94892141752202e-19,1.433480686454654e-18
+C vs G,C,G,Unknowns / DUFs / broad structure-only calls,612,16183,669,13279,-0.43276788236523656,1.6710070795183687e-07,3.315699086918338e-07
+D vs E,D,E,Carbohydrate-binding modules (CBMs) — glycan grips,1685,2974,1490,2803,0.2040509132509329,0.007554755993195144,0.011265079942515835
+D vs E,D,E,Catalytic partner domains (non-GH18),13,2974,2,2803,2.6202972110380447,0.007678069074873044,0.011381608275694158
+D vs E,D,E,Cellulosome / cellulolytic apparatus add-ons,0,2974,0,2803,,1.0,1.0
+D vs E,D,E,DNA/RNA-binding & regulators occasionally fused,0,2974,0,2803,,1.0,1.0
+D vs E,D,E,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",928,2974,1047,2803,-0.3945780320132068,8.955224808702577e-07,1.7493927533279453e-06
+D vs E,D,E,Lectins (β-trefoil / jacalin / C-type / others),20,2974,0,2803,,2.1616825942765793e-06,4.12684858907347e-06
+D vs E,D,E,Outer-layer/periplasmic envelope helpers,0,2974,0,2803,,1.0,1.0
+D vs E,D,E,Peptidoglycan-/cell-wall binding and SH3b group,2,2974,27,2803,-3.853314050123804,4.7622721318765636e-07,9.375723259631984e-07
+D vs E,D,E,Redox/stress/metal helpers,0,2974,0,2803,,1.0,1.0
+D vs E,D,E,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),0,2974,0,2803,,1.0,1.0
+D vs E,D,E,Surface anchoring & secretion/sorting systems,320,2974,237,2803,0.3845376457085923,0.003225165787331544,0.005209883194920187
+D vs E,D,E,Unknowns / DUFs / broad structure-only calls,6,2974,0,2803,,0.0315795956458003,0.043725593971108104
+D vs F,D,F,Carbohydrate-binding modules (CBMs) — glycan grips,1685,2974,20,998,5.998258887772441,1.784516319623371e-253,2.1414195835480452e-252
+D vs F,D,F,Catalytic partner domains (non-GH18),13,2974,43,998,-3.358336888815449,4.467817723235262e-16,1.1851474381634589e-15
+D vs F,D,F,Cellulosome / cellulolytic apparatus add-ons,0,2974,20,998,,8.709823983041358e-13,2.1948756437264223e-12
+D vs F,D,F,DNA/RNA-binding & regulators occasionally fused,0,2974,0,998,,1.0,1.0
+D vs F,D,F,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",928,2974,357,998,-0.2962091520281152,0.007863928141051819,0.011588946734181628
+D vs F,D,F,Lectins (β-trefoil / jacalin / C-type / others),20,2974,41,998,-2.661702906009485,3.713868526366074e-12,8.913284463278578e-12
+D vs F,D,F,Outer-layer/periplasmic envelope helpers,0,2974,14,998,,3.731466867016184e-09,7.77131942552131e-09
+D vs F,D,F,Peptidoglycan-/cell-wall binding and SH3b group,2,2974,76,998,-6.936522973552844,4.972300418853874e-44,2.0883661759186274e-43
+D vs F,D,F,Redox/stress/metal helpers,0,2974,2,998,,0.06308361502058098,0.08501107478709308
+D vs F,D,F,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),0,2974,8,998,,1.555315787007433e-05,2.840141871926617e-05
+D vs F,D,F,Surface anchoring & secretion/sorting systems,320,2974,346,998,-2.137924633888478,3.0644445787439022e-61,1.5444800676869266e-60
+D vs F,D,F,Unknowns / DUFs / broad structure-only calls,6,2974,71,998,-5.243634466778798,1.790350331874766e-36,6.634827700477073e-36
+D vs G,D,G,Carbohydrate-binding modules (CBMs) — glycan grips,1685,2974,41,13279,8.721341878557972,0.0,0.0
+D vs G,D,G,Catalytic partner domains (non-GH18),13,2974,2658,13279,-5.832922460025861,9.000691847270978e-232,9.450726439634526e-231
+D vs G,D,G,Cellulosome / cellulolytic apparatus add-ons,0,2974,6,13279,,0.6002470983345833,0.7068330316837149
+D vs G,D,G,DNA/RNA-binding & regulators occasionally fused,0,2974,18,13279,,0.059380909682747174,0.08088642832460696
+D vs G,D,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",928,2974,230,13279,4.685552145202448,0.0,0.0
+D vs G,D,G,Lectins (β-trefoil / jacalin / C-type / others),20,2974,131,13279,-0.557393276334567,0.11314619146242172,0.14928188611795956
+D vs G,D,G,Outer-layer/periplasmic envelope helpers,0,2974,166,13279,,3.425021986940453e-15,8.99068271571869e-15
+D vs G,D,G,Peptidoglycan-/cell-wall binding and SH3b group,2,2974,6995,13279,-10.691859277296516,0.0,0.0
+D vs G,D,G,Redox/stress/metal helpers,0,2974,2,13279,,1.0,1.0
+D vs G,D,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),0,2974,23,13279,,0.014170082742080946,0.020288982107979536
+D vs G,D,G,Surface anchoring & secretion/sorting systems,320,2974,2340,13279,-0.8271241367052702,1.7165231727371238e-21,5.149569518211371e-21
+D vs G,D,G,Unknowns / DUFs / broad structure-only calls,6,2974,669,13279,-4.713894621325526,1.0505097431310775e-50,4.902378801278362e-50
+E vs F,E,F,Carbohydrate-binding modules (CBMs) — glycan grips,1490,2803,20,998,5.794207974521508,8.56436249183051e-227,8.632877391765154e-226
+E vs F,E,F,Catalytic partner domains (non-GH18),2,2803,43,998,-5.978634099853493,3.016948955892408e-23,9.386063418331937e-23
+E vs F,E,F,Cellulosome / cellulolytic apparatus add-ons,0,2803,20,998,,2.104624030169507e-12,5.149177238861319e-12
+E vs F,E,F,DNA/RNA-binding & regulators occasionally fused,0,2803,0,998,,1.0,1.0
+E vs F,E,F,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1047,2803,357,998,0.09836887998509153,0.3800064579128581,0.4671298897270255
+E vs F,E,F,Lectins (β-trefoil / jacalin / C-type / others),0,2803,41,998,,8.333034091612259e-25,2.7271747936185575e-24
+E vs F,E,F,Outer-layer/periplasmic envelope helpers,0,2803,14,998,,6.9165168287165285e-09,1.428657574456201e-08
+E vs F,E,F,Peptidoglycan-/cell-wall binding and SH3b group,27,2803,76,998,-3.08320892342904,2.020102207648086e-24,6.443870333257186e-24
+E vs F,E,F,Redox/stress/metal helpers,0,2803,2,998,,0.06888810423849677,0.0913673803584273
+E vs F,E,F,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),0,2803,8,998,,2.2123174781673938e-05,3.9260845387196004e-05
+E vs F,E,F,Surface anchoring & secretion/sorting systems,237,2803,346,998,-2.5224622795970704,7.431078365477949e-77,4.681579370251108e-76
+E vs F,E,F,Unknowns / DUFs / broad structure-only calls,0,2803,71,998,,8.778801441572206e-43,3.568158005284187e-42
+E vs G,E,G,Carbohydrate-binding modules (CBMs) — glycan grips,1490,2803,41,13279,8.517290965307039,0.0,0.0
+E vs G,E,G,Catalytic partner domains (non-GH18),2,2803,2658,13279,-8.453219671063906,2.867792784206847e-239,3.142103398348372e-238
+E vs G,E,G,Cellulosome / cellulolytic apparatus add-ons,0,2803,6,13279,,0.598543137005343,0.7068330316837149
+E vs G,E,G,DNA/RNA-binding & regulators occasionally fused,0,2803,18,13279,,0.057676050096493875,0.07899111208867639
+E vs G,E,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",1047,2803,230,13279,5.080130177215654,0.0,0.0
+E vs G,E,G,Lectins (β-trefoil / jacalin / C-type / others),0,2803,131,13279,,2.116961937742735e-11,4.806075750551074e-11
+E vs G,E,G,Outer-layer/periplasmic envelope helpers,0,2803,166,13279,,2.9374136037114623e-14,7.553349266686616e-14
+E vs G,E,G,Peptidoglycan-/cell-wall binding and SH3b group,27,2803,6995,13279,-6.838545227172712,0.0,0.0
+E vs G,E,G,Redox/stress/metal helpers,0,2803,2,13279,,1.0,1.0
+E vs G,E,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),0,2803,23,13279,,0.023651534911084644,0.033484195492097364
+E vs G,E,G,Surface anchoring & secretion/sorting systems,237,2803,2340,13279,-1.2116617824138627,1.821688267552537e-37,6.955537021564232e-37
+E vs G,E,G,Unknowns / DUFs / broad structure-only calls,0,2803,669,13279,,1.9043982429878007e-57,9.409967788880898e-57
+F vs G,F,G,Carbohydrate-binding modules (CBMs) — glycan grips,20,998,41,13279,2.7230829907855307,2.5525701738992787e-09,5.4512515578187984e-09
+F vs G,F,G,Catalytic partner domains (non-GH18),43,998,2658,13279,-2.474585571210412,8.238691576087213e-45,3.518898774871149e-44
+F vs G,F,G,Cellulosome / cellulolytic apparatus add-ons,20,998,6,13279,5.499481808232866,9.967342473314737e-19,2.790855892528126e-18
+F vs G,F,G,DNA/RNA-binding & regulators occasionally fused,0,998,18,13279,,0.6327554633836402,0.7348127961874532
+F vs G,F,G,"Ig-like & related β-sandwich scaffolds (adhesion, spacing)",357,998,230,13279,4.981761297230563,1.6460675697901712e-278,2.0740451379356158e-277
+F vs G,F,G,Lectins (β-trefoil / jacalin / C-type / others),41,998,131,13279,2.1043096296749177,1.9816635274240006e-12,4.895874597165178e-12
+F vs G,F,G,Outer-layer/periplasmic envelope helpers,14,998,166,13279,0.16851114887826432,0.6579572084402847,0.7571014453285467
+F vs G,F,G,Peptidoglycan-/cell-wall binding and SH3b group,76,998,6995,13279,-3.7553363037436718,1.2317828415089712e-193,1.1496639854083731e-192
+F vs G,F,G,Redox/stress/metal helpers,2,998,2,13279,3.7366396473242376,0.026637249388649524,0.03729214914410933
+F vs G,F,G,Repeat/stalk & coiled-coil/IDRs (mechanical spacing),8,998,23,13279,2.219511216197467,0.0010273013531779428,0.001714436695369812
+F vs G,F,G,Surface anchoring & secretion/sorting systems,346,998,2340,13279,1.3108004971832077,6.825828250901352e-35,2.492911187285711e-34
+F vs G,F,G,Unknowns / DUFs / broad structure-only calls,71,998,669,13279,0.5297398454532725,0.006033956839442062,0.009215497718420604

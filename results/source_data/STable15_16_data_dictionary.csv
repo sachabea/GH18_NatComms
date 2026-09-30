@@ -1,0 +1,15 @@
+﻿file,column,description
+tree_tip_traits_654.csv,tip_label,Tip label in tree_reference_771.nwk
+tree_tip_traits_654.csv,clade,Phylogenetic group: clade1–clade5 = Groups I–V (phyloglm reference = clade1)
+tree_tip_traits_654.csv,cluster,SSN cluster label
+tree_tip_traits_654.csv,is_12,1 = SSN Cluster 1.2 (predictor in promiscuous ~ is_12)
+tree_tip_traits_654.csv,indel_class,Indel class A–G (not used in Tables 15–16)
+tree_tip_traits_654.csv,phylum,Phylum; missing for 24 tips. The script builds one-vs-rest traits for phyla with >= 15 tips (n = 630)
+tree_tip_traits_654.csv,SP_final,Signal-peptide class: SP / LIPO / TAT / OTHER
+tree_tip_traits_654.csv,secreted,"1 = SP_final in SP, LIPO, TAT. Pagel test uses clade5 vs (secreted == 0)"
+tree_tip_traits_654.csv,promiscuous,1 = carries >= 1 promiscuous auxiliary domain (response/trait)
+tree_tip_traits_654.csv,promisc_stricter,Stricter promiscuity flag (not used in Tables 15–16)
+tree_tip_traits_654.csv,mean_promiscuity,Mean phi of auxiliary domains (not used in Tables 15–16)
+tree_tip_traits_654.csv,cat_*,1 = carries >= 1 auxiliary domain of that functional category (coarse scheme)
+STable15_derived_within_group_divergence.csv,cat_div,Mean patristic distance (substitutions/site) from the tip to all other tips of its group
+STable15_derived_within_group_divergence.csv,group,Group label I–V as used in the tables

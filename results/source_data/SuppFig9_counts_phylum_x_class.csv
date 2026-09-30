@@ -1,0 +1,121 @@
+﻿phylum,A,B,C,D,E,F,G
+Abditibacteriota,0,0,2,0,0,0,1
+Acidobacteriota,3,38,72,53,1,2,233
+Actinomycetota,2880,4117,957,1776,2414,11,652
+Armatimonadota,0,0,14,0,0,1,41
+Bacillota,98,799,1986,3,2,4,7364
+Bacteroidota,0,877,2009,1,0,356,599
+Balneolota,0,0,8,0,0,2,2
+Bdellovibrionota,3,3,6,0,0,1,2
+Caldifarciminota,0,0,0,0,0,17,0
+Calditrichota,0,0,14,0,0,23,2
+Campylobacterota,0,0,6,1,0,0,1
+Candidatus Abawacaibacteriota,0,0,0,0,0,0,1
+Candidatus Absconditibacteriota,0,0,0,0,0,0,1
+Candidatus Adleribacteriota,0,0,0,0,0,0,8
+Candidatus Aerophobota,0,1,0,0,0,0,0
+Candidatus Altimarinota,0,0,0,0,0,0,6
+Candidatus Aminicenantota,0,0,9,0,0,0,0
+Candidatus Anderseniibacteriota,0,0,0,0,0,0,1
+Candidatus Azamiibacteriota,0,0,0,0,0,0,5
+Candidatus Bathyarchaeota,0,0,0,0,0,1,2
+Candidatus Beckwithiibacteriota,0,0,0,0,0,10,0
+Candidatus Berkelbacteria,0,0,0,0,0,0,2
+Candidatus Bipolaricaulota,0,0,1,0,0,0,0
+Candidatus Blackburniibacteriota,0,0,0,0,0,3,0
+Candidatus Cerribacteria,0,0,0,0,0,1,0
+Candidatus Chisholmiibacteriota,0,0,0,0,0,3,3
+Candidatus Cloacimonadota,0,0,1,0,0,3,0
+Candidatus Collieribacteriota,2,0,0,0,0,28,0
+Candidatus Colwelliibacteriota,0,0,0,0,0,0,1
+Candidatus Curtissiibacteriota,0,0,0,0,0,6,4
+Candidatus Daviesiibacteriota,0,0,0,0,0,12,0
+Candidatus Dormiibacterota,0,0,0,0,0,7,2
+Candidatus Doudnaibacteriota,0,0,0,0,0,0,2
+Candidatus Edwardsiibacteriota,0,0,0,0,0,3,0
+Candidatus Eiseniibacteriota,1,0,1,0,0,0,3
+Candidatus Falkowiibacteriota,0,0,0,0,0,1,3
+Candidatus Fermentibacterota,0,0,0,0,0,5,0
+Candidatus Giovannoniibacteriota,0,0,0,0,0,0,17
+Candidatus Gottesmaniibacteriota,0,0,0,0,0,10,9
+Candidatus Handelsmaniibacteriota,0,0,0,0,0,2,0
+Candidatus Heimdallarchaeota,0,0,0,0,0,0,1
+Candidatus Hydrogenedentota,0,0,2,0,0,2,0
+Candidatus Hydrothermota,0,0,0,0,0,2,0
+Candidatus Joergenseniibacteriota,0,0,0,0,0,0,2
+Candidatus Kaiseribacteriota,0,0,0,0,0,0,51
+Candidatus Kryptoniota,0,0,0,0,0,0,5
+Candidatus Latescibacterota,0,0,3,0,0,2,0
+Candidatus Levyibacteriota,0,0,0,0,0,29,8
+Candidatus Liptoniibacteriota,0,0,0,0,0,0,4
+Candidatus Lloydiibacteriota,0,0,0,0,0,0,1
+Candidatus Margulisiibacteriota,0,0,3,0,0,0,0
+Candidatus Melainabacteria,0,0,0,0,0,0,4
+Candidatus Methylomirabilota,0,0,0,0,0,0,6
+Candidatus Microgenomatota,0,0,0,0,0,5,2
+Candidatus Moraniibacteriota,3,0,0,0,0,2,10
+Candidatus Niyogiibacteriota,0,0,0,0,0,0,3
+Candidatus Nomuraibacteriota,0,0,0,0,0,0,4
+Candidatus Omnitrophota,0,0,0,0,0,0,4
+Candidatus Parcubacteria,0,0,0,0,0,1,14
+Candidatus Peregrinibacteriota,0,1,0,0,0,0,10
+Candidatus Poribacteria,0,1,4,0,0,0,0
+Candidatus Rifleibacteriota,0,0,0,0,0,0,1
+Candidatus Roizmaniibacteriota,0,1,0,0,0,37,21
+Candidatus Rokuibacteriota,0,0,0,0,0,0,2
+Candidatus Ryaniibacteriota,0,0,0,0,0,0,2
+Candidatus Saccharimonadota,1,1,3,0,0,0,1
+Candidatus Schekmaniibacteriota,0,1,0,0,0,0,0
+Candidatus Shapironibacteriota,0,0,0,0,0,7,1
+Candidatus Stahliibacteriota,0,0,0,0,0,4,0
+Candidatus Staskawicziibacteriota,0,0,0,0,0,0,7
+Candidatus Sumerlaeota,0,0,3,0,0,9,0
+Candidatus Sungiibacteriota,0,0,0,0,0,0,1
+Candidatus Sysuimicrobiota,0,0,0,0,0,0,7
+Candidatus Tagaibacteriota,0,0,0,0,0,0,1
+Candidatus Tayloriibacteriota,0,0,0,0,0,0,6
+Candidatus Vogeliibacteriota,0,0,0,0,0,0,6
+Candidatus Woesearchaeota,0,0,1,0,0,0,2
+Candidatus Woeseibacteriota,0,0,0,0,0,10,9
+Candidatus Wolfeibacteriota,0,0,0,0,0,0,2
+Candidatus Woykeibacteriota,0,0,0,0,0,0,6
+Candidatus Yonathiibacteriota,0,0,0,0,0,0,8
+Candidatus Zixiibacteriota,0,0,1,0,0,2,0
+Chlamydiota,0,15,15,0,0,0,0
+Chlorobiota,0,1,2,0,0,6,0
+Chloroflexota,26,90,90,31,8,165,311
+Chrysiogenota,0,1,0,0,0,0,1
+Cyanobacteriota,3,17,83,0,0,0,6
+Deinococcota,0,10,12,16,0,0,9
+Dictyoglomota,0,0,8,0,0,1,1
+Elusimicrobiota,0,0,2,0,0,0,3
+Fibrobacterota,0,0,55,0,0,0,1
+Fidelibacterota,0,0,32,0,0,67,3
+Fusobacteriota,0,4,6,0,0,0,1
+Gemmatimonadota,1,0,25,1,0,14,50
+Ignavibacteriota,0,12,52,9,0,60,6
+Kiritimatiellota,0,1,3,0,0,0,10
+Lentisphaerota,2,6,7,0,0,3,8
+Methanobacteriota,52,1,141,0,0,17,13
+Minisyncoccota,0,0,1,0,0,21,3
+Mycoplasmatota,1,34,55,1,0,0,14
+Myxococcota,1,81,195,55,6,37,33
+Nanobdellota,0,0,0,0,0,0,1
+Nitrososphaerota,0,0,7,0,0,0,0
+Nitrospirota,0,0,2,0,0,0,7
+Planctomycetota,11,14,135,0,0,16,18
+Promethearchaeota,0,0,0,0,0,1,0
+Pseudomonadota,270,1442,4330,415,36,21,641
+Rhodothermota,0,0,21,0,0,4,3
+Spirochaetota,0,7,25,0,0,1,391
+Synergistota,0,0,0,0,0,0,16
+Thermodesulfobacteriota,0,0,4,3,0,1,12
+Thermodesulfobiota,0,0,0,0,0,0,2
+Thermomicrobiota,0,0,0,0,0,1,12
+Thermoplasmatota,0,0,0,0,0,2,7
+Thermoproteota,0,0,0,0,0,0,21
+Thermotogota,0,0,2,0,0,0,3
+Verrucomicrobiota,0,15,74,1,0,14,129
+Vulcanimicrobiota,0,1,0,0,0,0,1
+candidate division CPR3,0,0,0,0,0,0,1
+candidate division WWE3,0,0,0,0,0,39,6
