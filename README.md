@@ -13,6 +13,8 @@ We mapped the sequence space of prokaryotic GH18 chitinases (39,582 UniProt sequ
 
 This repository holds the **custom analysis code** and the **derived tables small enough to version**. Large primary matrices, full IQ-TREE run directories and the SSN node/edge tables live at Zenodo; raw sequences come from public repositories. See [Where everything lives](#where-everything-lives).
 
+## Note the GH18 HMM library lives in supp_data_files/251115_CIDlibrary_1and0.hmm
+
 ## Where everything lives
 
 | What | Where |
